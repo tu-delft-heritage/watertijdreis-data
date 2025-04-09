@@ -1,10 +1,10 @@
 server:
-  url: http://localhost:7111
+  url: https://tu-delft-heritage.github.io/watertijdreis-data
 
 # Run these everywhere.
 run:
   - folder-collections
-  # - flat-manifests
+  - flat-manifests
   # - extract-remote-source
   # - extract-slug-source
   # - extract-part-of-collection

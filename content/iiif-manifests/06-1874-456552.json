@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:7111/manifests/content/iiif-manifests/1874-456552/manifest.json",
+  "id": "https://tu-delft-heritage.github.io/watertijdreis-data/manifests/06-1874-456552/manifest.json",
   "type": "Manifest",
   "label": {
     "none": [
@@ -10,38 +10,56 @@
   "metadata": [
     {
       "label": {
-        "none": ["Title"]
+        "none": [
+          "Title"
+        ]
       },
       "value": {
-        "none": ["Waterstaatskaart van Nederland"]
+        "none": [
+          "Waterstaatskaart van Nederland"
+        ]
       }
     },
     {
       "label": {
-        "none": ["Published"]
+        "none": [
+          "Published"
+        ]
       },
       "value": {
-        "none": ["1963"]
+        "none": [
+          "1963"
+        ]
       }
     },
     {
       "label": {
-        "none": ["Format"]
+        "none": [
+          "Format"
+        ]
       },
       "value": {
-        "none": ["Map"]
+        "none": [
+          "Map"
+        ]
       }
     }
   ],
   "summary": {
-    "none": ["Summary not supplied"]
+    "none": [
+      "Summary not supplied"
+    ]
   },
   "requiredStatement": {
     "label": {
-      "en": ["Attribution"]
+      "en": [
+        "Attribution"
+      ]
     },
     "value": {
-      "en": ["University Utrecht Library - Special Collections "]
+      "en": [
+        "University Utrecht Library - Special Collections "
+      ]
     }
   },
   "rendering": [
@@ -49,7 +67,9 @@
       "id": "https://objects.library.uu.nl/reader/index.php?obj=1874-456552",
       "type": "Text",
       "label": {
-        "none": ["View at University Utrecht Library"]
+        "none": [
+          "View at University Utrecht Library"
+        ]
       }
     },
     {
@@ -57,14 +77,18 @@
       "type": "Text",
       "format": "application/pdf",
       "label": {
-        "none": ["Download as PDF"]
+        "none": [
+          "Download as PDF"
+        ]
       }
     },
     {
       "id": "https://www.worldcat.org/oclc/1450555066",
       "type": "Text",
       "label": {
-        "none": ["View in WorldCat catalogue"]
+        "none": [
+          "View in WorldCat catalogue"
+        ]
       }
     }
   ],
@@ -81,7 +105,9 @@
       "height": 6668,
       "width": 8210,
       "label": {
-        "none": ["1"]
+        "none": [
+          "1"
+        ]
       },
       "items": [
         {
@@ -118,7 +144,9 @@
       "height": 6640,
       "width": 8200,
       "label": {
-        "none": ["2"]
+        "none": [
+          "2"
+        ]
       },
       "items": [
         {
@@ -155,7 +183,9 @@
       "height": 6625,
       "width": 8211,
       "label": {
-        "none": ["3"]
+        "none": [
+          "3"
+        ]
       },
       "items": [
         {
@@ -192,7 +222,9 @@
       "height": 6662,
       "width": 8210,
       "label": {
-        "none": ["4"]
+        "none": [
+          "4"
+        ]
       },
       "items": [
         {
@@ -229,7 +261,9 @@
       "height": 6126,
       "width": 7814,
       "label": {
-        "none": ["5"]
+        "none": [
+          "5"
+        ]
       },
       "items": [
         {
@@ -266,7 +300,9 @@
       "height": 6112,
       "width": 10724,
       "label": {
-        "none": ["6"]
+        "none": [
+          "6"
+        ]
       },
       "items": [
         {
@@ -303,7 +339,9 @@
       "height": 6116,
       "width": 7843,
       "label": {
-        "none": ["7"]
+        "none": [
+          "7"
+        ]
       },
       "items": [
         {
@@ -340,7 +378,9 @@
       "height": 6654,
       "width": 8200,
       "label": {
-        "none": ["8"]
+        "none": [
+          "8"
+        ]
       },
       "items": [
         {
@@ -377,7 +417,9 @@
       "height": 6636,
       "width": 8202,
       "label": {
-        "none": ["9"]
+        "none": [
+          "9"
+        ]
       },
       "items": [
         {
@@ -414,7 +456,9 @@
       "height": 6655,
       "width": 8229,
       "label": {
-        "none": ["10"]
+        "none": [
+          "10"
+        ]
       },
       "items": [
         {
@@ -451,7 +495,9 @@
       "height": 6650,
       "width": 8209,
       "label": {
-        "none": ["11"]
+        "none": [
+          "11"
+        ]
       },
       "items": [
         {

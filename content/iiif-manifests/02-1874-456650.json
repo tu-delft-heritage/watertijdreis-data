@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:7111/manifests/content/iiif-manifests/1874-456650/manifest.json",
+  "id": "https://tu-delft-heritage.github.io/watertijdreis-data/manifests/02-1874-456650/manifest.json",
   "type": "Manifest",
   "label": {
     "none": [
@@ -10,38 +10,56 @@
   "metadata": [
     {
       "label": {
-        "none": ["Title"]
+        "none": [
+          "Title"
+        ]
       },
       "value": {
-        "none": ["Waterstaatskaart van Nederland"]
+        "none": [
+          "Waterstaatskaart van Nederland"
+        ]
       }
     },
     {
       "label": {
-        "none": ["Published"]
+        "none": [
+          "Published"
+        ]
       },
       "value": {
-        "none": ["1882"]
+        "none": [
+          "1882"
+        ]
       }
     },
     {
       "label": {
-        "none": ["Format"]
+        "none": [
+          "Format"
+        ]
       },
       "value": {
-        "none": ["Map"]
+        "none": [
+          "Map"
+        ]
       }
     }
   ],
   "summary": {
-    "none": ["Summary not supplied"]
+    "none": [
+      "Summary not supplied"
+    ]
   },
   "requiredStatement": {
     "label": {
-      "en": ["Attribution"]
+      "en": [
+        "Attribution"
+      ]
     },
     "value": {
-      "en": ["University Utrecht Library - Special Collections "]
+      "en": [
+        "University Utrecht Library - Special Collections "
+      ]
     }
   },
   "rendering": [
@@ -49,7 +67,9 @@
       "id": "https://objects.library.uu.nl/reader/index.php?obj=1874-456650",
       "type": "Text",
       "label": {
-        "none": ["View at University Utrecht Library"]
+        "none": [
+          "View at University Utrecht Library"
+        ]
       }
     },
     {
@@ -57,14 +77,18 @@
       "type": "Text",
       "format": "application/pdf",
       "label": {
-        "none": ["Download as PDF"]
+        "none": [
+          "Download as PDF"
+        ]
       }
     },
     {
       "id": "https://www.worldcat.org/oclc/1449538685",
       "type": "Text",
       "label": {
-        "none": ["View in WorldCat catalogue"]
+        "none": [
+          "View in WorldCat catalogue"
+        ]
       }
     }
   ],
@@ -81,7 +105,9 @@
       "height": 6429,
       "width": 8216,
       "label": {
-        "none": ["1"]
+        "none": [
+          "1"
+        ]
       },
       "items": [
         {
@@ -118,7 +144,9 @@
       "height": 6300,
       "width": 7992,
       "label": {
-        "none": ["2"]
+        "none": [
+          "2"
+        ]
       },
       "items": [
         {
@@ -155,7 +183,9 @@
       "height": 6607,
       "width": 8226,
       "label": {
-        "none": ["3"]
+        "none": [
+          "3"
+        ]
       },
       "items": [
         {
@@ -192,7 +222,9 @@
       "height": 6578,
       "width": 8297,
       "label": {
-        "none": ["4"]
+        "none": [
+          "4"
+        ]
       },
       "items": [
         {
@@ -229,7 +261,9 @@
       "height": 6599,
       "width": 8287,
       "label": {
-        "none": ["5"]
+        "none": [
+          "5"
+        ]
       },
       "items": [
         {
@@ -266,7 +300,9 @@
       "height": 6621,
       "width": 8264,
       "label": {
-        "none": ["6"]
+        "none": [
+          "6"
+        ]
       },
       "items": [
         {
@@ -303,7 +339,9 @@
       "height": 6669,
       "width": 8262,
       "label": {
-        "none": ["7"]
+        "none": [
+          "7"
+        ]
       },
       "items": [
         {
@@ -340,7 +378,9 @@
       "height": 6664,
       "width": 8258,
       "label": {
-        "none": ["8"]
+        "none": [
+          "8"
+        ]
       },
       "items": [
         {
@@ -377,7 +417,9 @@
       "height": 6671,
       "width": 8272,
       "label": {
-        "none": ["9"]
+        "none": [
+          "9"
+        ]
       },
       "items": [
         {
@@ -414,7 +456,9 @@
       "height": 6585,
       "width": 8273,
       "label": {
-        "none": ["10"]
+        "none": [
+          "10"
+        ]
       },
       "items": [
         {
@@ -451,7 +495,9 @@
       "height": 6666,
       "width": 8314,
       "label": {
-        "none": ["11"]
+        "none": [
+          "11"
+        ]
       },
       "items": [
         {
@@ -488,7 +534,9 @@
       "height": 6600,
       "width": 8193,
       "label": {
-        "none": ["12"]
+        "none": [
+          "12"
+        ]
       },
       "items": [
         {
@@ -525,7 +573,9 @@
       "height": 6574,
       "width": 8235,
       "label": {
-        "none": ["13"]
+        "none": [
+          "13"
+        ]
       },
       "items": [
         {
@@ -562,7 +612,9 @@
       "height": 6577,
       "width": 8302,
       "label": {
-        "none": ["14"]
+        "none": [
+          "14"
+        ]
       },
       "items": [
         {
@@ -599,7 +651,9 @@
       "height": 6662,
       "width": 8278,
       "label": {
-        "none": ["15"]
+        "none": [
+          "15"
+        ]
       },
       "items": [
         {
@@ -636,7 +690,9 @@
       "height": 6355,
       "width": 8072,
       "label": {
-        "none": ["16"]
+        "none": [
+          "16"
+        ]
       },
       "items": [
         {
@@ -673,7 +729,9 @@
       "height": 6595,
       "width": 8184,
       "label": {
-        "none": ["17"]
+        "none": [
+          "17"
+        ]
       },
       "items": [
         {
@@ -710,7 +768,9 @@
       "height": 6554,
       "width": 8241,
       "label": {
-        "none": ["18"]
+        "none": [
+          "18"
+        ]
       },
       "items": [
         {
@@ -747,7 +807,9 @@
       "height": 6620,
       "width": 8294,
       "label": {
-        "none": ["19"]
+        "none": [
+          "19"
+        ]
       },
       "items": [
         {
@@ -784,7 +846,9 @@
       "height": 6583,
       "width": 8228,
       "label": {
-        "none": ["20"]
+        "none": [
+          "20"
+        ]
       },
       "items": [
         {
