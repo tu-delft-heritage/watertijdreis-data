@@ -9,7 +9,7 @@ run:
   # - extract-slug-source
   # - extract-part-of-collection
   # - extract-thumbnail-local
-  - manifest-sqlite
+  # - manifest-sqlite
   # - metadata-analysis
   # - site-collections
 
