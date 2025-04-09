@@ -1,0 +1,20 @@
+{
+  "name": "watertijdreis-data",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "iiif-hss": "^1.0.3",
+    "yaml": "^2.7.0"
+  },
+  "scripts": {
+    "build": "iiif-hss build --out ./build --scripts ./scripts",
+    "dev": "iiif-hss-dev"
+  }
+}
