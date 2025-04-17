@@ -3,8 +3,8 @@ server:
 
 # Run these everywhere.
 run:
-  - folder-collections
-  - flat-manifests
+  # - folder-collections
+  # - flat-manifests
   # - extract-remote-source
   # - extract-slug-source
   # - extract-part-of-collection
