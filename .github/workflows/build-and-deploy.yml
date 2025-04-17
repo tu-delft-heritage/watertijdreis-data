@@ -3,7 +3,7 @@ name: Build and deploy IIIF Manifests
 on:
   # Runs on pushes targeting the default branch
   # push:
-    # branches: ["main"]
+  #   branches: ["main"]
 
   workflow_dispatch:
 
@@ -30,6 +30,11 @@ jobs:
         run: bun i
       - name: Generate Manifests
         run: bun run build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "build/"
+          name: github-pages
 
   deploy:
     needs: build
@@ -44,11 +49,8 @@ jobs:
     steps:
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          # Upload build directory
-          path: "build/"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact-name: github-pages
