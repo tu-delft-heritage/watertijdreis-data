@@ -19,14 +19,18 @@ def process_json_data(json_path):
                 for meta in metadata
                 if meta.get('label', {}).get('en', [None])[0] # Ensure metadata label exists
             }
-            if row_data: # Only add if there's metadata
-                # Add the original label as a new column
-                row_data['map_label'] = label.strip()
-                data_list.append(row_data)
+            # Add the original label as a new column
+            row_data['map_label'] = label.strip()
+            data_list.append(row_data)
 
     # Create DataFrame from the list of dictionaries
     # Pandas will automatically create a default integer index
     df = pd.DataFrame(data_list)
+
+    # Filter out rows where 'map_label' starts with '0'
+    if 'map_label' in df.columns:
+        df = df[~df['map_label'].astype(str).str.startswith('0')]
+        df.reset_index(drop=True, inplace=True)
 
     # Optional: Reorder columns to have 'map_label' first
     if 'map_label' in df.columns:
@@ -57,17 +61,17 @@ JSON_PATH = r"content\iiif-manifests\01-1874-389916.json"
 PRODUCTINFO_PATH = r"content\productinfo_klassed.ods"
 
 json_df = process_json_data(JSON_PATH)
-print("\nMetadata DataFrame Head:")
+print("\nJSON DataFrame Head:")
 print(json_df.head())
 #print number of rows
-print("\nNumber of rows in Metadata DataFrame:")
+print("\nNumber of rows in JSON DataFrame:")
 print(len(json_df))
 
 productinfo_df = process_productinfo_data(PRODUCTINFO_PATH)
-print("\nProduct DataFrame Head:")
+print("\nProductinfo DataFrame Head:")
 print(productinfo_df.head())
 #print number of rows
-print("\nNumber of rows in Product DataFrame:")
+print("\nNumber of rows in Productinfo DataFrame:")
 print(len(productinfo_df))
 
 #combine the two dataframes on the index
@@ -79,4 +83,4 @@ print("\nCombined DataFrame:")
 print(combined_df.head(200))
 
 # export to odf
-# combined_df.to_excel(r"content\combined.ods", engine="odf", index=False)
+combined_df.to_excel(r"content\combined_test.ods", engine="odf", index=False)
