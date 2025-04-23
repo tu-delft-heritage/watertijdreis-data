@@ -2795,6 +2795,20 @@
           "14.NW"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "bw"
+            ]
+          },
+          "value": {
+            "en": [
+              "1867"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-389916/page/p51/1",
@@ -4136,7 +4150,7 @@
           },
           "value": {
             "en": [
-              "1807"
+              "1867"
             ]
           }
         }
