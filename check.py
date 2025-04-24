@@ -45,7 +45,7 @@ def process_productinfo_data(productinfo_path):
     print(f"Successfully read ODS file: {productinfo_path}")
 
     # filter for editie = "EERSTE"
-    productinfo_data = productinfo_data[productinfo_data["editie"] == "EERSTE"]
+    productinfo_data = productinfo_data[productinfo_data["editie"] == "TWEEDE"]
     # redo numbering of index
     productinfo_data.reset_index(drop=True, inplace=True)
     #drop first row
@@ -57,7 +57,7 @@ def process_productinfo_data(productinfo_path):
     
     return productinfo_data
 
-JSON_PATH = r"content\iiif-manifests\01-1874-389916.json"
+JSON_PATH = r"content\iiif-manifests\03-1874-455650(1).json"
 PRODUCTINFO_PATH = r"content\productinfo_klassed.ods"
 
 json_df = process_json_data(JSON_PATH)
@@ -83,4 +83,4 @@ print("\nCombined DataFrame:")
 print(combined_df.head(200))
 
 # export to odf
-combined_df.to_excel(r"content\combined_test.ods", engine="odf", index=False)
+combined_df.to_excel(r"content\combined_editie2_0.ods", engine="odf", index=False)
