@@ -106,9 +106,23 @@
       "width": 8192,
       "label": {
         "none": [
-          "1"
+          "1.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1941"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p1/1",
@@ -145,9 +159,35 @@
       "width": 8242,
       "label": {
         "none": [
-          "2"
+          "1.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1946"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "bij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1947"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p2/1",
@@ -184,9 +224,23 @@
       "width": 8230,
       "label": {
         "none": [
-          "3"
+          "2.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1941"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p3/1",
@@ -223,9 +277,23 @@
       "width": 8242,
       "label": {
         "none": [
-          "4"
+          "2.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1946"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p4/1",
@@ -262,9 +330,23 @@
       "width": 8252,
       "label": {
         "none": [
-          "5"
+          "3.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1946"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p5/1",
@@ -301,9 +383,23 @@
       "width": 8236,
       "label": {
         "none": [
-          "6"
+          "3.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1946"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p6/1",
@@ -340,9 +436,23 @@
       "width": 8262,
       "label": {
         "none": [
-          "7"
+          "4"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1947"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p7/1",
@@ -379,9 +489,23 @@
       "width": 8251,
       "label": {
         "none": [
-          "8"
+          "5.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1941"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p8/1",
@@ -418,9 +542,35 @@
       "width": 8190,
       "label": {
         "none": [
-          "9"
+          "5.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1938"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1942"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p9/1",
@@ -457,9 +607,35 @@
       "width": 8237,
       "label": {
         "none": [
-          "10"
+          "6.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1945"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "bij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1947"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p10/1",
@@ -496,7 +672,7 @@
       "width": 8263,
       "label": {
         "none": [
-          "11"
+          "6.W.B"
         ]
       },
       "items": [
@@ -535,9 +711,35 @@
       "width": 8268,
       "label": {
         "none": [
-          "12"
+          "6.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1942"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1948"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p12/1",
@@ -574,7 +776,7 @@
       "width": 8280,
       "label": {
         "none": [
-          "13"
+          "6.E.B"
         ]
       },
       "items": [
@@ -613,9 +815,35 @@
       "width": 8233,
       "label": {
         "none": [
-          "14"
+          "7.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1930"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1935"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p14/1",
@@ -652,7 +880,7 @@
       "width": 8230,
       "label": {
         "none": [
-          "15"
+          "7.W.B"
         ]
       },
       "items": [
@@ -691,9 +919,35 @@
       "width": 8251,
       "label": {
         "none": [
-          "16"
+          "7.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1930"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1935"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p16/1",
@@ -730,7 +984,7 @@
       "width": 8237,
       "label": {
         "none": [
-          "17"
+          "7.E.B"
         ]
       },
       "items": [
@@ -769,9 +1023,35 @@
       "width": 8207,
       "label": {
         "none": [
-          "18"
+          "8"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1930"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1935"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p18/1",
@@ -808,7 +1088,7 @@
       "width": 8215,
       "label": {
         "none": [
-          "19"
+          "8.B"
         ]
       },
       "items": [
@@ -847,9 +1127,23 @@
       "width": 8218,
       "label": {
         "none": [
-          "20"
+          "9"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1940"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p20/1",
@@ -886,9 +1180,23 @@
       "width": 8223,
       "label": {
         "none": [
-          "21"
+          "10.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1948"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p21/1",
@@ -925,9 +1233,23 @@
       "width": 8206,
       "label": {
         "none": [
-          "22"
+          "10.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1947.1949"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p22/1",
@@ -964,9 +1286,23 @@
       "width": 8218,
       "label": {
         "none": [
-          "23"
+          "11.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1947"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p23/1",
@@ -1003,7 +1339,7 @@
       "width": 8204,
       "label": {
         "none": [
-          "24"
+          "11.W.B"
         ]
       },
       "items": [
@@ -1042,9 +1378,23 @@
       "width": 8193,
       "label": {
         "none": [
-          "25"
+          "11.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1947.1948"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p25/1",
@@ -1081,7 +1431,7 @@
       "width": 8192,
       "label": {
         "none": [
-          "26"
+          "11.E.B"
         ]
       },
       "items": [
@@ -1120,9 +1470,23 @@
       "width": 8232,
       "label": {
         "none": [
-          "27"
+          "12.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1942"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p27/1",
@@ -1159,7 +1523,7 @@
       "width": 8234,
       "label": {
         "none": [
-          "28"
+          "12.W.B"
         ]
       },
       "items": [
@@ -1198,9 +1562,23 @@
       "width": 8589,
       "label": {
         "none": [
-          "29"
+          "12.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1943.1944"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p29/1",
@@ -1237,7 +1615,7 @@
       "width": 8570,
       "label": {
         "none": [
-          "30"
+          "12.E.B"
         ]
       },
       "items": [
@@ -1276,7 +1654,7 @@
       "width": 3629,
       "label": {
         "none": [
-          "31"
+          "13.B.dup"
         ]
       },
       "items": [
@@ -1315,9 +1693,35 @@
       "width": 8196,
       "label": {
         "none": [
-          "32"
+          "13"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1950"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "bij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1953"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p32/1",
@@ -1354,7 +1758,7 @@
       "width": 8206,
       "label": {
         "none": [
-          "33"
+          "13.B"
         ]
       },
       "items": [
@@ -1393,9 +1797,35 @@
       "width": 8198,
       "label": {
         "none": [
-          "34"
+          "14.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1949"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1951"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p34/1",
@@ -1432,9 +1862,35 @@
       "width": 8209,
       "label": {
         "none": [
-          "35"
+          "14.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1942"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1946"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p35/1",
@@ -1471,9 +1927,23 @@
       "width": 8202,
       "label": {
         "none": [
-          "36"
+          "15"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1952"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p36/1",
@@ -1510,9 +1980,23 @@
       "width": 8209,
       "label": {
         "none": [
-          "37"
+          "16.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1957"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p37/1",
@@ -1549,7 +2033,7 @@
       "width": 8213,
       "label": {
         "none": [
-          "38"
+          "16.W.B"
         ]
       },
       "items": [
@@ -1588,7 +2072,7 @@
       "width": 2580,
       "label": {
         "none": [
-          "39"
+          "16.E.B.dup"
         ]
       },
       "items": [
@@ -1627,9 +2111,23 @@
       "width": 8215,
       "label": {
         "none": [
-          "40"
+          "16.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1952.1953"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p40/1",
@@ -1666,7 +2164,7 @@
       "width": 8193,
       "label": {
         "none": [
-          "41"
+          "16.E.B"
         ]
       },
       "items": [
@@ -1705,9 +2203,23 @@
       "width": 8216,
       "label": {
         "none": [
-          "42"
+          "17.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1951.1952"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p42/1",
@@ -1744,9 +2256,23 @@
       "width": 8197,
       "label": {
         "none": [
-          "43"
+          "17.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1953"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p43/1",
@@ -1783,7 +2309,7 @@
       "width": 1855,
       "label": {
         "none": [
-          "44"
+          "18.B.dup"
         ]
       },
       "items": [
@@ -1822,9 +2348,23 @@
       "width": 8188,
       "label": {
         "none": [
-          "45"
+          "18"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1951.1952"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p45/1",
@@ -1861,7 +2401,7 @@
       "width": 8204,
       "label": {
         "none": [
-          "46"
+          "18.B"
         ]
       },
       "items": [
@@ -1900,9 +2440,35 @@
       "width": 8207,
       "label": {
         "none": [
-          "47"
+          "19.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1949"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1951"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p47/1",
@@ -1939,9 +2505,35 @@
       "width": 8438,
       "label": {
         "none": [
-          "48"
+          "19.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1943"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1947"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p48/1",
@@ -1978,9 +2570,23 @@
       "width": 8231,
       "label": {
         "none": [
-          "49"
+          "20.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1944"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p49/1",
@@ -2017,9 +2623,23 @@
       "width": 8201,
       "label": {
         "none": [
-          "50"
+          "20.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1954"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p50/1",
@@ -2056,9 +2676,35 @@
       "width": 8205,
       "label": {
         "none": [
-          "51"
+          "21.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1930"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1934"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p51/1",
@@ -2095,7 +2741,7 @@
       "width": 8214,
       "label": {
         "none": [
-          "52"
+          "21.W.B"
         ]
       },
       "items": [
@@ -2134,9 +2780,23 @@
       "width": 8221,
       "label": {
         "none": [
-          "53"
+          "21.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1937"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p53/1",
@@ -2173,9 +2833,23 @@
       "width": 8188,
       "label": {
         "none": [
-          "54"
+          "22.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1951"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p54/1",
@@ -2212,7 +2886,7 @@
       "width": 8193,
       "label": {
         "none": [
-          "55"
+          "22.W.B"
         ]
       },
       "items": [
@@ -2251,7 +2925,7 @@
       "width": 2454,
       "label": {
         "none": [
-          "56"
+          "22.W.B.dup"
         ]
       },
       "items": [
@@ -2290,9 +2964,35 @@
       "width": 8212,
       "label": {
         "none": [
-          "57"
+          "22.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1959"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p57/1",
@@ -2329,7 +3029,7 @@
       "width": 8202,
       "label": {
         "none": [
-          "58"
+          "22.E.B"
         ]
       },
       "items": [
@@ -2368,9 +3068,35 @@
       "width": 8204,
       "label": {
         "none": [
-          "59"
+          "23"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1959"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p59/1",
@@ -2407,9 +3133,35 @@
       "width": 8207,
       "label": {
         "none": [
-          "60"
+          "24"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1941"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1943"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p60/1",
@@ -2446,9 +3198,35 @@
       "width": 8194,
       "label": {
         "none": [
-          "61"
+          "25.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1948"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1950"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p61/1",
@@ -2485,9 +3263,35 @@
       "width": 8197,
       "label": {
         "none": [
-          "62"
+          "25.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1947"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1950"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p62/1",
@@ -2524,7 +3328,7 @@
       "width": 8244,
       "label": {
         "none": [
-          "63"
+          "25.E.B"
         ]
       },
       "items": [
@@ -2563,9 +3367,23 @@
       "width": 8212,
       "label": {
         "none": [
-          "64"
+          "26.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1952"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p64/1",
@@ -2602,9 +3420,23 @@
       "width": 8195,
       "label": {
         "none": [
-          "65"
+          "26.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1942"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p65/1",
@@ -2641,9 +3473,35 @@
       "width": 8213,
       "label": {
         "none": [
-          "66"
+          "27.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960.1963"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1965"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p66/1",
@@ -2680,7 +3538,7 @@
       "width": 8209,
       "label": {
         "none": [
-          "67"
+          "27.W.B"
         ]
       },
       "items": [
@@ -2719,9 +3577,23 @@
       "width": 8209,
       "label": {
         "none": [
-          "68"
+          "27.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1954.1955"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p68/1",
@@ -2758,9 +3630,23 @@
       "width": 8213,
       "label": {
         "none": [
-          "69"
+          "28.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1954.1955"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p69/1",
@@ -2797,9 +3683,23 @@
       "width": 8200,
       "label": {
         "none": [
-          "70"
+          "28.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1954"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p70/1",
@@ -2836,9 +3736,23 @@
       "width": 8193,
       "label": {
         "none": [
-          "71"
+          "29"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1952.1953"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p71/1",
@@ -2875,9 +3789,35 @@
       "width": 8206,
       "label": {
         "none": [
-          "72"
+          "30.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1959"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p72/1",
@@ -2914,9 +3854,35 @@
       "width": 8192,
       "label": {
         "none": [
-          "73"
+          "30.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1959"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p73/1",
@@ -2953,9 +3919,35 @@
       "width": 8202,
       "label": {
         "none": [
-          "74"
+          "31.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1959"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1961"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p74/1",
@@ -2992,9 +3984,35 @@
       "width": 8187,
       "label": {
         "none": [
-          "75"
+          "31.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1950"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1952"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p75/1",
@@ -3031,7 +4049,7 @@
       "width": 8188,
       "label": {
         "none": [
-          "76"
+          "31.E.B"
         ]
       },
       "items": [
@@ -3070,9 +4088,35 @@
       "width": 8187,
       "label": {
         "none": [
-          "77"
+          "32.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1952"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1953"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p77/1",
@@ -3109,7 +4153,7 @@
       "width": 8181,
       "label": {
         "none": [
-          "78"
+          "32.W.B"
         ]
       },
       "items": [
@@ -3148,9 +4192,35 @@
       "width": 8196,
       "label": {
         "none": [
-          "79"
+          "32.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1951"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1953"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p79/1",
@@ -3187,9 +4257,23 @@
       "width": 8210,
       "label": {
         "none": [
-          "80"
+          "33.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1959"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p80/1",
@@ -3226,9 +4310,35 @@
       "width": 8497,
       "label": {
         "none": [
-          "81"
+          "33.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1959"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p81/1",
@@ -3265,7 +4375,7 @@
       "width": 8496,
       "label": {
         "none": [
-          "82"
+          "33.E.B"
         ]
       },
       "items": [
@@ -3304,7 +4414,7 @@
       "width": 3584,
       "label": {
         "none": [
-          "83"
+          "34.W.B.dup"
         ]
       },
       "items": [
@@ -3343,9 +4453,23 @@
       "width": 8198,
       "label": {
         "none": [
-          "84"
+          "34.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1952.1953"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p84/1",
@@ -3382,7 +4506,7 @@
       "width": 8195,
       "label": {
         "none": [
-          "85"
+          "34.W.B"
         ]
       },
       "items": [
@@ -3421,7 +4545,7 @@
       "width": 2510,
       "label": {
         "none": [
-          "86"
+          "34.E.B.dup"
         ]
       },
       "items": [
@@ -3460,9 +4584,23 @@
       "width": 8197,
       "label": {
         "none": [
-          "87"
+          "34.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1953.1954"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p87/1",
@@ -3499,7 +4637,7 @@
       "width": 8197,
       "label": {
         "none": [
-          "88"
+          "34.E.B"
         ]
       },
       "items": [
@@ -3538,9 +4676,35 @@
       "width": 8204,
       "label": {
         "none": [
-          "89"
+          "36"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1962"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p89/1",
@@ -3577,9 +4741,35 @@
       "width": 8189,
       "label": {
         "none": [
-          "90"
+          "37.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1955"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1956"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p90/1",
@@ -3616,7 +4806,7 @@
       "width": 8191,
       "label": {
         "none": [
-          "91"
+          "37.W.B"
         ]
       },
       "items": [
@@ -3655,9 +4845,35 @@
       "width": 8221,
       "label": {
         "none": [
-          "92"
+          "37.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1964"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1966"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p92/1",
@@ -3694,7 +4910,7 @@
       "width": 8211,
       "label": {
         "none": [
-          "93"
+          "37.E.B"
         ]
       },
       "items": [
@@ -3733,9 +4949,35 @@
       "width": 8180,
       "label": {
         "none": [
-          "94"
+          "38.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1938"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1941"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p94/1",
@@ -3772,9 +5014,35 @@
       "width": 8186,
       "label": {
         "none": [
-          "95"
+          "38.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1950"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1952"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p95/1",
@@ -3811,7 +5079,7 @@
       "width": 8186,
       "label": {
         "none": [
-          "96"
+          "38.E.B"
         ]
       },
       "items": [
@@ -3850,9 +5118,35 @@
       "width": 8217,
       "label": {
         "none": [
-          "97"
+          "39.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1953"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1954"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p97/1",
@@ -3889,7 +5183,7 @@
       "width": 8194,
       "label": {
         "none": [
-          "98"
+          "39.W.B"
         ]
       },
       "items": [
@@ -3928,9 +5222,35 @@
       "width": 8193,
       "label": {
         "none": [
-          "99"
+          "39.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1953"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1954"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p99/1",
@@ -3967,7 +5287,7 @@
       "width": 8197,
       "label": {
         "none": [
-          "100"
+          "39.E.B"
         ]
       },
       "items": [
@@ -4006,9 +5326,23 @@
       "width": 8192,
       "label": {
         "none": [
-          "101"
+          "40.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1951"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p101/1",
@@ -4045,9 +5379,23 @@
       "width": 8213,
       "label": {
         "none": [
-          "102"
+          "40.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1951.1952"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p102/1",
@@ -4084,9 +5432,23 @@
       "width": 8192,
       "label": {
         "none": [
-          "103"
+          "41.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1952.1953"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p103/1",
@@ -4123,9 +5485,23 @@
       "width": 8198,
       "label": {
         "none": [
-          "104"
+          "41.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1952"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p104/1",
@@ -4162,9 +5538,35 @@
       "width": 8191,
       "label": {
         "none": [
-          "105"
+          "42.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1959"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1962"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p105/1",
@@ -4201,9 +5603,35 @@
       "width": 8196,
       "label": {
         "none": [
-          "106"
+          "42.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1963"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p106/1",
@@ -4240,9 +5668,35 @@
       "width": 8208,
       "label": {
         "none": [
-          "107"
+          "43.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960.1962"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1963"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p107/1",
@@ -4279,7 +5733,7 @@
       "width": 8197,
       "label": {
         "none": [
-          "108"
+          "43.W.B"
         ]
       },
       "items": [
@@ -4318,9 +5772,35 @@
       "width": 8202,
       "label": {
         "none": [
-          "109"
+          "43.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960.1962"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1963"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p109/1",
@@ -4357,7 +5837,7 @@
       "width": 8207,
       "label": {
         "none": [
-          "110"
+          "43.E.B"
         ]
       },
       "items": [
@@ -4396,9 +5876,35 @@
       "width": 8212,
       "label": {
         "none": [
-          "111"
+          "44.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960.1963"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1966"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p111/1",
@@ -4435,7 +5941,7 @@
       "width": 8212,
       "label": {
         "none": [
-          "112"
+          "44.W.B"
         ]
       },
       "items": [
@@ -4474,9 +5980,35 @@
       "width": 8197,
       "label": {
         "none": [
-          "113"
+          "44.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1943"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1946"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p113/1",
@@ -4513,7 +6045,7 @@
       "width": 8298,
       "label": {
         "none": [
-          "114"
+          "44.E.WVE"
         ]
       },
       "items": [
@@ -4552,9 +6084,35 @@
       "width": 8194,
       "label": {
         "none": [
-          "115"
+          "45.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1959"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1961"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p115/1",
@@ -4591,7 +6149,7 @@
       "width": 8193,
       "label": {
         "none": [
-          "116"
+          "45.W.B"
         ]
       },
       "items": [
@@ -4630,9 +6188,35 @@
       "width": 8195,
       "label": {
         "none": [
-          "117"
+          "45.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1959"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p117/1",
@@ -4669,7 +6253,7 @@
       "width": 8199,
       "label": {
         "none": [
-          "118"
+          "45.E.B"
         ]
       },
       "items": [
@@ -4708,7 +6292,7 @@
       "width": 3583,
       "label": {
         "none": [
-          "119"
+          "46.B.dup"
         ]
       },
       "items": [
@@ -4747,9 +6331,23 @@
       "width": 8189,
       "label": {
         "none": [
-          "120"
+          "46"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1950"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p120/1",
@@ -4786,7 +6384,7 @@
       "width": 8220,
       "label": {
         "none": [
-          "121"
+          "46.B"
         ]
       },
       "items": [
@@ -4825,9 +6423,35 @@
       "width": 8203,
       "label": {
         "none": [
-          "122"
+          "47"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1961"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1963"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p122/1",
@@ -4864,9 +6488,35 @@
       "width": 8213,
       "label": {
         "none": [
-          "123"
+          "48.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1962"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p123/1",
@@ -4903,7 +6553,7 @@
       "width": 8202,
       "label": {
         "none": [
-          "124"
+          "48.W.B"
         ]
       },
       "items": [
@@ -4942,9 +6592,23 @@
       "width": 8195,
       "label": {
         "none": [
-          "125"
+          "48.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1959"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p125/1",
@@ -4981,7 +6645,7 @@
       "width": 8197,
       "label": {
         "none": [
-          "126"
+          "48.E.B"
         ]
       },
       "items": [
@@ -5020,9 +6684,35 @@
       "width": 8226,
       "label": {
         "none": [
-          "127"
+          "49.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1965"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1966"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p127/1",
@@ -5059,7 +6749,7 @@
       "width": 8217,
       "label": {
         "none": [
-          "128"
+          "49.W.B"
         ]
       },
       "items": [
@@ -5098,9 +6788,35 @@
       "width": 8198,
       "label": {
         "none": [
-          "129"
+          "49.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1966"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1967"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p129/1",
@@ -5137,9 +6853,23 @@
       "width": 8205,
       "label": {
         "none": [
-          "130"
+          "50.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1953"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p130/1",
@@ -5176,9 +6906,23 @@
       "width": 8195,
       "label": {
         "none": [
-          "131"
+          "50.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1952.1953"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p131/1",
@@ -5215,9 +6959,35 @@
       "width": 8193,
       "label": {
         "none": [
-          "132"
+          "51.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1958"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p132/1",
@@ -5254,9 +7024,35 @@
       "width": 8215,
       "label": {
         "none": [
-          "133"
+          "51.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1963"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p133/1",
@@ -5293,7 +7089,7 @@
       "width": 8212,
       "label": {
         "none": [
-          "134"
+          "51.E.B"
         ]
       },
       "items": [
@@ -5332,9 +7128,23 @@
       "width": 8200,
       "label": {
         "none": [
-          "135"
+          "52.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1950.1951"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p135/1",
@@ -5371,9 +7181,23 @@
       "width": 8200,
       "label": {
         "none": [
-          "136"
+          "52.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1950.1951"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p136/1",
@@ -5410,9 +7234,23 @@
       "width": 8228,
       "label": {
         "none": [
-          "137"
+          "53"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1936"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p137/1",
@@ -5449,9 +7287,23 @@
       "width": 8222,
       "label": {
         "none": [
-          "138"
+          "54.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1936"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p138/1",
@@ -5488,9 +7340,23 @@
       "width": 8218,
       "label": {
         "none": [
-          "139"
+          "54.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1937"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p139/1",
@@ -5527,9 +7393,23 @@
       "width": 8197,
       "label": {
         "none": [
-          "140"
+          "55"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1937"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p140/1",
@@ -5566,9 +7446,23 @@
       "width": 8205,
       "label": {
         "none": [
-          "141"
+          "57.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1949.1950"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p141/1",
@@ -5605,9 +7499,23 @@
       "width": 8194,
       "label": {
         "none": [
-          "142"
+          "57.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1949"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p142/1",
@@ -5644,7 +7552,7 @@
       "width": 8076,
       "label": {
         "none": [
-          "143"
+          "57.E.B"
         ]
       },
       "items": [
@@ -5683,9 +7591,23 @@
       "width": 8203,
       "label": {
         "none": [
-          "144"
+          "58.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1958"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p144/1",
@@ -5722,7 +7644,7 @@
       "width": 8202,
       "label": {
         "none": [
-          "145"
+          "58.W.B"
         ]
       },
       "items": [
@@ -5761,9 +7683,23 @@
       "width": 8192,
       "label": {
         "none": [
-          "146"
+          "58.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1950.1951"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p146/1",
@@ -5800,9 +7736,35 @@
       "width": 8248,
       "label": {
         "none": [
-          "147"
+          "60"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1953.1954"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "gbij"
+            ]
+          },
+          "value": {
+            "en": [
+              "1958"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p147/1",
@@ -5839,7 +7801,7 @@
       "width": 8256,
       "label": {
         "none": [
-          "148"
+          "60.B"
         ]
       },
       "items": [
@@ -5878,7 +7840,7 @@
       "width": 3475,
       "label": {
         "none": [
-          "149"
+          "61.B.dup"
         ]
       },
       "items": [
@@ -5917,9 +7879,23 @@
       "width": 8221,
       "label": {
         "none": [
-          "150"
+          "61"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1953"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p150/1",
@@ -5956,7 +7932,7 @@
       "width": 8212,
       "label": {
         "none": [
-          "151"
+          "61.B"
         ]
       },
       "items": [
@@ -5995,9 +7971,23 @@
       "width": 8189,
       "label": {
         "none": [
-          "152"
+          "62"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1954"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p152/1",

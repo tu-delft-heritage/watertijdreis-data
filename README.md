@@ -45,6 +45,7 @@ Often, maps have multiple years recorded for different kinds of edits. The metad
 - `hz` herzien
 - `bij` bijgewerkt
 - `gbij` gedeeltelijk bijgewerkt
+- `ui` uitgave
 
 Sometimes, multiple years are listed. This is encoded as `[year1].[year2]`
 

@@ -27,6 +27,11 @@ def process_json_data(json_path):
     # Pandas will automatically create a default integer index
     df = pd.DataFrame(data_list)
 
+    # Filter out rows where 'map_label' contains '.B'
+    if 'map_label' in df.columns:
+        df = df[~df['map_label'].astype(str).str.contains(".B", na=False)]
+        df.reset_index(drop=True, inplace=True)
+
     # Filter out rows where 'map_label' starts with '0'
     if 'map_label' in df.columns:
         df = df[~df['map_label'].astype(str).str.startswith('0')]
@@ -57,8 +62,8 @@ def process_productinfo_data(productinfo_path):
     
     return productinfo_data
 
-EDITIE = "TWEEDE"
-JSON_PATH = r"content\iiif-manifests\03-1874-455650.json"
+EDITIE = "DERDE"
+JSON_PATH = r"content\iiif-manifests\05-1874-456551(1).json"
 PRODUCTINFO_PATH = r"content\productinfo_klassed.ods"
 
 json_df = process_json_data(JSON_PATH)
@@ -84,4 +89,4 @@ print("\nCombined DataFrame:")
 print(combined_df.head(200))
 
 # export to odf
-combined_df.to_excel(r"content\compare_01.ods", engine="odf", index=False)
+combined_df.to_excel(r"content\compare_temp.ods", engine="odf", index=False)
