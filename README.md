@@ -18,7 +18,7 @@ Go to [localhost:7111](http://localhost:7111) to see the IIIF Manifests and open
 
 Syntax for canvas label value:
 
-`[sheet number].[position].[type].[scan]`
+`[sheet number].[position].[type]`
 
 - `sheet number` Number in the range 1-62
 - `position` Position of the subsheet
@@ -32,11 +32,26 @@ Syntax for canvas label value:
   - `WVE` Watervoorzieningseenheden
   - `HWP` Hydrologische waarnemingspunten
   - `B` Back of the sheet
-- `scan` scan position
-  - `L` Left
-  - `R` Right
+  - `dup` Sheet is a duplicate
 
 Example: `52.O.WVE`
+
+## Metadata
+
+Often, maps have multiple years recorded for different kinds of edits. The metadata contains the following abbreviations to encode these different categories:
+
+- `bw` bewerkt
+- `vk` verkend
+- `hz` herzien
+- `bij` bijgewerkt
+- `gbij` gedeeltelijk bijgewerkt
+
+Sometimes, multiple years are listed. This is encoded as `[year1].[year2]`
+
+Example: \
+`bw = 1912` \
+`hz = 1910.1011`
+
 
 ---
 
