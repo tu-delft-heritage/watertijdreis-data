@@ -27,9 +27,9 @@ def process_json_data(json_path):
     # Pandas will automatically create a default integer index
     df = pd.DataFrame(data_list)
 
-    # Filter out rows where 'map_label' contains '.B'
+    # Filter out rows
     if 'map_label' in df.columns:
-        patterns_to_exclude = r'\.B|WVE|HWP|L|R' # Regex pattern for strings to exclude
+        patterns_to_exclude = r'\.B|.WVE|.HWP|.L|.R' # Regex pattern for strings to exclude
         df = df[~df['map_label'].astype(str).str.contains(patterns_to_exclude, regex=True, na=False)]
         df.reset_index(drop=True, inplace=True)
 
@@ -50,7 +50,7 @@ def process_productinfo_data(productinfo_path):
     productinfo_data = pd.read_excel(productinfo_path, engine="odf")
     print(f"Successfully read ODS file: {productinfo_path}")
 
-    # filter for editie = "EERSTE"
+    # filter for editie
     productinfo_data = productinfo_data[productinfo_data["editie"] == EDITIE]
     # redo numbering of index
     productinfo_data.reset_index(drop=True, inplace=True)
@@ -58,13 +58,20 @@ def process_productinfo_data(productinfo_path):
     productinfo_data = productinfo_data.drop(index=0)
     #redo numbering of index
     productinfo_data.reset_index(drop=True, inplace=True)
-    #drop columns not starting with "datum__" or titel
-    productinfo_data = productinfo_data.loc[:, productinfo_data.columns.str.startswith("datum__") | productinfo_data.columns.str.startswith("titel")]
+    #drop rows where "bladtype" is "Hydrologische  Waarnemingspunten" or "Watervoorzieningseenheden" or "Watervoorziening"
+    productinfo_data = productinfo_data[~productinfo_data["bladtype"].isin(["Hydrologische  Waarnemingspunten", "Watervoorzieningseenheden", "Watervoorziening"])]
+    #print productinfo_data
+    # print(f"Productinfo DataFrame shape after filtering: {productinfo_data.shape}")
+    # print(productinfo_data.head(30))
+    #redo numbering of index
+    productinfo_data.reset_index(drop=True, inplace=True)
+    #drop columns not starting with "datum__" or titel or onderliggend_kaartbeeld or bewerking_door__?datum
+    productinfo_data = productinfo_data.loc[:, productinfo_data.columns.str.startswith("datum__") | productinfo_data.columns.str.startswith("titel") | productinfo_data.columns.str.startswith("onderliggend_kaartbeeld") | productinfo_data.columns.str.startswith("bewerking_door__?datum")]
     
     return productinfo_data
 
-EDITIE = "VIERDE"
-JSON_PATH = r"content\iiif-manifests\07-1874-456588(2).json"
+EDITIE = "VIJFDE"
+JSON_PATH = r"content\iiif-manifests\09-1874-456827.json"
 PRODUCTINFO_PATH = r"content\productinfo_klassed.ods"
 
 json_df = process_json_data(JSON_PATH)
@@ -90,4 +97,4 @@ print("\nCombined DataFrame:")
 print(combined_df.head(200))
 
 # export to odf
-combined_df.to_excel(r"content\compare_temp(1).ods", engine="odf", index=False)
+combined_df.to_excel(r"content\compare_temp.ods", engine="odf", index=False)
