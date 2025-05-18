@@ -71,8 +71,8 @@ def process_productinfo_data(productinfo_path):
     return productinfo_data
 
 EDITIE = "VIJFDE"
-JSON_PATH = r"content\iiif-manifests\09-1874-456827.json"
-PRODUCTINFO_PATH = r"content\productinfo_klassed.ods"
+JSON_PATH = r"content/iiif-manifests/09-1874-456827.json"
+PRODUCTINFO_PATH = r"content/productinfo_klassed.ods"
 
 json_df = process_json_data(JSON_PATH)
 print("\nJSON DataFrame Head:")
@@ -97,4 +97,4 @@ print("\nCombined DataFrame:")
 print(combined_df.head(200))
 
 # export to odf
-combined_df.to_excel(r"content\compare_temp.ods", engine="odf", index=False)
+combined_df.to_excel(r"content/compare_temp.ods", engine="odf", index=False)
