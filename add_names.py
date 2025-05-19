@@ -38,7 +38,7 @@ def process_json_data(json_path):
 
 
 # -------------------------------------------------------------------------
-# This function is a mess, but it works. Just don't try to understand it.'
+# This function is a mess, but it works. Just don't try to understand it.
 # -------------------------------------------------------------------------
 def generate_mapping():
 
