@@ -6,6 +6,7 @@
       "id": "56218336090182592219918359481561660070.jp2",
       "type": "Annotation",
       "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
         "http://iiif.io/api/extension/georef/1/context.json",
         "http://iiif.io/api/presentation/3/context.json"
       ],
@@ -20,7 +21,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8224\" height=\"6563\"><polygon points=\"1721,4725 6466,4732 6480,1790 1730,1785\" /></svg>"
+          "value": "<svg width=\"8224\" height=\"6563\"><polygon points=\"1721,4725 6466,4732 6480,1790 1730,1786\" /></svg>"
         }
       },
       "body": {
@@ -82,7 +83,7 @@
             "properties": {
               "resourceCoords": [
                 1730,
-                1785
+                1786
               ]
             },
             "geometry": {
