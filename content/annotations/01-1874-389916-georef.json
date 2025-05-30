@@ -8292,7 +8292,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8221\" height=\"6575\"><polygon points=\"1735,4742 6457,4744 6457,1803 1736,1804\" /></svg>"
+          "value": "<svg width=\"8221\" height=\"6575\"><polygon points=\"1735,4742 1735,5570 3844,5570 3840,4743 6457,4744 6457,1803 1736,1804\" /></svg>"
         }
       },
       "body": {
