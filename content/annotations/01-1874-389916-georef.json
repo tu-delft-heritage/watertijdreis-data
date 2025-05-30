@@ -20,7 +20,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8224\" height=\"6563\"><polygon points=\"1720,4728 6467,4731 6480,1791 1729,1786\" /></svg>"
+          "value": "<svg width=\"8224\" height=\"6563\"><polygon points=\"1720,4728 6467,4731 6480,1791 2680,2582\" /></svg>"
         }
       },
       "body": {
@@ -81,8 +81,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1729,
-                1786
+                2680,
+                2582
               ]
             },
             "geometry": {
