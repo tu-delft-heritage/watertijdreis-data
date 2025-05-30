@@ -9514,7 +9514,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8265\" height=\"6604\"><polygon points=\"1772,4839 6501,4839 6507,1880 1772,1871\" /></svg>"
+          "value": "<svg width=\"8265\" height=\"6604\"><polygon points=\"1772,4839 6501,4839 6501,1880 3580,1875 3501,1832 3448,1828 3398,1803 3352,1796 3255,1827 3246,1871 1772,1871\" /></svg>"
         }
       },
       "body": {
@@ -9559,7 +9559,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6507,
+                6501,
                 1880
               ]
             },
