@@ -119,21 +119,25 @@ def generate_mapping():
     return mapping
 
 
-JSON_PATH = r"content/iiif-manifests/09-1874-456827.json"
-json_df = process_json_data(JSON_PATH)
+def main():
+    JSON_PATH = r"content/iiif-manifests/09-1874-456827.json"
+    json_df = process_json_data(JSON_PATH)
 
-mapping = generate_mapping()
-for key, value in mapping.items():
-    print(f"{key}: {value}")
-print(f"detected {len(mapping)} labels")
+    mapping = generate_mapping()
+    for key, value in mapping.items():
+        print(f"{key}: {value}")
+    print(f"detected {len(mapping)} labels")
 
-#add a column to jason_df called 'name'
-json_df = json_df.to_frame()
-json_df['name'] = None
+    #add a column to jason_df called 'name'
+    json_df = json_df.to_frame()
+    json_df['name'] = None
 
-# fill the rows of name column with the value from the mapping where the key is the same as the string part before the first period
-for key, value in mapping.items():
-    json_df.loc[json_df['map_label'].str.startswith(str(key)), 'name'] = value
+    # fill the rows of name column with the value from the mapping where the key is the same as the string part before the first period
+    for key, value in mapping.items():
+        json_df.loc[json_df['map_label'].str.startswith(str(key)), 'name'] = value
 
-# export to odf
-json_df.to_excel(r"content/labels.ods", engine="odf", index=False)
+    # export to odf
+    json_df.to_excel(r"content/labels.ods", engine="odf", index=False)
+
+if __name__ == "__main__":
+    main()
