@@ -6976,7 +6976,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8254\" height=\"6895\"><polygon points=\"1769,6387 6488,6369 6483,474 1756,480\" /></svg>"
+          "value": "<svg width=\"8254\" height=\"6895\"><polygon points=\"1769,6387 1770,6464 6488,6443 6488,6369 6483,474 1756,480\" /></svg>"
         }
       },
       "body": {
