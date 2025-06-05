@@ -11206,7 +11206,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8218\" height=\"6578\"><polygon points=\"1773,4783 6490,4777 6491,1823 1771,1832\" /></svg>"
+          "value": "<svg width=\"8218\" height=\"6578\"><polygon points=\"1773,4783 6490,4777 6490,4474 6631,4475 6629,4090 6490,4090 6491,1823 1771,1832\" /></svg>"
         }
       },
       "body": {
@@ -11274,7 +11274,7 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.7535601,
+                5.75356,
                 51.8109512
               ]
             }
