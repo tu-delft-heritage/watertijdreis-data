@@ -13180,7 +13180,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8274\" height=\"6582\"><polygon points=\"1774,4801 6532,4796 6531,1830 1764,1831\" /></svg>"
+          "value": "<svg width=\"8274\" height=\"6582\"><polygon points=\"1774,4801 3882,4799 3886,5103 4718,5105 4725,4798 6532,4796 6531,1830 1764,1831\" /></svg>"
         }
       },
       "body": {
