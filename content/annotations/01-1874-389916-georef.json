@@ -15342,7 +15342,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8218\" height=\"6562\"><polygon points=\"1722,4759 6467,4770 6466,1804 1722,1810\" /></svg>"
+          "value": "<svg width=\"8218\" height=\"6562\"><polygon points=\"1722,4759 6467,4770 6466,1804 1722,1810 1403,1809 1402,2808 1722,2806\" /></svg>"
         }
       },
       "body": {
