@@ -14778,7 +14778,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8245\" height=\"6599\"><polygon points=\"1743,4793 6488,4798 6490,1843 1745,1837\" /></svg>"
+          "value": "<svg width=\"8245\" height=\"6599\"><polygon points=\"1743,4793 6488,4798 6490,1843 4603,1843 4602,1537 3562,1536 3572,1837 1745,1837\" /></svg>"
         }
       },
       "body": {
