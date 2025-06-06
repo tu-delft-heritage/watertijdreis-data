@@ -3879,28 +3879,25 @@
       "id": "d7a2d82f-ddce-43cd-91d3-67ed7e8ac368",
       "type": "Annotation",
       "@context": [
-        "http://www.w3.org/ns/anno.jsonld",
-        "http://geojson.org/geojson-ld/geojson-context.jsonld",
+        "http://iiif.io/api/extension/georef/1/context.json",
         "http://iiif.io/api/presentation/3/context.json"
       ],
       "motivation": "georeferencing",
       "target": {
-        "type": "Image",
-        "source": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/53/66/70/53667050968380458348190845762511674848.jp2/full/full/0/default.jpg",
-        "service": [
-          {
-            "@id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/53/66/70/53667050968380458348190845762511674848.jp2",
-            "type": "ImageService2"
-          }
-        ],
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/53/66/70/53667050968380458348190845762511674848.jp2",
+          "type": "ImageService2",
+          "height": 6693,
+          "width": 8286
+        },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8286\" height=\"6693\"><polygon points=\"292,6317 899,6316 7983,6306 7971,391 270,401\" /></svg>"
+          "value": "<svg width=\"8286\" height=\"6693\"><polygon points=\"292,6317 899,6316 7983,6306 7971,391 2292,398 2305,3236 1363,3237 1365,5131 287,5133\" /></svg>"
         }
       },
       "body": {
         "type": "FeatureCollection",
-        "purpose": "gcp-georeferencing",
         "transformation": {
           "type": "thinPlateSpline"
         },
@@ -3908,7 +3905,7 @@
           {
             "type": "Feature",
             "properties": {
-              "pixelCoords": [
+              "resourceCoords": [
                 292,
                 6317
               ]
@@ -3917,14 +3914,14 @@
               "type": "Point",
               "coordinates": [
                 4.3985344,
-                52.2588917
+                52.2588916
               ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "pixelCoords": [
+              "resourceCoords": [
                 899,
                 6316
               ]
@@ -3940,7 +3937,7 @@
           {
             "type": "Feature",
             "properties": {
-              "pixelCoords": [
+              "resourceCoords": [
                 7983,
                 6306
               ]
@@ -3948,15 +3945,15 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.874534,
-                52.2619154
+                4.8745338,
+                52.2619153
               ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "pixelCoords": [
+              "resourceCoords": [
                 7971,
                 391
               ]
@@ -3964,7 +3961,7 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.8719297,
+                4.8719296,
                 52.486597
               ]
             }
@@ -3972,7 +3969,7 @@
           {
             "type": "Feature",
             "properties": {
-              "pixelCoords": [
+              "resourceCoords": [
                 893,
                 5132
               ]
@@ -3980,7 +3977,7 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.4341847,
+                4.4341846,
                 52.3041257
               ]
             }
@@ -3988,7 +3985,7 @@
           {
             "type": "Feature",
             "properties": {
-              "pixelCoords": [
+              "resourceCoords": [
                 3245,
                 1579
               ]
@@ -3996,8 +3993,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.5783327,
-                52.4400186
+                4.5783326,
+                52.4400187
               ]
             }
           }
