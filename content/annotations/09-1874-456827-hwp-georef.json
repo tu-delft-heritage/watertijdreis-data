@@ -8399,22 +8399,6 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                281,
-                6304
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                4.9942693,
-                51.1388106
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
                 7977,
                 6307
               ]
@@ -8454,7 +8438,7 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.0282342,
+                5.0282341,
                 51.3636414
               ]
             }
@@ -8470,7 +8454,7 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.9923383,
+                4.9923382,
                 51.3635253
               ]
             }
