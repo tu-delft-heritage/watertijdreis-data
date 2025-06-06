@@ -8633,20 +8633,18 @@
       "id": "0680b8f8-6724-4ee5-a336-19e9c8d7f9e6",
       "type": "Annotation",
       "@context": [
-        "http://www.w3.org/ns/anno.jsonld",
-        "http://geojson.org/geojson-ld/geojson-context.jsonld",
+        "http://iiif.io/api/extension/georef/1/context.json",
         "http://iiif.io/api/presentation/3/context.json"
       ],
       "motivation": "georeferencing",
       "target": {
-        "type": "Image",
-        "source": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/84/65/118465312583792705818893554208592682238.jp2/full/full/0/default.jpg",
-        "service": [
-          {
-            "@id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/84/65/118465312583792705818893554208592682238.jp2",
-            "type": "ImageService2"
-          }
-        ],
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/84/65/118465312583792705818893554208592682238.jp2",
+          "type": "ImageService2",
+          "height": 6672,
+          "width": 8276
+        },
         "selector": {
           "type": "SvgSelector",
           "value": "<svg width=\"8276\" height=\"6672\"><polygon points=\"7977,6307 7975,399 881,394 266,393 279,5117 3251,5118 6079,5120 6083,6306\" /></svg>"
@@ -8654,7 +8652,6 @@
       },
       "body": {
         "type": "FeatureCollection",
-        "purpose": "gcp-georeferencing",
         "transformation": {
           "type": "thinPlateSpline"
         },
@@ -8662,23 +8659,7 @@
           {
             "type": "Feature",
             "properties": {
-              "pixelCoords": [
-                281,
-                6304
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                4.9942693,
-                51.1388106
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "pixelCoords": [
+              "resourceCoords": [
                 7977,
                 6307
               ]
@@ -8694,7 +8675,7 @@
           {
             "type": "Feature",
             "properties": {
-              "pixelCoords": [
+              "resourceCoords": [
                 7975,
                 399
               ]
@@ -8710,7 +8691,7 @@
           {
             "type": "Feature",
             "properties": {
-              "pixelCoords": [
+              "resourceCoords": [
                 881,
                 394
               ]
@@ -8718,7 +8699,7 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.0282342,
+                5.0282341,
                 51.3636414
               ]
             }
@@ -8726,7 +8707,7 @@
           {
             "type": "Feature",
             "properties": {
-              "pixelCoords": [
+              "resourceCoords": [
                 266,
                 393
               ]
@@ -8734,7 +8715,7 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.9923383,
+                4.9923382,
                 51.3635253
               ]
             }
@@ -8742,7 +8723,7 @@
           {
             "type": "Feature",
             "properties": {
-              "pixelCoords": [
+              "resourceCoords": [
                 3251,
                 5118
               ]
@@ -8758,7 +8739,7 @@
           {
             "type": "Feature",
             "properties": {
-              "pixelCoords": [
+              "resourceCoords": [
                 6079,
                 5120
               ]
@@ -8774,7 +8755,7 @@
           {
             "type": "Feature",
             "properties": {
-              "pixelCoords": [
+              "resourceCoords": [
                 6083,
                 6306
               ]
