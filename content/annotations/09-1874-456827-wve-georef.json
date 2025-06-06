@@ -2370,7 +2370,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8281\" height=\"6693\"><polygon points=\"295,6312 7997,6327 7991,415 300,391\" /></svg>"
+          "value": "<svg width=\"8281\" height=\"6693\"><polygon points=\"295,6312 5015,6321 5018,3718 7994,3728 7991,415 300,391\" /></svg>"
         }
       },
       "body": {
@@ -2390,24 +2390,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.8719297,
+                4.8719296,
                 52.486597
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
-                7997,
-                6327
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                5.3503978,
-                52.4877103
               ]
             }
           },
@@ -2422,8 +2406,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.350212,
-                52.7123873
+                5.3502119,
+                52.7123874
               ]
             }
           },
