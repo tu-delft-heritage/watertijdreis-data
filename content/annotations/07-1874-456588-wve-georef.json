@@ -2184,7 +2184,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8336\" height=\"6660\"><polygon points=\"295,6145 5001,6155 5006,279 302,271\" /></svg>"
+          "value": "<svg width=\"8336\" height=\"6660\"><polygon points=\"295,6144 5003,6155 5006,281 302,273\" /></svg>"
         }
       },
       "body": {
@@ -2198,14 +2198,14 @@
             "properties": {
               "resourceCoords": [
                 295,
-                6145
+                6144
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.879651,
-                51.812525
+                4.8796506,
+                51.8125252
               ]
             }
           },
@@ -2213,15 +2213,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                5001,
+                5003,
                 6155
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.169677,
-                51.813421
+                5.1696766,
+                51.8134209
               ]
             }
           },
@@ -2230,14 +2230,14 @@
             "properties": {
               "resourceCoords": [
                 5006,
-                279
+                281
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.168587,
-                52.038126
+                5.1685868,
+                52.0381255
               ]
             }
           },
@@ -2246,14 +2246,14 @@
             "properties": {
               "resourceCoords": [
                 302,
-                271
+                273
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.877108,
-                52.037224
+                4.8771077,
+                52.0372241
               ]
             }
           }
