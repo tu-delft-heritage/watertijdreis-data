@@ -2842,7 +2842,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8307\" height=\"6711\"><polygon points=\"320,6228 5032,6204 4993,324 268,357\" /></svg>"
+          "value": "<svg width=\"8307\" height=\"6711\"><polygon points=\"319,6228 5034,6205 4993,326 267,358\" /></svg>"
         }
       },
       "body": {
@@ -2855,7 +2855,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                320,
+                319,
                 6228
               ]
             },
@@ -2863,7 +2863,7 @@
               "type": "Point",
               "coordinates": [
                 5.170754,
-                51.58871
+                51.5887099
               ]
             }
           },
@@ -2871,15 +2871,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                5032,
-                6204
+                5034,
+                6205
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.459349,
-                51.588887
+                5.4593495,
+                51.5888874
               ]
             }
           },
@@ -2888,14 +2888,14 @@
             "properties": {
               "resourceCoords": [
                 4993,
-                324
+                326
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.45971,
-                51.813599
+                5.4597103,
+                51.8135995
               ]
             }
           },
@@ -2903,15 +2903,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                268,
-                357
+                267,
+                358
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.169677,
-                51.813421
+                5.1696766,
+                51.8134209
               ]
             }
           }
