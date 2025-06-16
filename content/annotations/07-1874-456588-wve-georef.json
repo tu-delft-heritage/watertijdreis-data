@@ -1338,7 +1338,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8295\" height=\"6666\"><polygon points=\"252,6138 4964,6144 4963,258 251,256\" /></svg>"
+          "value": "<svg width=\"8295\" height=\"6666\"><polygon points=\"253,6137 4966,6142 4960,259 251,256\" /></svg>"
         }
       },
       "body": {
@@ -1351,15 +1351,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                252,
-                6138
+                253,
+                6137
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.877108,
-                52.037224
+                4.8771077,
+                52.0372241
               ]
             }
           },
@@ -1367,15 +1367,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4964,
-                6144
+                4966,
+                6142
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.168587,
-                52.038126
+                5.1685868,
+                52.0381255
               ]
             }
           },
@@ -1383,15 +1383,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4963,
-                258
+                4960,
+                259
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.167484,
-                52.262823
+                5.1674845,
+                52.2628228
               ]
             }
           },
@@ -1406,8 +1406,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.874534,
-                52.261915
+                4.8745338,
+                52.2619153
               ]
             }
           }
