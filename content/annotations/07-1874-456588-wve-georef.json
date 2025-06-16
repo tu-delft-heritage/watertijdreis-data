@@ -2466,7 +2466,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8334\" height=\"6734\"><polygon points=\"311,6168 5021,6192 5043,317 334,293\" /></svg>"
+          "value": "<svg width=\"8334\" height=\"6734\"><polygon points=\"310,6170 5021,6193 5043,319 334,294\" /></svg>"
         }
       },
       "body": {
@@ -2479,15 +2479,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                311,
-                6168
+                310,
+                6170
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.749741,
-                51.813061
+                5.7497413,
+                51.8130613
               ]
             }
           },
@@ -2496,14 +2496,14 @@
             "properties": {
               "resourceCoords": [
                 5021,
-                6192
+                6193
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.039759,
-                51.811806
+                6.0397592,
+                51.8118059
               ]
             }
           },
@@ -2512,14 +2512,14 @@
             "properties": {
               "resourceCoords": [
                 5043,
-                317
+                319
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.043032,
-                52.036501
+                6.0430323,
+                52.0365006
               ]
             }
           },
@@ -2528,14 +2528,14 @@
             "properties": {
               "resourceCoords": [
                 334,
-                293
+                294
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.751561,
-                52.037764
+                5.7515606,
+                52.0377638
               ]
             }
           }
