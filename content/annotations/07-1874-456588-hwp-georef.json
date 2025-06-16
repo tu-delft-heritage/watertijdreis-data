@@ -2372,7 +2372,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8357\" height=\"6711\"><polygon points=\"334,6186 5047,6174 5022,286 308,302\" /></svg>"
+          "value": "<svg width=\"8357\" height=\"6711\"><polygon points=\"333,6186 5048,6176 5024,287 308,301\" /></svg>"
         }
       },
       "body": {
@@ -2385,15 +2385,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                334,
+                333,
                 6186
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.747943,
-                51.588353
+                5.7479431,
+                51.5883527
               ]
             }
           },
@@ -2401,15 +2401,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                5047,
-                6174
+                5048,
+                6176
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.036523,
-                51.587106
+                6.0365232,
+                51.5871055
               ]
             }
           },
@@ -2417,15 +2417,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                5022,
-                286
+                5024,
+                287
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.039759,
-                51.811806
+                6.0397592,
+                51.8118059
               ]
             }
           },
@@ -2434,14 +2434,14 @@
             "properties": {
               "resourceCoords": [
                 308,
-                302
+                301
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.749741,
-                51.813061
+                5.7497413,
+                51.8130613
               ]
             }
           }
