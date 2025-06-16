@@ -586,7 +586,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8264\" height=\"6664\"><polygon points=\"270,6162 4974,6175 4990,279 281,265\" /></svg>"
+          "value": "<svg width=\"8264\" height=\"6664\"><polygon points=\"270,6162 4974,6175 4983,279 281,264\" /></svg>"
         }
       },
       "body": {
@@ -631,7 +631,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4990,
+                4983,
                 279
               ]
             },
@@ -648,7 +648,7 @@
             "properties": {
               "resourceCoords": [
                 281,
-                265
+                264
               ]
             },
             "geometry": {
