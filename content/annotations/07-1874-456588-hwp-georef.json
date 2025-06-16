@@ -2654,7 +2654,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8299\" height=\"6685\"><polygon points=\"285,6193 4999,6201 4999,300 281,294\" /></svg>"
+          "value": "<svg width=\"8299\" height=\"6685\"><polygon points=\"285,6194 4999,6204 4997,299 280,295\" /></svg>"
         }
       },
       "body": {
@@ -2668,14 +2668,14 @@
             "properties": {
               "resourceCoords": [
                 285,
-                6193
+                6194
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                3.449295,
-                51.348078
+                3.4492948,
+                51.3480783
               ]
             }
           },
@@ -2684,14 +2684,14 @@
             "properties": {
               "resourceCoords": [
                 4999,
-                6201
+                6204
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                3.736268,
-                51.352499
+                3.7362676,
+                51.3524994
               ]
             }
           },
@@ -2699,15 +2699,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4999,
-                300
+                4997,
+                299
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                3.728102,
-                51.57714
+                3.7281023,
+                51.5771395
               ]
             }
           },
@@ -2715,15 +2715,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                281,
-                294
+                280,
+                295
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                3.439711,
-                51.572691
+                3.4397108,
+                51.5726905
               ]
             }
           }
