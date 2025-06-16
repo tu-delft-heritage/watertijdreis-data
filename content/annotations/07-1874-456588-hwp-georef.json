@@ -2560,7 +2560,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8358\" height=\"6711\"><polygon points=\"367,6224 5084,6213 5064,311 341,320\" /></svg>"
+          "value": "<svg width=\"8358\" height=\"6711\"><polygon points=\"368,6224 5084,6214 5066,313 341,322\" /></svg>"
         }
       },
       "body": {
@@ -2573,14 +2573,14 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                367,
+                368,
                 6224
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                3.16239,
+                3.1623901,
                 51.342951
               ]
             }
@@ -2590,14 +2590,14 @@
             "properties": {
               "resourceCoords": [
                 5084,
-                6213
+                6214
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                3.449295,
-                51.348078
+                3.4492948,
+                51.3480783
               ]
             }
           },
@@ -2605,15 +2605,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                5064,
-                311
+                5066,
+                313
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                3.439711,
-                51.572691
+                3.4397108,
+                51.5726905
               ]
             }
           },
@@ -2622,13 +2622,13 @@
             "properties": {
               "resourceCoords": [
                 341,
-                320
+                322
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                3.151389,
+                3.1513891,
                 51.56753
               ]
             }
