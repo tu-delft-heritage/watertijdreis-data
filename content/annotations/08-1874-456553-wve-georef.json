@@ -1,0 +1,572 @@
+{
+  "type": "AnnotationPage",
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld"
+  ],
+  "items": [
+    {
+      "id": "a0cd66d8-06f0-4d40-b20e-a42336772a3e",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/69/16/19/69161995868550512179886997694825330450.jp2",
+          "type": "ImageService2",
+          "height": 6662,
+          "width": 8256
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"8256\" height=\"6662\"><polygon points=\"295,6176 5011,6172 4994,273 279,277\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                295,
+                6176
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.9406898,
+                52.7022514
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5011,
+                6172
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.236456,
+                52.6980212
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4994,
+                273
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.2459712,
+                52.9225921
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                279,
+                277
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.9486854,
+                52.9268495
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "d5f575ce-7a41-47f3-925e-25bbfb98c0e6",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/34/94/01/3494014141186786394208098206924265752.jp2",
+          "type": "ImageService2",
+          "height": 6645,
+          "width": 8285
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"8285\" height=\"6645\"><polygon points=\"282,6164 4999,6167 4993,281 279,278\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                282,
+                6164
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1663679,
+                52.4875099
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4999,
+                6167
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.4608169,
+                52.4876928
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4993,
+                281
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.461195,
+                52.7123701
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                279,
+                278
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1652404,
+                52.7121863
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "e1953d59-0ad3-496a-b64f-0ba44e6c50ea",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/26/77/95/26779538231751021358805586802639648703.jp2",
+          "type": "ImageService2",
+          "height": 6652,
+          "width": 8265
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"8265\" height=\"6652\"><polygon points=\"262,6124 4972,6140 4987,265 270,251\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                262,
+                6124
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.7552628,
+                52.487144
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4972,
+                6140
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.049693,
+                52.4858643
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4987,
+                265
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.0530818,
+                52.7105299
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                270,
+                251
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.7571456,
+                52.7118176
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "2c5ba53e-7aef-4e3d-9291-07b8bed8d303",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/67/69/79/67697910193130638911805266921206026364.jp2",
+          "type": "ImageService2",
+          "height": 6663,
+          "width": 8273
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"8273\" height=\"6663\"><polygon points=\"288,6162 4994,6162 4988,293 286,288\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                288,
+                6162
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3440973,
+                52.4838533
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4994,
+                6162
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.6384675,
+                52.4811123
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4988,
+                293
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.6448654,
+                52.7057459
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                286,
+                288
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3489912,
+                52.7085058
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "06af0a4d-7ae1-479e-b3c7-8126c5fb3dfa",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/15/97/38/159738926934538594988125504133318994302.jp2",
+          "type": "ImageService2",
+          "height": 6702,
+          "width": 8293
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"8293\" height=\"6702\"><polygon points=\"303,6210 5018,6202 5005,309 288,315\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                303,
+                6210
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.6384675,
+                52.4811123
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5018,
+                6202
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.9327888,
+                52.4776401
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5005,
+                309
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.9406896,
+                52.7022514
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                288,
+                315
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.6448654,
+                52.7057459
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "86731136-d1bc-4b33-95f6-b273b8d508a0",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/55/26/11/55261176648814157723540775052193408508.jp2",
+          "type": "ImageService2",
+          "height": 6677,
+          "width": 8261
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"8261\" height=\"6677\"><polygon points=\"289,6183 5001,6181 4990,282 281,283\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                289,
+                6183
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1674846,
+                52.2628229
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5001,
+                6181
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.4604446,
+                52.2630044
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4990,
+                282
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.4608169,
+                52.4876928
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                281,
+                283
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1663679,
+                52.4875099
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
