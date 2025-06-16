@@ -3970,7 +3970,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8308\" height=\"6663\"><polygon points=\"314,6185 5028,6178 5008,293 296,301\" /></svg>"
+          "value": "<svg width=\"8308\" height=\"6663\"><polygon points=\"313,6184 5029,6179 5009,294 295,301\" /></svg>"
         }
       },
       "body": {
@@ -3983,15 +3983,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                314,
-                6185
+                313,
+                6184
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
                 5.744408,
-                51.138925
+                51.1389246
               ]
             }
           },
@@ -3999,15 +3999,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                5028,
-                6178
+                5029,
+                6179
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
                 6.030162,
-                51.137694
+                51.1376935
               ]
             }
           },
@@ -4015,14 +4015,14 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                5008,
-                293
+                5009,
+                294
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.033324,
+                6.0333242,
                 51.362401
               ]
             }
@@ -4031,14 +4031,14 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                296,
+                295,
                 301
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.746166,
+                5.7461657,
                 51.36364
               ]
             }
