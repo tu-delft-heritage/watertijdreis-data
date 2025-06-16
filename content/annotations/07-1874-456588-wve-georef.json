@@ -962,7 +962,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8268\" height=\"6623\"><polygon points=\"296,6141 5009,6123 4980,253 269,267\" /></svg>"
+          "value": "<svg width=\"8268\" height=\"6623\"><polygon points=\"295,6142 5009,6126 4982,254 269,269\" /></svg>"
         }
       },
       "body": {
@@ -975,15 +975,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                296,
-                6141
+                295,
+                6142
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.33926,
-                52.259189
+                6.3392605,
+                52.2591891
               ]
             }
           },
@@ -992,14 +992,14 @@
             "properties": {
               "resourceCoords": [
                 5009,
-                6123
+                6126
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
                 6.632143,
-                52.256466
+                52.2564656
               ]
             }
           },
@@ -1007,15 +1007,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4980,
-                253
+                4982,
+                254
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.638467,
-                52.481112
+                6.6384675,
+                52.4811123
               ]
             }
           },
@@ -1024,14 +1024,14 @@
             "properties": {
               "resourceCoords": [
                 269,
-                267
+                269
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.344097,
-                52.483853
+                6.3440974,
+                52.4838533
               ]
             }
           }
