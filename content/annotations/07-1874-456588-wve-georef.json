@@ -1432,7 +1432,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8261\" height=\"6666\"><polygon points=\"273,6135 4985,6151 4996,275 283,259\" /></svg>"
+          "value": "<svg width=\"8261\" height=\"6666\"><polygon points=\"270,6135 4982,6155 4998,275 283,259\" /></svg>"
         }
       },
       "body": {
@@ -1445,15 +1445,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                273,
+                270,
                 6135
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.751561,
-                52.037764
+                5.7515606,
+                52.0377638
               ]
             }
           },
@@ -1461,15 +1461,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4985,
-                6151
+                4982,
+                6155
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.043032,
-                52.036501
+                6.0430323,
+                52.0365006
               ]
             }
           },
@@ -1477,15 +1477,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4996,
+                4998,
                 275
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.046343,
-                52.261187
+                6.0463432,
+                52.2611873
               ]
             }
           },
@@ -1500,8 +1500,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.753401,
-                52.262459
+                5.7534009,
+                52.2624587
               ]
             }
           }
