@@ -586,7 +586,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8269\" height=\"6659\"><polygon points=\"280,6179 4993,6178 4986,299 275,299\" /></svg>"
+          "value": "<svg width=\"8269\" height=\"6659\"><polygon points=\"279,6178 4996,6179 4986,300 274,301\" /></svg>"
         }
       },
       "body": {
@@ -599,15 +599,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                280,
-                6179
+                279,
+                6178
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.33926,
-                52.259189
+                6.3392605,
+                52.2591891
               ]
             }
           },
@@ -615,15 +615,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4993,
-                6178
+                4996,
+                6179
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
                 6.632143,
-                52.256466
+                52.2564656
               ]
             }
           },
@@ -632,14 +632,14 @@
             "properties": {
               "resourceCoords": [
                 4986,
-                299
+                300
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.638467,
-                52.481112
+                6.6384675,
+                52.4811123
               ]
             }
           },
@@ -647,15 +647,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                275,
-                299
+                274,
+                301
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.344097,
-                52.483853
+                6.3440974,
+                52.4838533
               ]
             }
           }
