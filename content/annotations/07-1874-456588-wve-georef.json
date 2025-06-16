@@ -2560,7 +2560,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8274\" height=\"6718\"><polygon points=\"290,6196 5002,6208 5012,312 298,301\" /></svg>"
+          "value": "<svg width=\"8274\" height=\"6718\"><polygon points=\"290,6197 5002,6210 5012,314 297,300\" /></svg>"
         }
       },
       "body": {
@@ -2574,14 +2574,14 @@
             "properties": {
               "resourceCoords": [
                 290,
-                6196
+                6197
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.039759,
-                51.811806
+                6.0397592,
+                51.8118059
               ]
             }
           },
@@ -2590,14 +2590,14 @@
             "properties": {
               "resourceCoords": [
                 5002,
-                6208
+                6210
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.329754,
-                51.809835
+                6.3297536,
+                51.8098348
               ]
             }
           },
@@ -2606,14 +2606,14 @@
             "properties": {
               "resourceCoords": [
                 5012,
-                312
+                314
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
                 6.33448,
-                52.034516
+                52.0345161
               ]
             }
           },
@@ -2621,15 +2621,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                298,
-                301
+                297,
+                300
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.043032,
-                52.036501
+                6.0430323,
+                52.0365006
               ]
             }
           }
