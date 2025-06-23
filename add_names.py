@@ -128,16 +128,9 @@ def main():
         print(f"{key}: {value}")
     print(f"detected {len(mapping)} labels")
 
-    #add a column to jason_df called 'name'
-    json_df = json_df.to_frame()
-    json_df['name'] = None
-
-    # fill the rows of name column with the value from the mapping where the key is the same as the string part before the first period
-    for key, value in mapping.items():
-        json_df.loc[json_df['map_label'].str.startswith(str(key)), 'name'] = value
-
-    # export to odf
-    json_df.to_excel(r"content/labels.ods", engine="odf", index=False)
+    #export mapping to odf file
+    mapping_df = pd.DataFrame(list(mapping.items()), columns=['map_label', 'name'])
+    mapping_df.to_excel(r"content/labels.ods", engine="odf", index=False)
 
 if __name__ == "__main__":
     main()

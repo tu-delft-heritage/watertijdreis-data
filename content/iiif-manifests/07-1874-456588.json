@@ -1026,7 +1026,7 @@
       "width": 8189,
       "label": {
         "none": [
-          "8.W"
+          "8"
         ]
       },
       "metadata": [
@@ -1666,7 +1666,7 @@
       "width": 8201,
       "label": {
         "none": [
-          "13.W"
+          "13"
         ]
       },
       "metadata": [
@@ -1731,7 +1731,7 @@
       "width": 8224,
       "label": {
         "none": [
-          "13.W.B"
+          "13.B"
         ]
       },
       "items": [
@@ -2953,7 +2953,7 @@
       "width": 8182,
       "label": {
         "none": [
-          "18.W"
+          "18"
         ]
       },
       "metadata": [
@@ -3616,7 +3616,7 @@
       "width": 8179,
       "label": {
         "none": [
-          "23.W"
+          "23"
         ]
       },
       "metadata": [
@@ -3681,7 +3681,7 @@
       "width": 8205,
       "label": {
         "none": [
-          "24.E"
+          "24"
         ]
       },
       "metadata": [
@@ -3746,7 +3746,7 @@
       "width": 8251,
       "label": {
         "none": [
-          "24.E.WVE"
+          "24.WVE"
         ]
       },
       "items": [
@@ -3785,7 +3785,7 @@
       "width": 8228,
       "label": {
         "none": [
-          "24.E.WVE"
+          "24.WVE"
         ]
       },
       "items": [
@@ -4968,7 +4968,7 @@
       "width": 8246,
       "label": {
         "none": [
-          "29.W"
+          "29"
         ]
       },
       "metadata": [
@@ -5033,7 +5033,7 @@
       "width": 8289,
       "label": {
         "none": [
-          "29.W.HWP"
+          "29.HWP"
         ]
       },
       "items": [
@@ -6619,7 +6619,7 @@
       "width": 8254,
       "label": {
         "none": [
-          "35.W"
+          "35"
         ]
       },
       "metadata": [
@@ -6684,7 +6684,7 @@
       "width": 8388,
       "label": {
         "none": [
-          "35.W.HWP"
+          "35.HWP"
         ]
       },
       "items": [
@@ -6723,7 +6723,7 @@
       "width": 8233,
       "label": {
         "none": [
-          "36.E"
+          "36"
         ]
       },
       "metadata": [
@@ -6788,7 +6788,7 @@
       "width": 8388,
       "label": {
         "none": [
-          "36.E.WVE"
+          "36.WVE"
         ]
       },
       "items": [
@@ -10116,7 +10116,7 @@
       "width": 8272,
       "label": {
         "none": [
-          "47.E"
+          "47"
         ]
       },
       "metadata": [
@@ -10181,7 +10181,7 @@
       "width": 8358,
       "label": {
         "none": [
-          "47.E.HWP"
+          "47.HWP"
         ]
       },
       "items": [
@@ -11728,7 +11728,7 @@
       "width": 8236,
       "label": {
         "none": [
-          "53.E"
+          "53"
         ]
       },
       "metadata": [
@@ -11793,7 +11793,7 @@
       "width": 8301,
       "label": {
         "none": [
-          "53.E.HWP"
+          "53.HWP"
         ]
       },
       "items": [
@@ -12040,7 +12040,7 @@
       "width": 8250,
       "label": {
         "none": [
-          "55.W"
+          "55"
         ]
       },
       "metadata": [
@@ -12105,7 +12105,7 @@
       "width": 8292,
       "label": {
         "none": [
-          "55.W.HWP"
+          "55.HWP"
         ]
       },
       "items": [
@@ -12638,7 +12638,7 @@
       "width": 8201,
       "label": {
         "none": [
-          "59.E"
+          "59"
         ]
       },
       "metadata": [
@@ -12833,7 +12833,7 @@
       "width": 8218,
       "label": {
         "none": [
-          "61.E"
+          "61"
         ]
       },
       "metadata": [
