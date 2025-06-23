@@ -6,7 +6,6 @@
       "id": "56218336090182592219918359481561660070.jp2",
       "type": "Annotation",
       "@context": [
-        "http://www.w3.org/ns/anno.jsonld",
         "http://iiif.io/api/extension/georef/1/context.json",
         "http://iiif.io/api/presentation/3/context.json"
       ],
@@ -21,7 +20,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8224\" height=\"6563\"><polygon points=\"1721,4725 6466,4732 6480,1790 1730,1786\" /></svg>"
+          "value": "<svg width=\"8224\" height=\"6563\"><polygon points=\"1720,4728 6467,4731 6480,1791 1728,1786\" /></svg>"
         }
       },
       "body": {
@@ -34,8 +33,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1721,
-                4725
+                1720,
+                4728
               ]
             },
             "geometry": {
@@ -50,8 +49,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6466,
-                4732
+                6467,
+                4731
               ]
             },
             "geometry": {
@@ -67,7 +66,7 @@
             "properties": {
               "resourceCoords": [
                 6480,
-                1790
+                1791
               ]
             },
             "geometry": {
@@ -82,7 +81,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1730,
+                1728,
                 1786
               ]
             },
@@ -115,7 +114,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8198\" height=\"6600\"><polygon points=\"1715,4779 6434,4798 6458,1833 1730,1807\" /></svg>"
+          "value": "<svg width=\"8198\" height=\"6600\"><polygon points=\"1714,4778 6435,4799 6454,1835 1730,1808\" /></svg>"
         }
       },
       "body": {
@@ -128,8 +127,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1715,
-                4779
+                1714,
+                4778
               ]
             },
             "geometry": {
@@ -144,8 +143,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6434,
-                4798
+                6435,
+                4799
               ]
             },
             "geometry": {
@@ -160,8 +159,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6458,
-                1833
+                6454,
+                1835
               ]
             },
             "geometry": {
@@ -177,7 +176,7 @@
             "properties": {
               "resourceCoords": [
                 1730,
-                1807
+                1808
               ]
             },
             "geometry": {
@@ -209,7 +208,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8234\" height=\"6720\"><polygon points=\"1746,4886 6498,4890 6502,1913 1750,1914\" /></svg>"
+          "value": "<svg width=\"8234\" height=\"6720\"><polygon points=\"1746,4889 6498,4893 6503,1914 1749,1915\" /></svg>"
         }
       },
       "body": {
@@ -223,7 +222,7 @@
             "properties": {
               "resourceCoords": [
                 1746,
-                4886
+                4889
               ]
             },
             "geometry": {
@@ -239,7 +238,7 @@
             "properties": {
               "resourceCoords": [
                 6498,
-                4890
+                4893
               ]
             },
             "geometry": {
@@ -254,8 +253,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6502,
-                1913
+                6503,
+                1914
               ]
             },
             "geometry": {
@@ -270,8 +269,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1750,
-                1914
+                1749,
+                1915
               ]
             },
             "geometry": {
@@ -303,7 +302,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8224\" height=\"6601\"><polygon points=\"1752,4812 6503,4814 6510,1300 1756,1304\" /></svg>"
+          "value": "<svg width=\"8224\" height=\"6601\"><polygon points=\"1752,4815 6505,4816 6509,1302 1757,1307\" /></svg>"
         }
       },
       "body": {
@@ -317,7 +316,7 @@
             "properties": {
               "resourceCoords": [
                 1752,
-                4812
+                4815
               ]
             },
             "geometry": {
@@ -332,8 +331,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6503,
-                4814
+                6505,
+                4816
               ]
             },
             "geometry": {
@@ -348,8 +347,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6510,
-                1300
+                6509,
+                1302
               ]
             },
             "geometry": {
@@ -364,8 +363,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1756,
-                1304
+                1757,
+                1307
               ]
             },
             "geometry": {
@@ -397,7 +396,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8149\" height=\"6568\"><polygon points=\"1738,4750 6460,4739 6454,1784 1729,1799\" /></svg>"
+          "value": "<svg width=\"8149\" height=\"6568\"><polygon points=\"1737,4752 6461,4738 6455,1784 1729,1798\" /></svg>"
         }
       },
       "body": {
@@ -410,8 +409,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1738,
-                4750
+                1737,
+                4752
               ]
             },
             "geometry": {
@@ -426,8 +425,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6460,
-                4739
+                6461,
+                4738
               ]
             },
             "geometry": {
@@ -442,7 +441,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6454,
+                6455,
                 1784
               ]
             },
@@ -459,7 +458,7 @@
             "properties": {
               "resourceCoords": [
                 1729,
-                1799
+                1798
               ]
             },
             "geometry": {
@@ -491,7 +490,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8259\" height=\"6590\"><polygon points=\"1754,4771 6477,4769 6475,1822 1750,1824\" /></svg>"
+          "value": "<svg width=\"8259\" height=\"6590\"><polygon points=\"1756,4772 6478,4771 6476,1822 1751,1823\" /></svg>"
         }
       },
       "body": {
@@ -504,8 +503,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1754,
-                4771
+                1756,
+                4772
               ]
             },
             "geometry": {
@@ -520,8 +519,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6477,
-                4769
+                6478,
+                4771
               ]
             },
             "geometry": {
@@ -536,7 +535,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6475,
+                6476,
                 1822
               ]
             },
@@ -552,8 +551,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1750,
-                1824
+                1751,
+                1823
               ]
             },
             "geometry": {
@@ -585,7 +584,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8189\" height=\"6580\"><polygon points=\"1744,4773 6462,4785 6470,1826 1749,1813\" /></svg>"
+          "value": "<svg width=\"8189\" height=\"6580\"><polygon points=\"1746,4775 6462,4785 6471,1824 1749,1808\" /></svg>"
         }
       },
       "body": {
@@ -598,8 +597,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1744,
-                4773
+                1746,
+                4775
               ]
             },
             "geometry": {
@@ -630,8 +629,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6470,
-                1826
+                6471,
+                1824
               ]
             },
             "geometry": {
@@ -647,7 +646,7 @@
             "properties": {
               "resourceCoords": [
                 1749,
-                1813
+                1808
               ]
             },
             "geometry": {
@@ -773,7 +772,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8253\" height=\"6538\"><polygon points=\"1731,4688 6505,4705 6525,1723 1747,1724\" /></svg>"
+          "value": "<svg width=\"8253\" height=\"6538\"><polygon points=\"1731,4692 6506,4705 6525,1724 1747,1724\" /></svg>"
         }
       },
       "body": {
@@ -787,7 +786,7 @@
             "properties": {
               "resourceCoords": [
                 1731,
-                4688
+                4692
               ]
             },
             "geometry": {
@@ -802,7 +801,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6505,
+                6506,
                 4705
               ]
             },
@@ -819,7 +818,7 @@
             "properties": {
               "resourceCoords": [
                 6525,
-                1723
+                1724
               ]
             },
             "geometry": {
@@ -867,7 +866,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8235\" height=\"6667\"><polygon points=\"1728,4869 6487,4899 6504,1938 1744,1906\" /></svg>"
+          "value": "<svg width=\"8235\" height=\"6667\"><polygon points=\"1726,4869 6487,4896 6505,1937 1744,1907\" /></svg>"
         }
       },
       "body": {
@@ -880,7 +879,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1728,
+                1726,
                 4869
               ]
             },
@@ -897,7 +896,7 @@
             "properties": {
               "resourceCoords": [
                 6487,
-                4899
+                4896
               ]
             },
             "geometry": {
@@ -912,8 +911,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6504,
-                1938
+                6505,
+                1937
               ]
             },
             "geometry": {
@@ -929,7 +928,7 @@
             "properties": {
               "resourceCoords": [
                 1744,
-                1906
+                1907
               ]
             },
             "geometry": {
@@ -961,7 +960,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8243\" height=\"6629\"><polygon points=\"1757,4785 6506,4795 6507,1820 1762,1818\" /></svg>"
+          "value": "<svg width=\"8243\" height=\"6629\"><polygon points=\"1755,4786 6508,4793 6506,1821 1757,1820\" /></svg>"
         }
       },
       "body": {
@@ -974,8 +973,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1757,
-                4785
+                1755,
+                4786
               ]
             },
             "geometry": {
@@ -990,8 +989,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6506,
-                4795
+                6508,
+                4793
               ]
             },
             "geometry": {
@@ -1006,8 +1005,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6507,
-                1820
+                6506,
+                1821
               ]
             },
             "geometry": {
@@ -1022,8 +1021,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1762,
-                1818
+                1757,
+                1820
               ]
             },
             "geometry": {
@@ -1055,7 +1054,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8253\" height=\"6615\"><polygon points=\"1734,4919 6496,4920 6496,1964 1746,1955\" /></svg>"
+          "value": "<svg width=\"8253\" height=\"6615\"><polygon points=\"1733,4919 6498,4919 6497,1964 1746,1956\" /></svg>"
         }
       },
       "body": {
@@ -1068,7 +1067,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1734,
+                1733,
                 4919
               ]
             },
@@ -1084,8 +1083,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6496,
-                4920
+                6498,
+                4919
               ]
             },
             "geometry": {
@@ -1100,7 +1099,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6496,
+                6497,
                 1964
               ]
             },
@@ -1117,7 +1116,7 @@
             "properties": {
               "resourceCoords": [
                 1746,
-                1955
+                1956
               ]
             },
             "geometry": {
@@ -1149,7 +1148,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8261\" height=\"6603\"><polygon points=\"1724,4828 6487,4855 6501,1883 1726,1865\" /></svg>"
+          "value": "<svg width=\"8261\" height=\"6603\"><polygon points=\"1724,4829 6486,4854 6502,1883 1728,1865\" /></svg>"
         }
       },
       "body": {
@@ -1163,7 +1162,7 @@
             "properties": {
               "resourceCoords": [
                 1724,
-                4828
+                4829
               ]
             },
             "geometry": {
@@ -1178,8 +1177,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6487,
-                4855
+                6486,
+                4854
               ]
             },
             "geometry": {
@@ -1194,7 +1193,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6501,
+                6502,
                 1883
               ]
             },
@@ -1210,7 +1209,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1726,
+                1728,
                 1865
               ]
             },
@@ -1243,7 +1242,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8214\" height=\"6614\"><polygon points=\"1716,4818 6460,4810 6457,1845 1702,1857\" /></svg>"
+          "value": "<svg width=\"8214\" height=\"6614\"><polygon points=\"1716,4818 6461,4809 6458,1846 1702,1857\" /></svg>"
         }
       },
       "body": {
@@ -1272,8 +1271,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6460,
-                4810
+                6461,
+                4809
               ]
             },
             "geometry": {
@@ -1288,8 +1287,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6457,
-                1845
+                6458,
+                1846
               ]
             },
             "geometry": {
@@ -1337,7 +1336,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8235\" height=\"6645\"><polygon points=\"1731,4898 6507,4912 6504,1953 1747,1935\" /></svg>"
+          "value": "<svg width=\"8235\" height=\"6645\"><polygon points=\"1731,4897 6508,4912 6505,1953 1746,1935\" /></svg>"
         }
       },
       "body": {
@@ -1351,7 +1350,7 @@
             "properties": {
               "resourceCoords": [
                 1731,
-                4898
+                4897
               ]
             },
             "geometry": {
@@ -1366,7 +1365,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6507,
+                6508,
                 4912
               ]
             },
@@ -1382,7 +1381,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6504,
+                6505,
                 1953
               ]
             },
@@ -1398,7 +1397,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1747,
+                1746,
                 1935
               ]
             },
@@ -1431,7 +1430,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8253\" height=\"6649\"><polygon points=\"1755,4799 6499,4797 6496,1832 1752,1837\" /></svg>"
+          "value": "<svg width=\"8253\" height=\"6649\"><polygon points=\"1753,4799 6499,4796 6497,1830 1750,1840\" /></svg>"
         }
       },
       "body": {
@@ -1444,7 +1443,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1755,
+                1753,
                 4799
               ]
             },
@@ -1461,7 +1460,7 @@
             "properties": {
               "resourceCoords": [
                 6499,
-                4797
+                4796
               ]
             },
             "geometry": {
@@ -1476,8 +1475,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6496,
-                1832
+                6497,
+                1830
               ]
             },
             "geometry": {
@@ -1492,8 +1491,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1752,
-                1837
+                1750,
+                1840
               ]
             },
             "geometry": {
@@ -1525,7 +1524,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8157\" height=\"6584\"><polygon points=\"1710,4754 6438,4777 6437,1819 1713,1804\" /></svg>"
+          "value": "<svg width=\"8157\" height=\"6584\"><polygon points=\"1709,4755 6440,4777 6437,1818 1713,1806\" /></svg>"
         }
       },
       "body": {
@@ -1538,8 +1537,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1710,
-                4754
+                1709,
+                4755
               ]
             },
             "geometry": {
@@ -1554,7 +1553,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6438,
+                6440,
                 4777
               ]
             },
@@ -1571,7 +1570,7 @@
             "properties": {
               "resourceCoords": [
                 6437,
-                1819
+                1818
               ]
             },
             "geometry": {
@@ -1587,7 +1586,7 @@
             "properties": {
               "resourceCoords": [
                 1713,
-                1804
+                1806
               ]
             },
             "geometry": {
@@ -1619,7 +1618,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8258\" height=\"6578\"><polygon points=\"1772,4748 6500,4757 6512,1804 1774,1787\" /></svg>"
+          "value": "<svg width=\"8258\" height=\"6578\"><polygon points=\"1772,4749 6502,4758 6513,1804 1772,1787\" /></svg>"
         }
       },
       "body": {
@@ -1633,7 +1632,7 @@
             "properties": {
               "resourceCoords": [
                 1772,
-                4748
+                4749
               ]
             },
             "geometry": {
@@ -1648,8 +1647,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6500,
-                4757
+                6502,
+                4758
               ]
             },
             "geometry": {
@@ -1664,7 +1663,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6512,
+                6513,
                 1804
               ]
             },
@@ -1680,7 +1679,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1774,
+                1772,
                 1787
               ]
             },
@@ -1713,7 +1712,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8154\" height=\"6613\"><polygon points=\"1690,4773 6425,4818 6438,1856 1713,1823\" /></svg>"
+          "value": "<svg width=\"8154\" height=\"6613\"><polygon points=\"1691,4775 6427,4817 6439,1856 1714,1824\" /></svg>"
         }
       },
       "body": {
@@ -1726,8 +1725,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1690,
-                4773
+                1691,
+                4775
               ]
             },
             "geometry": {
@@ -1742,8 +1741,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6425,
-                4818
+                6427,
+                4817
               ]
             },
             "geometry": {
@@ -1758,7 +1757,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6438,
+                6439,
                 1856
               ]
             },
@@ -1774,8 +1773,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1713,
-                1823
+                1714,
+                1824
               ]
             },
             "geometry": {
@@ -1807,7 +1806,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8278\" height=\"6597\"><polygon points=\"1771,4769 6487,4773 6489,1822 1759,1815\" /></svg>"
+          "value": "<svg width=\"8278\" height=\"6597\"><polygon points=\"1772,4770 6487,4775 6489,1822 1759,1815\" /></svg>"
         }
       },
       "body": {
@@ -1820,8 +1819,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1771,
-                4769
+                1772,
+                4770
               ]
             },
             "geometry": {
@@ -1837,7 +1836,7 @@
             "properties": {
               "resourceCoords": [
                 6487,
-                4773
+                4775
               ]
             },
             "geometry": {
@@ -1901,7 +1900,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8234\" height=\"6579\"><polygon points=\"1738,4737 6459,4757 6481,1807 1750,1789\" /></svg>"
+          "value": "<svg width=\"8234\" height=\"6579\"><polygon points=\"1740,4739 6460,4757 6480,1806 1748,1791\" /></svg>"
         }
       },
       "body": {
@@ -1914,8 +1913,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1738,
-                4737
+                1740,
+                4739
               ]
             },
             "geometry": {
@@ -1930,7 +1929,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6459,
+                6460,
                 4757
               ]
             },
@@ -1946,8 +1945,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6481,
-                1807
+                6480,
+                1806
               ]
             },
             "geometry": {
@@ -1962,8 +1961,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1750,
-                1789
+                1748,
+                1791
               ]
             },
             "geometry": {
@@ -1995,7 +1994,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8278\" height=\"6580\"><polygon points=\"1780,4752 6500,4752 6504,1795 1777,1792\" /></svg>"
+          "value": "<svg width=\"8278\" height=\"6580\"><polygon points=\"1781,4754 6501,4753 6506,1795 1776,1792\" /></svg>"
         }
       },
       "body": {
@@ -2008,8 +2007,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1780,
-                4752
+                1781,
+                4754
               ]
             },
             "geometry": {
@@ -2024,8 +2023,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6500,
-                4752
+                6501,
+                4753
               ]
             },
             "geometry": {
@@ -2040,7 +2039,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6504,
+                6506,
                 1795
               ]
             },
@@ -2056,7 +2055,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1777,
+                1776,
                 1792
               ]
             },
@@ -2183,7 +2182,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8243\" height=\"6572\"><polygon points=\"1725,4720 6478,4712 6481,1757 1721,1758\" /></svg>"
+          "value": "<svg width=\"8243\" height=\"6572\"><polygon points=\"1726,4721 6481,4714 6483,1751 1722,1759\" /></svg>"
         }
       },
       "body": {
@@ -2196,8 +2195,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1725,
-                4720
+                1726,
+                4721
               ]
             },
             "geometry": {
@@ -2212,8 +2211,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6478,
-                4712
+                6481,
+                4714
               ]
             },
             "geometry": {
@@ -2228,8 +2227,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6481,
-                1757
+                6483,
+                1751
               ]
             },
             "geometry": {
@@ -2244,8 +2243,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1721,
-                1758
+                1722,
+                1759
               ]
             },
             "geometry": {
@@ -2277,7 +2276,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8191\" height=\"6606\"><polygon points=\"1729,4804 6473,4820 6486,1859 1740,1854\" /></svg>"
+          "value": "<svg width=\"8191\" height=\"6606\"><polygon points=\"1729,4804 6475,4820 6486,1863 1740,1854\" /></svg>"
         }
       },
       "body": {
@@ -2306,7 +2305,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6473,
+                6475,
                 4820
               ]
             },
@@ -2323,7 +2322,7 @@
             "properties": {
               "resourceCoords": [
                 6486,
-                1859
+                1863
               ]
             },
             "geometry": {
@@ -2371,7 +2370,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8221\" height=\"6583\"><polygon points=\"1731,4787 6476,4810 6490,1850 1738,1828\" /></svg>"
+          "value": "<svg width=\"8221\" height=\"6583\"><polygon points=\"1732,4789 6478,4811 6491,1850 1738,1829\" /></svg>"
         }
       },
       "body": {
@@ -2384,8 +2383,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1731,
-                4787
+                1732,
+                4789
               ]
             },
             "geometry": {
@@ -2400,8 +2399,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6476,
-                4810
+                6478,
+                4811
               ]
             },
             "geometry": {
@@ -2416,7 +2415,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6490,
+                6491,
                 1850
               ]
             },
@@ -2433,7 +2432,7 @@
             "properties": {
               "resourceCoords": [
                 1738,
-                1828
+                1829
               ]
             },
             "geometry": {
@@ -2465,7 +2464,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8249\" height=\"6681\"><polygon points=\"1746,4870 6493,4873 6498,1925 1746,1929\" /></svg>"
+          "value": "<svg width=\"8249\" height=\"6681\"><polygon points=\"1747,4872 6495,4873 6496,1929 1743,1929\" /></svg>"
         }
       },
       "body": {
@@ -2478,8 +2477,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1746,
-                4870
+                1747,
+                4872
               ]
             },
             "geometry": {
@@ -2494,7 +2493,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6493,
+                6495,
                 4873
               ]
             },
@@ -2510,8 +2509,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6498,
-                1925
+                6496,
+                1929
               ]
             },
             "geometry": {
@@ -2526,7 +2525,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1746,
+                1743,
                 1929
               ]
             },
@@ -2559,7 +2558,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8226\" height=\"6703\"><polygon points=\"1734,4904 6490,4904 6489,1942 1736,1940\" /></svg>"
+          "value": "<svg width=\"8226\" height=\"6703\"><polygon points=\"1733,4903 6491,4905 6491,1940 1736,1940\" /></svg>"
         }
       },
       "body": {
@@ -2572,8 +2571,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1734,
-                4904
+                1733,
+                4903
               ]
             },
             "geometry": {
@@ -2588,8 +2587,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6490,
-                4904
+                6491,
+                4905
               ]
             },
             "geometry": {
@@ -2604,8 +2603,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6489,
-                1942
+                6491,
+                1940
               ]
             },
             "geometry": {
@@ -2653,7 +2652,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8229\" height=\"6604\"><polygon points=\"1757,4830 6487,4833 6491,1871 1761,1877\" /></svg>"
+          "value": "<svg width=\"8229\" height=\"6604\"><polygon points=\"1756,4831 6487,4834 6491,1872 1760,1877\" /></svg>"
         }
       },
       "body": {
@@ -2666,8 +2665,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1757,
-                4830
+                1756,
+                4831
               ]
             },
             "geometry": {
@@ -2683,7 +2682,7 @@
             "properties": {
               "resourceCoords": [
                 6487,
-                4833
+                4834
               ]
             },
             "geometry": {
@@ -2699,7 +2698,7 @@
             "properties": {
               "resourceCoords": [
                 6491,
-                1871
+                1872
               ]
             },
             "geometry": {
@@ -2714,7 +2713,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1761,
+                1760,
                 1877
               ]
             },
@@ -2747,7 +2746,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8227\" height=\"6686\"><polygon points=\"1734,4857 6462,4860 6461,1893 1724,1892\" /></svg>"
+          "value": "<svg width=\"8227\" height=\"6686\"><polygon points=\"1734,4858 6463,4860 6461,1893 1723,1892\" /></svg>"
         }
       },
       "body": {
@@ -2761,7 +2760,7 @@
             "properties": {
               "resourceCoords": [
                 1734,
-                4857
+                4858
               ]
             },
             "geometry": {
@@ -2776,7 +2775,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6462,
+                6463,
                 4860
               ]
             },
@@ -2808,7 +2807,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1724,
+                1723,
                 1892
               ]
             },
@@ -2841,7 +2840,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8253\" height=\"6614\"><polygon points=\"1758,4794 6483,4791 6487,1846 1751,1846\" /></svg>"
+          "value": "<svg width=\"8253\" height=\"6614\"><polygon points=\"1758,4797 6483,4793 6487,1845 1751,1846\" /></svg>"
         }
       },
       "body": {
@@ -2855,7 +2854,7 @@
             "properties": {
               "resourceCoords": [
                 1758,
-                4794
+                4797
               ]
             },
             "geometry": {
@@ -2871,7 +2870,7 @@
             "properties": {
               "resourceCoords": [
                 6483,
-                4791
+                4793
               ]
             },
             "geometry": {
@@ -2887,7 +2886,7 @@
             "properties": {
               "resourceCoords": [
                 6487,
-                1846
+                1845
               ]
             },
             "geometry": {
@@ -2935,7 +2934,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8260\" height=\"6569\"><polygon points=\"1760,4781 6502,4783 6506,1829 1758,1829\" /></svg>"
+          "value": "<svg width=\"8260\" height=\"6569\"><polygon points=\"1760,4781 6503,4782 6506,1829 1759,1830\" /></svg>"
         }
       },
       "body": {
@@ -2964,8 +2963,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6502,
-                4783
+                6503,
+                4782
               ]
             },
             "geometry": {
@@ -2996,8 +2995,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1758,
-                1829
+                1759,
+                1830
               ]
             },
             "geometry": {
@@ -3029,7 +3028,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8266\" height=\"6584\"><polygon points=\"1040,4782 6496,4787 6498,1828 27151,1844\" /></svg>"
+          "value": "<svg width=\"8266\" height=\"6584\"><polygon points=\"1779,4783 6496,4787 6498,1828 1770,1824 1773,2013 1531,2013 1443,4783\" /></svg>"
         }
       },
       "body": {
@@ -3042,8 +3041,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1040,
-                4782
+                1779,
+                4783
               ]
             },
             "geometry": {
@@ -3090,8 +3089,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                27151,
-                1844
+                1770,
+                1824
               ]
             },
             "geometry": {
@@ -3123,7 +3122,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8245\" height=\"6592\"><polygon points=\"1745,4776 6473,4792 6479,1840 1752,1823\" /></svg>"
+          "value": "<svg width=\"8245\" height=\"6592\"><polygon points=\"1745,4776 6473,4792 6479,1838 1752,1822\" /></svg>"
         }
       },
       "body": {
@@ -3169,7 +3168,7 @@
             "properties": {
               "resourceCoords": [
                 6479,
-                1840
+                1838
               ]
             },
             "geometry": {
@@ -3185,7 +3184,7 @@
             "properties": {
               "resourceCoords": [
                 1752,
-                1823
+                1822
               ]
             },
             "geometry": {
@@ -3217,7 +3216,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8210\" height=\"6606\"><polygon points=\"1732,4778 6592,4791 6592,1836 1692,1839\" /></svg>"
+          "value": "<svg width=\"8210\" height=\"6606\"><polygon points=\"1851,4779 6592,4791 6592,1836 1865,1839 1545,1843 1552,4781\" /></svg>"
         }
       },
       "body": {
@@ -3230,8 +3229,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1732,
-                4778
+                1851,
+                4779
               ]
             },
             "geometry": {
@@ -3278,7 +3277,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1692,
+                1865,
                 1839
               ]
             },
@@ -5285,7 +5284,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8246\" height=\"6567\"><polygon points=\"1726,4737 6448,4748 6462,1778 1726,1777\" /></svg>"
+          "value": "<svg width=\"8246\" height=\"6567\"><polygon points=\"1726,4737 6448,4748 6588,4748 6594,3796 6453,3795 6462,1778 1726,1777\" /></svg>"
         }
       },
       "body": {
@@ -5473,7 +5472,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8196\" height=\"6572\"><polygon points=\"1741,4765 6458,4768 6466,1812 1740,1807\" /></svg>"
+          "value": "<svg width=\"8196\" height=\"6572\"><polygon points=\"1741,4765 6458,4768 6466,1812 1740,1807 1742,4182 1644,4182 1638,4766\" /></svg>"
         }
       },
       "body": {
@@ -5567,7 +5566,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8233\" height=\"6557\"><polygon points=\"1771,4760 6503,4790 6515,1825 1787,1804\" /></svg>"
+          "value": "<svg width=\"8233\" height=\"6557\"><polygon points=\"1771,4760 6503,4790 6515,1825 4058,1816 4058,1697 2710,1694 2710,1809 1787,1804\" /></svg>"
         }
       },
       "body": {
@@ -6131,7 +6130,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8216\" height=\"6573\"><polygon points=\"1781,4754 6515,4748 6514,1786 1780,1797\" /></svg>"
+          "value": "<svg width=\"8216\" height=\"6573\"><polygon points=\"1781,4754 6515,4748 6514,1786 6516,1606 6132,1604 4734,1720 4734,1791 1780,1797\" /></svg>"
         }
       },
       "body": {
@@ -6319,7 +6318,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8211\" height=\"6653\"><polygon points=\"1751,4837 6474,4832 6471,1874 1754,1879\" /></svg>"
+          "value": "<svg width=\"8211\" height=\"6653\"><polygon points=\"1751,4837 6474,4832 6471,1874 1754,1879 1753,4110 1579,4107 1575,4549 1751,4551\" /></svg>"
         }
       },
       "body": {
@@ -7165,7 +7164,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8271\" height=\"6542\"><polygon points=\"1812,4651 6537,4658 6547,1702 1822,1729\" /></svg>"
+          "value": "<svg width=\"8271\" height=\"6542\"><polygon points=\"1812,4651 6537,4658 6547,1702 2775,1702 2708,1716 2423,1654 2196,1659 2124,1624 2053,1538 2030,1494 2014,1422 2001,1336 1951,1255 1694,1255 1665,1306 1689,1450 1692,1554 1674,1631 1623,1736 1616,1803 1637,1914 1734,2050 1819,2142\" /></svg>"
         }
       },
       "body": {
@@ -7226,8 +7225,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1822,
-                1729
+                1821,
+                1702
               ]
             },
             "geometry": {
@@ -7353,7 +7352,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8202\" height=\"6588\"><polygon points=\"1700,4768 6442,4779 6449,1825 1701,1821\" /></svg>"
+          "value": "<svg width=\"8202\" height=\"6588\"><polygon points=\"1700,4768 6442,4779 6449,1825 6456,720 4811,713 4813,1827 1701,1821\" /></svg>"
         }
       },
       "body": {
@@ -7729,7 +7728,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8197\" height=\"6574\"><polygon points=\"1721,4759 6452,4751 6449,1788 1715,1793\" /></svg>"
+          "value": "<svg width=\"8197\" height=\"6574\"><polygon points=\"1721,4759 3024,4759 3109,4784 3330,4965 3486,5040 3517,5020 3553,5039 3558,4989 3570,4955 3617,4912 3599,4814 3586,4808 3586,4791 3652,4758 6452,4751 6449,1788 1715,1793\" /></svg>"
         }
       },
       "body": {
@@ -8293,7 +8292,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8221\" height=\"6575\"><polygon points=\"1735,4742 6457,4744 6457,1803 1736,1804\" /></svg>"
+          "value": "<svg width=\"8221\" height=\"6575\"><polygon points=\"1735,4742 1735,5570 3844,5570 3840,4743 6457,4744 6457,1803 1736,1804\" /></svg>"
         }
       },
       "body": {
@@ -9515,7 +9514,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8265\" height=\"6604\"><polygon points=\"1772,4839 6501,4839 6507,1880 1772,1871\" /></svg>"
+          "value": "<svg width=\"8265\" height=\"6604\"><polygon points=\"1772,4839 6501,4839 6501,1880 3580,1875 3501,1832 3448,1828 3398,1803 3352,1796 3255,1827 3246,1871 1772,1871\" /></svg>"
         }
       },
       "body": {
@@ -9560,7 +9559,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6507,
+                6501,
                 1880
               ]
             },
@@ -9703,7 +9702,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8293\" height=\"6588\"><polygon points=\"1770,4757 6492,4768 6496,1802 1765,1805\" /></svg>"
+          "value": "<svg width=\"8293\" height=\"6588\"><polygon points=\"1770,4757 6492,4768 6496,1802 4595,1802 4595,1590 3850,1590 3853,1805 1765,1805\" /></svg>"
         }
       },
       "body": {
@@ -9891,7 +9890,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8234\" height=\"6555\"><polygon points=\"1729,4733 6456,4742 6456,1769 1725,1761\" /></svg>"
+          "value": "<svg width=\"8234\" height=\"6555\"><polygon points=\"1729,4733 3068,4735 3068,4851 3420,4851 3419,4738 6456,4742 6456,3606 7278,3606 7296,1777 6456,1772 1725,1761\" /></svg>"
         }
       },
       "body": {
@@ -9937,7 +9936,7 @@
             "properties": {
               "resourceCoords": [
                 6456,
-                1769
+                1772
               ]
             },
             "geometry": {
@@ -10737,7 +10736,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8188\" height=\"6563\"><polygon points=\"1742,4762 6450,4751 6453,1794 1737,1806\" /></svg>"
+          "value": "<svg width=\"8188\" height=\"6563\"><polygon points=\"1742,4762 6450,4751 6453,1794 1737,1806 1739,2249 1628,2248 1630,2645 1741,2646\" /></svg>"
         }
       },
       "body": {
@@ -10925,7 +10924,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8212\" height=\"6533\"><polygon points=\"1751,4742 6464,4744 6466,1780 1746,1783\" /></svg>"
+          "value": "<svg width=\"8212\" height=\"6533\"><polygon points=\"1751,4742 6464,4744 6466,1780 1746,1783 1746,2038 1640,2037 1641,2341 1747,2343 1744,3236 1630,3232 1628,3586 1749,3585\" /></svg>"
         }
       },
       "body": {
@@ -11207,7 +11206,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8216\" height=\"6518\"><polygon points=\"1739,4731 6481,4723 6480,1766 1733,1768\" /></svg>"
+          "value": "<svg width=\"8216\" height=\"6518\"><polygon points=\"1739,4731 2852,4732 2858,4765 2844,4803 2865,4834 2891,4842 2923,4865 2967,4845 3006,4860 3029,4827 3086,4834 3101,4796 3137,4768 3136,4754 3109,4730 6481,4723 6480,1766 1733,1768\" /></svg>"
         }
       },
       "body": {
@@ -11489,7 +11488,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8252\" height=\"6624\"><polygon points=\"1763,4814 6488,4800 6482,1834 1757,1840\" /></svg>"
+          "value": "<svg width=\"8252\" height=\"6624\"><polygon points=\"1763,4814 6486,4801 6486,4876 6748,4876 6738,3859 6485,3860 6482,1834 1757,1840\" /></svg>"
         }
       },
       "body": {
@@ -11518,8 +11517,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                6488,
-                4800
+                6486,
+                4801
               ]
             },
             "geometry": {
@@ -11865,7 +11864,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8197\" height=\"6526\"><polygon points=\"1741,4753 6454,4745 6460,1787 1729,1784\" /></svg>"
+          "value": "<svg width=\"8197\" height=\"6526\"><polygon points=\"1741,4753 1741,5227 3518,5227 3748,4912 4224,4918 4346,4750 6454,4745 6460,1787 1729,1784\" /></svg>"
         }
       },
       "body": {
@@ -12053,7 +12052,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8284\" height=\"6587\"><polygon points=\"1775,4791 6543,4796 6559,1828 1786,1819\" /></svg>"
+          "value": "<svg width=\"8284\" height=\"6587\"><polygon points=\"1775,4791 6543,4796 6559,1828 1786,1819 1775,3780 1649,3839 1343,3938 1231,3993 1130,4074 1030,4202 948,4332 896,4463 856,4567 844,4787\" /></svg>"
         }
       },
       "body": {
@@ -12147,7 +12146,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8180\" height=\"6565\"><polygon points=\"1699,4791 6464,4801 6473,1836 1700,1826\" /></svg>"
+          "value": "<svg width=\"8180\" height=\"6565\"><polygon points=\"1699,4791 6464,4801 6473,1836 1700,1826 798,1825 818,1930 881,2107 986,2304 1061,2393 1152,2471 1183,2485 1327,2610 1700,2615\" /></svg>"
         }
       },
       "body": {
@@ -12523,7 +12522,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8192\" height=\"6590\"><polygon points=\"1729,4792 6458,4804 6452,1837 1721,1830\" /></svg>"
+          "value": "<svg width=\"8192\" height=\"6590\"><polygon points=\"1729,4795 1771,4795 1801,4838 1821,4855 1822,4895 1835,4910 1861,4910 1875,4923 1958,4924 1977,4908 1998,4911 2061,4890 2071,4873 2100,4872 2087,4852 2108,4830 2089,4814 2103,4794 6458,4804 6452,1837 1721,1830\" /></svg>"
         }
       },
       "body": {
@@ -12537,7 +12536,7 @@
             "properties": {
               "resourceCoords": [
                 1729,
-                4792
+                4795
               ]
             },
             "geometry": {
@@ -12617,7 +12616,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8240\" height=\"6523\"><polygon points=\"1760,4725 6495,4733 6493,1779 1764,1780\" /></svg>"
+          "value": "<svg width=\"8240\" height=\"6523\"><polygon points=\"1760,4725 2743,4727 2740,4817 3373,4825 3374,4730 6495,4733 6495,3588 6509,3588 6509,3546 6541,3544 6539,3507 6538,3472 6532,3444 6531,3409 6522,3409 6519,3340 6494,3341 6493,1779 4618,1780 4583,1766 4578,1779 3257,1777 3204,1721 3101,1660 3055,1640 3021,1634 2971,1644 2913,1671 2789,1777 1762,1778\" /></svg>"
         }
       },
       "body": {
@@ -12678,8 +12677,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1764,
-                1780
+                1762,
+                1778
               ]
             },
             "geometry": {
@@ -12805,7 +12804,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8251\" height=\"6613\"><polygon points=\"1734,4826 6478,4826 6489,1878 1745,1874\" /></svg>"
+          "value": "<svg width=\"8251\" height=\"6613\"><polygon points=\"1734,4826 4450,4831 4467,4843 4466,4962 4444,4972 4433,5024 4485,5014 4490,5003 4660,5068 4779,5099 4910,4901 4935,4830 6478,4826 6489,1878 1745,1874\" /></svg>"
         }
       },
       "body": {
@@ -12993,7 +12992,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8310\" height=\"6541\"><polygon points=\"1770,4762 6529,4735 6528,1781 1768,1785\" /></svg>"
+          "value": "<svg width=\"8310\" height=\"6541\"><polygon points=\"1770,4762 6529,4735 6528,1781 4288,1779 4189,1648 4119,1593 4015,1539 3933,1522 3837,1525 3702,1561 3469,1645 3329,1664 3197,1668 3008,1683 2878,1708 2674,1783 1768,1785\" /></svg>"
         }
       },
       "body": {
@@ -13087,7 +13086,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8217\" height=\"6541\"><polygon points=\"1752,4751 6479,4755 6489,1802 1752,1792\" /></svg>"
+          "value": "<svg width=\"8217\" height=\"6541\"><polygon points=\"1752,4751 6479,4755 6489,1802 5874,1801 5826,1634 4933,1634 4900,1740 4933,1799 3718,1795 3693,1719 3514,1710 3482,1795 2981,1794 2965,1755 2936,1719 2890,1676 2837,1644 2801,1632 2747,1634 2639,1653 2585,1794 1752,1792\" /></svg>"
         }
       },
       "body": {
@@ -13181,7 +13180,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8274\" height=\"6582\"><polygon points=\"1774,4801 6532,4796 6531,1830 1764,1831\" /></svg>"
+          "value": "<svg width=\"8274\" height=\"6582\"><polygon points=\"1774,4801 3882,4799 3886,5103 4718,5105 4725,4798 6532,4796 6531,1830 1764,1831\" /></svg>"
         }
       },
       "body": {
@@ -13369,7 +13368,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8257\" height=\"6596\"><polygon points=\"1745,4794 6482,4793 6494,1826 1752,1823\" /></svg>"
+          "value": "<svg width=\"8257\" height=\"6596\"><polygon points=\"1745,4794 6482,4793 6785,4793 6780,4209 6484,4207 6494,1826 1752,1823\" /></svg>"
         }
       },
       "body": {
@@ -13463,7 +13462,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8204\" height=\"6575\"><polygon points=\"1695,4755 6466,4745 6468,1791 1687,1808\" /></svg>"
+          "value": "<svg width=\"8204\" height=\"6575\"><polygon points=\"1695,4755 6466,4745 6468,1791 6470,1555 4700,1553 4701,1797 1687,1808\" /></svg>"
         }
       },
       "body": {
@@ -13651,7 +13650,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8204\" height=\"6628\"><polygon points=\"1717,4821 6452,4825 6457,1860 1721,1862\" /></svg>"
+          "value": "<svg width=\"8204\" height=\"6628\"><polygon points=\"1717,4821 6452,4825 6457,1860 6460,1419 3136,1414 3131,1859 1721,1862 1717,2807 1656,2844 1609,2892 1584,2951 1577,3009 1553,3085 1533,3094 1516,3156 1531,3375 1549,3419 1603,3478 1664,3519 1717,3574\" /></svg>"
         }
       },
       "body": {
@@ -14121,7 +14120,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8210\" height=\"6515\"><polygon points=\"1730,4743 6469,4739 6465,1782 1720,1793\" /></svg>"
+          "value": "<svg width=\"8210\" height=\"6515\"><polygon points=\"1730,4743 6469,4739 6465,1782 2134,1790 2134,1691 1721,1692 1723,1793 1720,1793\" /></svg>"
         }
       },
       "body": {
@@ -14309,7 +14308,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8164\" height=\"6478\"><polygon points=\"1722,4743 6451,4739 6452,1788 1722,1788\" /></svg>"
+          "value": "<svg width=\"8164\" height=\"6478\"><polygon points=\"1722,4743 2197,4742 2232,4905 2222,5021 2240,5058 3807,5053 3800,4738 6451,4739 6452,1788 1722,1788\" /></svg>"
         }
       },
       "body": {
@@ -14403,7 +14402,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8233\" height=\"6623\"><polygon points=\"1730,4841 6466,4848 6471,1881 1724,1880\" /></svg>"
+          "value": "<svg width=\"8233\" height=\"6623\"><polygon points=\"1730,4841 6466,4848 6471,1881 4918,1881 4941,1815 4940,1694 4601,1694 4601,1756 4494,1800 4415,1805 4434,1881 1724,1880\" /></svg>"
         }
       },
       "body": {
@@ -14779,7 +14778,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8245\" height=\"6599\"><polygon points=\"1743,4793 6488,4798 6490,1843 1745,1837\" /></svg>"
+          "value": "<svg width=\"8245\" height=\"6599\"><polygon points=\"1743,4793 6488,4798 6490,1843 4603,1843 4602,1537 3562,1536 3572,1837 1745,1837\" /></svg>"
         }
       },
       "body": {
@@ -14873,7 +14872,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8296\" height=\"6716\"><polygon points=\"1789,4847 6529,4829 6518,1882 1773,1895\" /></svg>"
+          "value": "<svg width=\"8296\" height=\"6716\"><polygon points=\"1789,4847 4658,4836 4661,5191 5471,5193 5465,4833 6529,4829 6518,1882 1773,1895\" /></svg>"
         }
       },
       "body": {
@@ -15061,7 +15060,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8247\" height=\"6620\"><polygon points=\"1743,4807 6494,4810 6495,1862 1750,1860\" /></svg>"
+          "value": "<svg width=\"8247\" height=\"6620\"><polygon points=\"1743,4807 6494,4810 6495,1862 5406,1861 5394,1506 4524,1512 4533,1859 1750,1860\" /></svg>"
         }
       },
       "body": {
@@ -15343,7 +15342,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8218\" height=\"6562\"><polygon points=\"1722,4759 6467,4770 6466,1804 1722,1810\" /></svg>"
+          "value": "<svg width=\"8218\" height=\"6562\"><polygon points=\"1722,4759 6467,4770 6466,1804 1722,1810 1403,1809 1402,2808 1722,2806\" /></svg>"
         }
       },
       "body": {
@@ -15531,7 +15530,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8202\" height=\"6581\"><polygon points=\"1738,4817 6459,4819 6464,1821 1731,1835\" /></svg>"
+          "value": "<svg width=\"8202\" height=\"6581\"><polygon points=\"1738,4817 5314,4818 5870,5188 6461,5180 6459,4819 6464,1821 6467,650 5908,705 5576,849 4957,932 4714,1117 4662,1300 4315,1827 1731,1835\" /></svg>"
         }
       },
       "body": {
@@ -15625,7 +15624,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8191\" height=\"6580\"><polygon points=\"1716,4762 6434,4757 6451,1803 1710,1806\" /></svg>"
+          "value": "<svg width=\"8191\" height=\"6580\"><polygon points=\"1716,4762 1715,4993 3225,4763 6434,4757 6451,1803 1710,1806\" /></svg>"
         }
       },
       "body": {
@@ -15813,7 +15812,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8203\" height=\"6625\"><polygon points=\"1704,4788 6417,4785 6414,1841 1695,1838\" /></svg>"
+          "value": "<svg width=\"8203\" height=\"6625\"><polygon points=\"1704,4788 6417,4785 6416,3542 6833,3540 6830,2376 6419,2377 6414,1841 1695,1838 1218,1839 1249,3911 1702,3907\" /></svg>"
         }
       },
       "body": {
@@ -15907,7 +15906,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8225\" height=\"6600\"><polygon points=\"1749,4788 6478,4788 6494,1825 1743,1825\" /></svg>"
+          "value": "<svg width=\"8225\" height=\"6600\"><polygon points=\"1749,4788 1751,5027 2530,5026 2533,4787 6478,4788 6494,1825 1743,1825\" /></svg>"
         }
       },
       "body": {
@@ -16001,7 +16000,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8252\" height=\"6547\"><polygon points=\"1784,4741 6518,4748 6505,1775 1780,1781\" /></svg>"
+          "value": "<svg width=\"8252\" height=\"6547\"><polygon points=\"1784,4741 4154,4746 5310,5147 6424,5285 6424,5270 6521,5270 6518,4748 6505,1775 1780,1781 765,1783 775,1827 940,2117 954,2237 1016,3161 1781,3347\" /></svg>"
         }
       },
       "body": {
@@ -16095,7 +16094,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8229\" height=\"6644\"><polygon points=\"1747,4809 6474,4804 6473,1836 1754,1838\" /></svg>"
+          "value": "<svg width=\"8229\" height=\"6644\"><polygon points=\"1747,4809 6474,4804 6474,4286 6779,4117 6587,2670 6507,1836 6473,1836 1754,1838\" /></svg>"
         }
       },
       "body": {
@@ -16471,7 +16470,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8196\" height=\"6561\"><polygon points=\"1729,4733 6453,4747 6457,1786 1736,1778\" /></svg>"
+          "value": "<svg width=\"8196\" height=\"6561\"><polygon points=\"1729,4733 6453,4747 6457,1786 4974,1784 4971,1738 4851,1741 4849,1783 1736,1778\" /></svg>"
         }
       },
       "body": {
@@ -16847,7 +16846,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8182\" height=\"6600\"><polygon points=\"1711,4795 6436,4796 6441,1830 1714,1836\" /></svg>"
+          "value": "<svg width=\"8182\" height=\"6600\"><polygon points=\"1711,4795 6436,4796 6439,3479 6543,3480 6543,2529 6441,2529 6441,1830 1714,1836 1712,2787 1372,2785 1380,4794\" /></svg>"
         }
       },
       "body": {
@@ -17129,7 +17128,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8232\" height=\"6616\"><polygon points=\"1751,4774 6469,4786 6473,1805 1743,1802\" /></svg>"
+          "value": "<svg width=\"8232\" height=\"6616\"><polygon points=\"1751,4774 6469,4786 6473,1805 3172,1803 3168,1089 1743,1089 1743,1802\" /></svg>"
         }
       },
       "body": {
