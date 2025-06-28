@@ -106,7 +106,7 @@
             "width": 8266,
             "label": {
                 "none": [
-                    "1.W"
+                    "1.SW"
                 ]
             },
             "metadata": [
@@ -171,7 +171,7 @@
             "width": 8231,
             "label": {
                 "none": [
-                    "1.E"
+                    "1.SE"
                 ]
             },
             "metadata": [
@@ -236,7 +236,7 @@
             "width": 8290,
             "label": {
                 "none": [
-                    "2.W"
+                    "2.SW"
                 ]
             },
             "metadata": [
@@ -301,7 +301,7 @@
             "width": 8279,
             "label": {
                 "none": [
-                    "2.E"
+                    "2.SE"
                 ]
             },
             "metadata": [
@@ -1122,7 +1122,7 @@
             "width": 8305,
             "label": {
                 "none": [
-                    "9.N"
+                    "9.NW"
                 ]
             },
             "metadata": [
@@ -1835,7 +1835,7 @@
             "width": 8245,
             "label": {
                 "none": [
-                    "13.N"
+                    "13.NW"
                 ]
             },
             "metadata": [
@@ -1888,7 +1888,7 @@
             "width": 8271,
             "label": {
                 "none": [
-                    "13.S"
+                    "13.SW"
                 ]
             },
             "metadata": [
@@ -2736,7 +2736,7 @@
             "width": 8285,
             "label": {
                 "none": [
-                    "18.N"
+                    "18.NW"
                 ]
             },
             "metadata": [
@@ -2789,7 +2789,7 @@
             "width": 8239,
             "label": {
                 "none": [
-                    "18.S"
+                    "18.SW"
                 ]
             },
             "metadata": [
@@ -3054,7 +3054,7 @@
             "width": 8236,
             "label": {
                 "none": [
-                    "20.W"
+                    "20.NW"
                 ]
             },
             "metadata": [
@@ -3370,7 +3370,7 @@
             "width": 8170,
             "label": {
                 "none": [
-                    "23"
+                    "23.W"
                 ]
             },
             "metadata": [
@@ -3423,7 +3423,7 @@
             "width": 8274,
             "label": {
                 "none": [
-                    "24.N"
+                    "24.NE"
                 ]
             },
             "metadata": [
@@ -3488,7 +3488,7 @@
             "width": 8223,
             "label": {
                 "none": [
-                    "24.S"
+                    "24.SE"
                 ]
             },
             "metadata": [
@@ -3777,7 +3777,7 @@
             "width": 8203,
             "label": {
                 "none": [
-                    "26.W"
+                    "26.SW"
                 ]
             },
             "metadata": [
@@ -4042,7 +4042,7 @@
             "width": 8230,
             "label": {
                 "none": [
-                    "29.N"
+                    "29.NW"
                 ]
             },
             "metadata": [
@@ -4095,7 +4095,7 @@
             "width": 8204,
             "label": {
                 "none": [
-                    "29.S"
+                    "29.SW"
                 ]
             },
             "metadata": [
@@ -5107,7 +5107,7 @@
             "width": 8193,
             "label": {
                 "none": [
-                    "36"
+                    "36.SE"
                 ]
             },
             "metadata": [
@@ -6247,7 +6247,7 @@
             "width": 8278,
             "label": {
                 "none": [
-                    "42.N"
+                    "42.NE"
                 ]
             },
             "metadata": [
@@ -6312,7 +6312,7 @@
             "width": 8312,
             "label": {
                 "none": [
-                    "42.S"
+                    "42.SE"
                 ]
             },
             "metadata": [
@@ -8463,7 +8463,7 @@
             "width": 8139,
             "label": {
                 "none": [
-                    "53"
+                    "53.NE"
                 ]
             },
             "metadata": [
@@ -8723,7 +8723,7 @@
             "width": 8138,
             "label": {
                 "none": [
-                    "55"
+                    "55.NW"
                 ]
             },
             "metadata": [
@@ -9212,7 +9212,7 @@
             "width": 8238,
             "label": {
                 "none": [
-                    "61"
+                    "61.NE"
                 ]
             },
             "metadata": [
