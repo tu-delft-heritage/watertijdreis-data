@@ -110,7 +110,7 @@
       "width": 8231,
       "label": {
         "none": [
-          "18"
+          "18.W"
         ]
       },
       "metadata": [
@@ -175,7 +175,7 @@
       "width": 8256,
       "label": {
         "none": [
-          "18.WVE"
+          "18.W.WVE"
         ]
       },
       "items": [
@@ -214,7 +214,7 @@
       "width": 8314,
       "label": {
         "none": [
-          "18.HWP"
+          "18.W.HWP"
         ]
       },
       "items": [
@@ -1189,7 +1189,7 @@
       "width": 8240,
       "label": {
         "none": [
-          "59"
+          "59.E"
         ]
       },
       "metadata": [

@@ -110,7 +110,7 @@
             "width": 8231,
             "label": {
                 "none": [
-                    "18"
+                    "18.W"
                 ]
             },
             "metadata": [
@@ -175,7 +175,7 @@
             "width": 8256,
             "label": {
                 "none": [
-                    "18.watervoorzieningseenheden"
+                    "18.W.watervoorzieningseenheden"
                 ]
             },
             "items": [
@@ -214,7 +214,7 @@
             "width": 8314,
             "label": {
                 "none": [
-                    "18.hydrologische waarnemingspunten"
+                    "18.W.hydrologische waarnemingspunten"
                 ]
             },
             "items": [
@@ -1189,7 +1189,7 @@
             "width": 8240,
             "label": {
                 "none": [
-                    "59"
+                    "59.E"
                 ]
             },
             "metadata": [
