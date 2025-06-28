@@ -37,7 +37,10 @@ Syntax for canvas label value:
   - `L` left
   - `R` right
 
-Example: `52.O.WVE`
+Example: `52.E.WVE` = Sheet number 52, East, Watervoorzieningseenheden
+
+* special case: In Edition 5, sheet 30 covers both the East and West side of the sheet, so it has been marked as EW
+* special case: In Edition 4, the annotations for sheet 29 and 35 are both masks of the same scan, so the scan in in the manifest twice
 
 ## Metadata
 
