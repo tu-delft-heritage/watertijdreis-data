@@ -106,7 +106,7 @@
             "width": 8946,
             "label": {
                 "none": [
-                    "30.W.E"
+                    "30.E"
                 ]
             },
             "metadata": [
@@ -171,7 +171,7 @@
             "width": 8949,
             "label": {
                 "none": [
-                    "30.W.E.back"
+                    "30.E.back"
                 ]
             },
             "items": [
@@ -210,7 +210,7 @@
             "width": 8374,
             "label": {
                 "none": [
-                    "42"
+                    "42.E"
                 ]
             },
             "metadata": [
@@ -405,7 +405,7 @@
             "width": 4208,
             "label": {
                 "none": [
-                    "44.NE.back"
+                    "44.E.back"
                 ]
             },
             "items": [
