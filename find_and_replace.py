@@ -54,6 +54,9 @@ def process_json_files_in_directory(directory_path, label_mapping):
     print(f"Processing JSON files in directory: {directory_path}")
 
     for filename in os.listdir(directory_path):
+        #check is the file starts with 'modified' to avoid duplicates
+        if filename.startswith('modified'):
+            continue
         filepath = os.path.join(directory_path, filename)
 
         try:
