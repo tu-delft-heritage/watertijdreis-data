@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://tu-delft-heritage.github.io/watertijdreis-data/manifests/06-1874-456552/manifest.json",
+  "id": "https://tu-delft-heritage.github.io/watertijdreis-data/manifests/content/iiif-manifests/06-1874-456552/manifest.json",
   "type": "Manifest",
   "label": {
     "none": [
@@ -96,6 +96,10 @@
     {
       "id": "http://localhost:7111/manifests/content/iiif-manifests/1874-456552",
       "type": "ContentResource"
+    },
+    {
+      "id": "https://tu-delft-heritage.github.io/watertijdreis-data/manifests/content/iiif-manifests/06-1874-456552",
+      "type": "ContentResource"
     }
   ],
   "items": [
@@ -109,6 +113,32 @@
           "39.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1964.1966"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1967"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456552/page/p1/1",
@@ -187,6 +217,32 @@
           "52.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1963"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456552/page/p3/1",
@@ -226,6 +282,32 @@
           "53.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1962"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1963.1964"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456552/page/p4/1",
@@ -382,6 +464,32 @@
           "56.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "1967"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1968"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456552/page/p8/1",
@@ -421,6 +529,32 @@
           "57.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1961.1962"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1964"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456552/page/p9/1",
@@ -460,6 +594,32 @@
           "57.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "1960"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "1963"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456552/page/p10/1",
