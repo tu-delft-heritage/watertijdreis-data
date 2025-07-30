@@ -9325,86 +9325,6 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                227,
-                6223
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                6.0265276,
-                51.1332191
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
-                3823,
-                6226
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                6.2443808,
-                51.1318149
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
-                3822,
-                6118
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                6.2444647,
-                51.1363089
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
-                3825,
-                236
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                6.2486796,
-                51.3610073
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
-                235,
-                231
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                6.0297348,
-                51.3624208
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
                 292,
                 6116
               ]
@@ -9414,6 +9334,38 @@
               "coordinates": [
                 6.030162,
                 51.1376935
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2649,
+                6119
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.1730322,
+                51.1368143
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2649,
+                4942
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.1738018,
+                51.1817548
               ]
             }
           }
