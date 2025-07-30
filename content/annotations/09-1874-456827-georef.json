@@ -2947,15 +2947,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                7951,
-                6301
+                4034,
+                6294
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                5.350398,
-                52.4877101
+                5.1074793,
+                52.4873857
               ]
             }
           },
@@ -2988,6 +2988,22 @@
               "coordinates": [
                 4.8692948,
                 52.7112672
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                7951,
+                6301
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.350398,
+                52.4877101
               ]
             }
           }
