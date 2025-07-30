@@ -4620,6 +4620,22 @@
                 52.2488411
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2844,
+                3080
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.0904886,
+                52.3676079
+              ]
+            }
           }
         ]
       }
