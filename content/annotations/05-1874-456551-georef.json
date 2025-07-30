@@ -9312,7 +9312,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8192\" height=\"6617\"><polygon points=\"227,6223 3823,6226 3822,6118 3825,236 235,231\" /></svg>"
+          "value": "<svg width=\"8192\" height=\"6617\"><polygon points=\"227,6223 3823,6226 3822,6118 3825,236 299,231 235,231\" /></svg>"
         }
       },
       "body": {
@@ -9321,6 +9321,22 @@
           "type": "thinPlateSpline"
         },
         "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                299,
+                231
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.0333242,
+                51.362401
+              ]
+            }
+          },
           {
             "type": "Feature",
             "properties": {
