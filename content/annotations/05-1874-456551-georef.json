@@ -8956,8 +8956,24 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.2169862,
+                4.2169859,
                 51.2496157
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2187,
+                4801
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.0503572,
+                51.249618
               ]
             }
           }
