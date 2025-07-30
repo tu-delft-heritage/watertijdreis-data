@@ -9325,6 +9325,22 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
+                3825,
+                236
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.2486796,
+                51.3610073
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
                 299,
                 231
               ]
