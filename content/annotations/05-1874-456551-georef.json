@@ -5566,7 +5566,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8193\" height=\"6630\"><polygon points=\"2677,6151 4971,6145 4964,3244 2671,3249\" /></svg>"
+          "value": "<svg width=\"8193\" height=\"6630\"><polygon points=\"2677,6154 4973,6145 4964,3244 2671,3249 2677,6085\" /></svg>"
         }
       },
       "body": {
@@ -5579,31 +5579,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2677,
-                6151
+                4795,
+                6081
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.9212303,
-                52.1442949
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
-                4971,
-                6145
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                7.0636197,
-                52.1423563
+                7.052702,
+                52.1434099
               ]
             }
           },
@@ -5618,8 +5602,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                7.0677148,
-                52.2510715
+                7.0677164,
+                52.2510713
               ]
             }
           },
@@ -5634,8 +5618,24 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.9249779,
-                52.2530162
+                6.9249792,
+                52.2530159
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2677,
+                6085
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.9212622,
+                52.1451931
               ]
             }
           }
