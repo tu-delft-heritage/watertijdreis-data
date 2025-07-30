@@ -8928,6 +8928,22 @@
                 51.2496169
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4924,
+                4825
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.2169862,
+                51.2496157
+              ]
+            }
           }
         ]
       }
