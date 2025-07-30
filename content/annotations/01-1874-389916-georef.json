@@ -15543,22 +15543,6 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1733,
-                4820
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                3.1649412,
-                51.2397477
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
                 6461,
                 4797
               ]
