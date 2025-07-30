@@ -15550,8 +15550,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                3.1649412,
-                51.2397477
+                3.1649414,
+                51.2397474
               ]
             }
           },
@@ -15566,8 +15566,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                3.4512882,
-                51.2436123
+                3.4512879,
+                51.2436125
               ]
             }
           },
@@ -15582,8 +15582,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                3.4477911,
-                51.3559512
+                3.447791,
+                51.355951
               ]
             }
           },
@@ -15599,7 +15599,55 @@
               "type": "Point",
               "coordinates": [
                 3.1607449,
-                51.3520771
+                51.3520768
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2608,
+                4550
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.2172124,
+                51.2496303
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3978,
+                4578
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.3005269,
+                51.2496291
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5347,
+                4611
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.3838414,
+                51.2496278
               ]
             }
           }
