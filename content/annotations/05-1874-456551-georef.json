@@ -9054,6 +9054,54 @@
                 51.3638041
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                204,
+                3776
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.0865547,
+                51.2289744
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1629,
+                3776
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1724526,
+                51.2291646
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1636,
+                6133
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1728721,
+                51.1392773
+              ]
+            }
           }
         ]
       }
