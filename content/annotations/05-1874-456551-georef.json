@@ -8839,22 +8839,6 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2789,
-                4758
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                3.8004138,
-                51.2496216
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
                 4160,
                 4777
               ]
@@ -8864,22 +8848,6 @@
               "coordinates": [
                 3.8837283,
                 51.2496204
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
-                5529,
-                4798
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                3.9170542,
-                51.2496199
               ]
             }
           }
