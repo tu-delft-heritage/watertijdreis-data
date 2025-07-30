@@ -15650,6 +15650,54 @@
                 51.2496278
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2652,
+                2352
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.2172157,
+                51.3329536
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4025,
+                2378
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.3005301,
+                51.3329523
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5393,
+                2410
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.3838446,
+                51.332951
+              ]
+            }
           }
         ]
       }
