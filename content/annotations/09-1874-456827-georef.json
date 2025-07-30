@@ -5350,7 +5350,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"8240\" height=\"6668\"><polygon points=\"258,6285 4989,6306 4988,4336 5980,4342 5993,2184 7962,2187 7965,405 265,375\" /></svg>"
+          "value": "<svg width=\"8240\" height=\"6668\"><polygon points=\"258,6285 4989,6306 4988,4336 5980,4342 5993,2184 7962,2187 7965,405 4984,394 265,375\" /></svg>"
         }
       },
       "body": {
@@ -5371,7 +5371,23 @@
               "type": "Point",
               "coordinates": [
                 6.6258918,
-                52.0318099
+                52.03181
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4984,
+                394
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.9249792,
+                52.2530159
               ]
             }
           },
@@ -5386,8 +5402,8 @@
             "geometry": {
               "type": "Point",
               "coordinates": [
-                6.6321429,
-                52.2564655
+                6.632143,
+                52.2564656
               ]
             }
           },
@@ -5411,22 +5427,6 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4983,
-                395
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                6.9249791,
-                52.2530159
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
                 7825,
                 405
               ]
@@ -5435,7 +5435,7 @@
               "type": "Point",
               "coordinates": [
                 7.1006537,
-                52.250598
+                52.2505981
               ]
             }
           }
