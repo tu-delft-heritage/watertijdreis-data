@@ -4670,59 +4670,6 @@
             ]
         },
         {
-            "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p71/dup",
-            "type": "Canvas",
-            "height": 6630,
-            "width": 8193,
-            "label": {
-                "none": [
-                    "35.W"
-                ]
-            },
-            "metadata": [
-                {
-                    "label": {
-                        "en": [
-                            "herzien"
-                        ]
-                    },
-                    "value": {
-                        "en": [
-                            "1952.1953"
-                        ]
-                    }
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p71/dup/1",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-71-dup-image",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p71/dup",
-                            "body": {
-                                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/15/01/54/150154230682890619466618290508454780802.jp2/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 6630,
-                                "width": 8193,
-                                "service": [
-                                    {
-                                        "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/15/01/54/150154230682890619466618290508454780802.jp2",
-                                        "type": "ImageService3",
-                                        "profile": "level1"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p89",
             "type": "Canvas",
             "height": 6629,
