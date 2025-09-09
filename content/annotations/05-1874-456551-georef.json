@@ -6693,6 +6693,38 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
+                2820,
+                3973
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.781674,
+                51.8862382
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2823,
+                3503
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.7822316,
+                51.9042105
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
                 4935,
                 224
               ]
