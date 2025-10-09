@@ -10,6 +10,8 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "@allmaps/annotation": "^1.0.0-beta.35",
+    "@allmaps/id": "^1.0.0-beta.35",
     "iiif-hss": "^1.0.3",
     "yaml": "^2.7.0"
   },

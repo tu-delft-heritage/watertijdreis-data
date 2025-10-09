@@ -3,7 +3,7 @@
   "@context": "http://www.w3.org/ns/anno.jsonld",
   "items": [
     {
-      "id": "b48d6589-5678-48ca-b41c-d9bb09ef002e",
+      "id": "027759c46edd6f47",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -97,7 +97,7 @@
       }
     },
     {
-      "id": "5f1e5c61-c50a-4dab-adf8-88afd1bd5d0a",
+      "id": "c2f4edc6e954e96c",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -191,7 +191,7 @@
       }
     },
     {
-      "id": "d172010e-4374-4dbf-b633-d9eb4c865755",
+      "id": "33ed711a68d67d59",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -285,7 +285,7 @@
       }
     },
     {
-      "id": "bf29952c-6f16-46e6-b6fd-f32692936faa",
+      "id": "45d14a61d58f2a0b",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -379,7 +379,7 @@
       }
     },
     {
-      "id": "020d1c94-560f-4d7a-91f2-4861f04cbdde",
+      "id": "36f42f15200d0208",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -473,7 +473,7 @@
       }
     },
     {
-      "id": "a57fee5f-3771-446f-aeae-110911fa75e1",
+      "id": "659ca503e9972d82",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -567,7 +567,7 @@
       }
     },
     {
-      "id": "e24907e3-e306-4e07-a70a-9c9a2e2fe515",
+      "id": "56fdc59e96faf6ba",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -661,7 +661,7 @@
       }
     },
     {
-      "id": "217bbce3-41b7-4bfe-a519-bfc2f48c7eb7",
+      "id": "fda30fdebd37c002",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -755,7 +755,7 @@
       }
     },
     {
-      "id": "2fa32a92-67a7-4cda-bac6-ee816d203a66",
+      "id": "9e094d7b46c255bd",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -849,7 +849,7 @@
       }
     },
     {
-      "id": "f72ee103-5ecb-4429-99dc-ba23662e09af",
+      "id": "a3ae373792ed661c",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -943,7 +943,7 @@
       }
     },
     {
-      "id": "54904469-f1e2-4883-a0d9-8bb26cd5807d",
+      "id": "c305ae1ff159d38c",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1037,7 +1037,7 @@
       }
     },
     {
-      "id": "9c15d96e-6968-441d-805a-8bd41300b8a8",
+      "id": "98a6f35a0876eae1",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1131,7 +1131,7 @@
       }
     },
     {
-      "id": "eda895d1-b0e6-448e-8c2e-5e71f087da7b",
+      "id": "f97ff465efe187b6",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1225,7 +1225,7 @@
       }
     },
     {
-      "id": "4b8206d1-e8c2-40a7-a872-f57116764c1e",
+      "id": "e242ba8b3fe2fea9",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1319,7 +1319,7 @@
       }
     },
     {
-      "id": "b808553b-e656-4654-afa6-29d890d6ccd7",
+      "id": "4af059ebab759498",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1413,7 +1413,7 @@
       }
     },
     {
-      "id": "b03bbc1e-e406-4dee-8e50-b59a9d796b83",
+      "id": "aadcd7ed614fb413",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1507,7 +1507,7 @@
       }
     },
     {
-      "id": "5128d383-e7bc-42f2-ba23-ae5ccd31dd53",
+      "id": "953c8f5c4baf4115",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1601,7 +1601,7 @@
       }
     },
     {
-      "id": "910d2d70-ed20-4c5c-ae2a-90ec1b5c40d9",
+      "id": "34cac5d89ca33be2",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1695,7 +1695,7 @@
       }
     },
     {
-      "id": "99ee950c-a6b1-44d6-934e-5f49b3c65057",
+      "id": "31934ec42e37d7b3",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1789,7 +1789,7 @@
       }
     },
     {
-      "id": "bfdb7834-c258-4e0c-97d8-ed5e6236e4a9",
+      "id": "8ec9f03b1f122976",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1883,7 +1883,7 @@
       }
     },
     {
-      "id": "718d5af0-bf02-4024-b4c7-65e597614311",
+      "id": "1a8c09a5c18b73fc",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1977,7 +1977,7 @@
       }
     },
     {
-      "id": "8614e156-6099-4787-adba-66a664f0d619",
+      "id": "5c0c70864d4a826c",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2071,7 +2071,7 @@
       }
     },
     {
-      "id": "4c3e49d8-d515-421c-92e4-ab5c1f19a38a",
+      "id": "d251658d39bbbd7b",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2165,7 +2165,7 @@
       }
     },
     {
-      "id": "1f690790-9f88-495a-9fe7-99d471027eb5",
+      "id": "549647aae18fe408",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2259,7 +2259,7 @@
       }
     },
     {
-      "id": "ef150988-7d81-4e26-b9e1-ce549ada7b2e",
+      "id": "a0e2beb4c2ca5ed3",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2353,7 +2353,7 @@
       }
     },
     {
-      "id": "75decad6-c333-44d0-bef4-2efb3282c651",
+      "id": "03ac64a9305be95c",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2447,7 +2447,7 @@
       }
     },
     {
-      "id": "3d123e1a-de7a-45d1-aee7-56c78da681ca",
+      "id": "9a6084258f82cd87",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2541,7 +2541,7 @@
       }
     },
     {
-      "id": "b3978186-3089-4dfc-b1d7-e7f2763e2976",
+      "id": "36ba74a253a59cba",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2635,7 +2635,7 @@
       }
     },
     {
-      "id": "fbeb3b77-829c-4c17-b72c-a111340f0f01",
+      "id": "590bf0d2e671370a",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2729,7 +2729,7 @@
       }
     },
     {
-      "id": "b5727433-0aca-4834-9211-da57e874f1bd",
+      "id": "62b7998c3fe3ee70",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2823,7 +2823,7 @@
       }
     },
     {
-      "id": "c6326573-30bf-49b6-a80c-352c288fa20f",
+      "id": "e5a92c907db1ab5b",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2917,7 +2917,7 @@
       }
     },
     {
-      "id": "d1fde8b7-0b8e-4a98-8758-444f06359031",
+      "id": "f737b16c62cb02b2",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -3011,7 +3011,7 @@
       }
     },
     {
-      "id": "1af6322e-e962-498d-ae60-9f11b5eb62fc",
+      "id": "32ac2dd33b0faf38",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -3105,7 +3105,7 @@
       }
     },
     {
-      "id": "d3602022-b476-4e3c-8be7-33b12c6e84c3",
+      "id": "5dc44b6d3edc2289",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -3199,7 +3199,7 @@
       }
     },
     {
-      "id": "f3bea8bd-5ddb-46a7-ba96-3f901764212a",
+      "id": "bfe972b0810b2360",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -3293,7 +3293,7 @@
       }
     },
     {
-      "id": "5ba08f06-915d-432e-aa33-352e54d4168f",
+      "id": "cf568c48bcb22cf0",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -3387,7 +3387,7 @@
       }
     },
     {
-      "id": "9588dfc3-affc-4c21-9631-64473023ab5e",
+      "id": "8f50d7a392b4bb53",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -3481,7 +3481,7 @@
       }
     },
     {
-      "id": "7de7671c-ed25-4cdb-b907-b753dab78987",
+      "id": "2226771675d13bdc",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -3575,7 +3575,7 @@
       }
     },
     {
-      "id": "3b5fda38-5a55-4b2e-b8a9-44f1e1fcdddd",
+      "id": "7926db29123a6cc9",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -3669,7 +3669,7 @@
       }
     },
     {
-      "id": "32f7b21f-8471-4776-b997-e2eac2f0cafd",
+      "id": "d40d8ec7f1776f65",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -3763,7 +3763,7 @@
       }
     },
     {
-      "id": "55a4bdec-ad5f-4621-8037-86f05178fa4b",
+      "id": "791ac114fa887cc4",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -3857,7 +3857,7 @@
       }
     },
     {
-      "id": "3edfd6ab-4143-4721-b3e3-6c88c4b4f7b1",
+      "id": "2f778d26c59a3f0b",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -3951,7 +3951,7 @@
       }
     },
     {
-      "id": "bf8ac2e6-9af9-4529-a8dd-8439f1141b96",
+      "id": "e5a25ee56aa24600",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -4045,7 +4045,7 @@
       }
     },
     {
-      "id": "a6ddd8cc-25f7-4e7f-8326-38e646a77b5e",
+      "id": "6c71dace559969c7",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -4139,7 +4139,7 @@
       }
     },
     {
-      "id": "5a20e820-6eed-42ff-9dd6-d4c54ebd1152",
+      "id": "c8950df799304f52",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -4233,7 +4233,7 @@
       }
     },
     {
-      "id": "fb436b92-685b-497d-a6d3-05349806fe15",
+      "id": "f90a703261876070",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -4327,7 +4327,7 @@
       }
     },
     {
-      "id": "57ae7a4b-53ef-47ba-a0e1-44687c3197ff",
+      "id": "fb2be62fc4988c99",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -4421,7 +4421,7 @@
       }
     },
     {
-      "id": "217071ce-5631-4aa9-af80-bd1d46bb2099",
+      "id": "d738cbdccde88781",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -4515,7 +4515,7 @@
       }
     },
     {
-      "id": "5b6fb4b1-bdce-4e82-8d3a-3d0d533852d8",
+      "id": "84b44a2c29c6ce24",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -4609,7 +4609,7 @@
       }
     },
     {
-      "id": "ac18612d-7d83-4706-abe7-84412c98f761",
+      "id": "a6889b118bda3a86",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -4703,7 +4703,7 @@
       }
     },
     {
-      "id": "8f5f2b67-09c8-44e5-8ebc-075251ae1a3d",
+      "id": "5b4c7477705f596c",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -4797,7 +4797,7 @@
       }
     },
     {
-      "id": "4bc90f6a-f932-4e8f-92ca-4f28d79c12ed",
+      "id": "1aadbc520ba52860",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -4891,7 +4891,7 @@
       }
     },
     {
-      "id": "00e5b8c3-fc79-4e0b-a970-3311839f84f8",
+      "id": "647c9965b130cc23",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -4985,7 +4985,7 @@
       }
     },
     {
-      "id": "b0ae4a05-c06e-421c-a683-02b8825efec9",
+      "id": "955217b3177684c5",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -5079,7 +5079,7 @@
       }
     },
     {
-      "id": "8baa36d6-a7da-4bf6-80c3-6d4eeaa9e11d",
+      "id": "aeedc9d943f61db6",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -5173,7 +5173,7 @@
       }
     },
     {
-      "id": "1a92ddc2-3b36-496c-8f6b-45c44f8bafb6",
+      "id": "392ade8867b49dbb",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -5267,7 +5267,7 @@
       }
     },
     {
-      "id": "fb45a60b-b8c4-4c9a-a625-ec02cc5a0547",
+      "id": "7ffbec18a26f4cfb",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -5361,7 +5361,7 @@
       }
     },
     {
-      "id": "8e44c11c-932e-4057-9c57-b02a188733c8",
+      "id": "46cb51399671f902",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -5455,7 +5455,7 @@
       }
     },
     {
-      "id": "72c2e22b-1030-47fa-bc75-627685d1dd76",
+      "id": "e731ff222aaa2cdb",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -5549,7 +5549,7 @@
       }
     },
     {
-      "id": "2bbe6f2d-0120-4ff4-8867-83451dc0c1f3",
+      "id": "31ae1406a590e9de",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -5643,7 +5643,7 @@
       }
     },
     {
-      "id": "221511e8-190f-4ee9-bbaf-3860d2c72c68",
+      "id": "fd3ff567720e2393",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -5737,7 +5737,7 @@
       }
     },
     {
-      "id": "0ec0a318-f7b5-4d87-a785-9721660f39ad",
+      "id": "b350f79ece85e2f3",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -5831,7 +5831,7 @@
       }
     },
     {
-      "id": "e1aeaf97-61d7-4735-82e8-0e9d5de558be",
+      "id": "480c6af8738050a2",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -5925,7 +5925,7 @@
       }
     },
     {
-      "id": "20a0c8f3-6d9c-4f29-b874-a4e0f1548465",
+      "id": "f8254d58a6be0abf",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -6019,7 +6019,7 @@
       }
     },
     {
-      "id": "c5322f2d-2c4b-4dfb-b7bb-0acdabd9a4f0",
+      "id": "442dcdd4c931bd29",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -6113,7 +6113,7 @@
       }
     },
     {
-      "id": "e55a8b49-85eb-4462-8590-cdfdaf7d81e0",
+      "id": "4257e62d45b2ebec",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -6207,7 +6207,7 @@
       }
     },
     {
-      "id": "0a19172c-fd6c-4802-8736-ea66b61e2165",
+      "id": "f0aff08ee62115c4",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -6301,7 +6301,7 @@
       }
     },
     {
-      "id": "2e1d57f5-f413-4028-99ef-a56514ad9e8a",
+      "id": "9d133f35fd8f62a9",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -6395,7 +6395,7 @@
       }
     },
     {
-      "id": "a4bbe71c-cbb4-4d45-b4aa-389260d77273",
+      "id": "fcf55ee10b95ca52",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -6489,7 +6489,7 @@
       }
     },
     {
-      "id": "011ecb18-98cd-4725-bd86-c9b6659b74c5",
+      "id": "eb65fbbbe963c1bb",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -6583,7 +6583,7 @@
       }
     },
     {
-      "id": "10cbe6b2-4df9-4121-ae07-18f48d6e9fb8",
+      "id": "ea9a1184ebc46d86",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -6677,7 +6677,7 @@
       }
     },
     {
-      "id": "b99b156c-3ecc-4b0e-b27f-9df57893c361",
+      "id": "1b1c634811bae4d3",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -6771,7 +6771,7 @@
       }
     },
     {
-      "id": "c2f14ef5-344f-4720-9986-cb9c8c08ae10",
+      "id": "9b86e8a35edc58fb",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -6865,7 +6865,7 @@
       }
     },
     {
-      "id": "0ef484dd-ec0b-478e-848c-0e253d257a03",
+      "id": "e7f81ceaad7a3d1a",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -6959,7 +6959,7 @@
       }
     },
     {
-      "id": "d897f68e-b003-4689-85f1-c50bbbbac2bc",
+      "id": "18a3dc726d353922",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -7053,7 +7053,7 @@
       }
     },
     {
-      "id": "9a54f56b-c3df-491b-95f9-abc14eb86572",
+      "id": "22ff2954c4b559e6",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -7147,7 +7147,7 @@
       }
     },
     {
-      "id": "870b149f-9d42-4613-a94e-5f6f8ccaa3b3",
+      "id": "2bd8d4eec8cc5377",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -7241,7 +7241,7 @@
       }
     },
     {
-      "id": "b4277ddd-5963-46fd-a459-7c441311ff4b",
+      "id": "efe0960a593e69c9",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -7335,7 +7335,7 @@
       }
     },
     {
-      "id": "1048c362-6381-41a1-bbc6-bf0ad77b3b09",
+      "id": "28e797b1b7df8afb",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -7429,7 +7429,7 @@
       }
     },
     {
-      "id": "e5b46402-cde4-4ea5-b64b-52f5a010a726",
+      "id": "74419efed3d9fcfe",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -7523,7 +7523,7 @@
       }
     },
     {
-      "id": "ce93b790-240f-43c7-9bb2-efdaa3676ed3",
+      "id": "8ae13ebf5525dd8d",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -7617,7 +7617,7 @@
       }
     },
     {
-      "id": "b55cb1be-d6e1-442f-97f5-800d98d9fb46",
+      "id": "647c08d0949d6b0d",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -7711,7 +7711,7 @@
       }
     },
     {
-      "id": "5a4146fb-2dda-498c-9e70-875768014364",
+      "id": "dd3049805fd9c6cc",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -7805,7 +7805,7 @@
       }
     },
     {
-      "id": "f469ea88-5fd1-4561-b584-baa49e4c6999",
+      "id": "9c87afb09359347e",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -7899,7 +7899,7 @@
       }
     },
     {
-      "id": "87a2180b-0f9d-4e63-9b25-d81971a53068",
+      "id": "9311f6da3fcbb307",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -7993,7 +7993,7 @@
       }
     },
     {
-      "id": "2d338e21-920d-4228-9e4b-c7b37d381a49",
+      "id": "a872b37609393330",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -8087,7 +8087,7 @@
       }
     },
     {
-      "id": "5afecf67-0746-4b68-bc6d-1715b57de47b",
+      "id": "fd8a87760c268bc9",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -8181,7 +8181,7 @@
       }
     },
     {
-      "id": "eda07e7f-a405-4cf9-a358-a432d9372331",
+      "id": "9eedb391fddf9aac",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -8275,7 +8275,7 @@
       }
     },
     {
-      "id": "ad81efbc-a32e-44e6-b78b-5316b9a1f6b9",
+      "id": "fea5a0e44873eaaf",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -8369,7 +8369,7 @@
       }
     },
     {
-      "id": "67f0c4e2-c264-4eb4-88f3-9296cbd63bd1",
+      "id": "de9f0a7313629a7c",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -8463,7 +8463,7 @@
       }
     },
     {
-      "id": "e657b05f-d1d7-43b9-ad37-494d79ebc5aa",
+      "id": "713544d0bf34473b",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -8557,7 +8557,7 @@
       }
     },
     {
-      "id": "4f3ef121-8cf5-4a37-97ac-fb95d40ada45",
+      "id": "d5ccb27602e442c1",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -8651,7 +8651,7 @@
       }
     },
     {
-      "id": "cbc161b2-74ec-444a-be12-06560029ef2e",
+      "id": "f505a6fab5672405",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -8745,7 +8745,7 @@
       }
     },
     {
-      "id": "ac08918c-fa77-4c5c-91fc-268716ace297",
+      "id": "8e3287f4a8cd3f54",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -8839,7 +8839,7 @@
       }
     },
     {
-      "id": "2c4fd939-443a-41bc-ad6f-7e6dc29e70f1",
+      "id": "624e3b9caa88aafc",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -8933,7 +8933,7 @@
       }
     },
     {
-      "id": "538817c6-5529-4d42-9df8-f8d8773f8996",
+      "id": "61202244415b7c3a",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -9027,7 +9027,7 @@
       }
     },
     {
-      "id": "5d01f8a4-279c-4e91-bdbf-5ab960a82bb4",
+      "id": "242493d0dbe16d72",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -9121,7 +9121,7 @@
       }
     },
     {
-      "id": "d6710ced-4533-46ee-b04f-f082299c93e3",
+      "id": "d1cb5f6960b04993",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -9215,7 +9215,7 @@
       }
     },
     {
-      "id": "f00f3dab-deee-4fe2-ab0c-692de7106dd7",
+      "id": "901efe2b86fffca6",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -9309,7 +9309,7 @@
       }
     },
     {
-      "id": "919c54b4-015e-4a90-801b-3fead30669fc",
+      "id": "15927512d2d43c18",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -9403,7 +9403,7 @@
       }
     },
     {
-      "id": "0c9af4e6-4aee-4e62-b750-9b5eb5b42815",
+      "id": "9170518b478f5d8b",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -9497,7 +9497,7 @@
       }
     },
     {
-      "id": "0c05e266-c216-4b6f-af96-5e0851230a8d",
+      "id": "889f5fe14fdb5c4c",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -9591,7 +9591,7 @@
       }
     },
     {
-      "id": "0fb1364b-e23d-4e9a-803d-f432c5921441",
+      "id": "85e0880aabf06f8c",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -9685,7 +9685,7 @@
       }
     },
     {
-      "id": "fa3f4864-1666-4f11-a604-a923ecd4eabd",
+      "id": "afb0ad9e48c798b5",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -9779,7 +9779,7 @@
       }
     },
     {
-      "id": "cc5eb955-a608-4830-a9f4-e11df5e0085d",
+      "id": "844716dc59269482",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -9873,7 +9873,7 @@
       }
     },
     {
-      "id": "5317d1c8-d6ba-4627-b88f-a0d008150efe",
+      "id": "52698fee74e91b5b",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -9967,7 +9967,7 @@
       }
     },
     {
-      "id": "ef6a9e17-41c9-4ee8-a6b7-23067c101d3a",
+      "id": "342f40124f55910f",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -10061,7 +10061,7 @@
       }
     },
     {
-      "id": "80132dbd-bb8d-43c2-a596-de182b093c54",
+      "id": "b9dbaaf8a7e99a27",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -10155,7 +10155,7 @@
       }
     },
     {
-      "id": "207646f5-ce8f-4c54-94f3-0c2b39086417",
+      "id": "9d2ca779198db59b",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -10249,7 +10249,7 @@
       }
     },
     {
-      "id": "a44a66bc-d411-45ba-97f6-f3ab6b250e47",
+      "id": "18b403e1e3ea317e",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -10343,7 +10343,7 @@
       }
     },
     {
-      "id": "38711f3f-79d5-4eb9-9ce5-9430c2f19eee",
+      "id": "81a67bc23af3ff49",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -10437,7 +10437,7 @@
       }
     },
     {
-      "id": "bd00aeb3-dbda-4349-8d47-49d37348ad8e",
+      "id": "fecf43317543d7da",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -10531,7 +10531,7 @@
       }
     },
     {
-      "id": "71ef5894-29f6-408d-980f-44303aa5ef10",
+      "id": "fafa05ba9687ca6f",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -10625,7 +10625,7 @@
       }
     },
     {
-      "id": "7760aaec-a6cf-4919-8f8d-1355822f79e6",
+      "id": "731b134c5aa41e9d",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -10719,7 +10719,7 @@
       }
     },
     {
-      "id": "9a71eba9-f39e-4460-9cca-c319eaabb847",
+      "id": "23e12e1f5c92d17e",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -10813,7 +10813,7 @@
       }
     },
     {
-      "id": "89d9ae94-081c-4683-859f-45658a1d2b27",
+      "id": "932b51db352a3303",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -10907,7 +10907,7 @@
       }
     },
     {
-      "id": "e713653e-747d-4f49-8967-9f7a15f05b46",
+      "id": "0200a4dedabef9f4",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -11001,7 +11001,7 @@
       }
     },
     {
-      "id": "6e7aa760-3b80-4f48-8ab6-96b54cf7b431",
+      "id": "d99d0b8b92f2978b",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -11095,7 +11095,7 @@
       }
     },
     {
-      "id": "12540d55-58df-4626-a718-695f7c60b537",
+      "id": "04ca20e0e2128846",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -11189,7 +11189,7 @@
       }
     },
     {
-      "id": "11cac5f4-c81d-4860-a9b4-760b90761ecb",
+      "id": "0cbc0c60de9546ec",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -11283,7 +11283,7 @@
       }
     },
     {
-      "id": "d183bf31-529e-4037-8597-fff29de04d8d",
+      "id": "20c93b98a92627a3",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -11377,7 +11377,7 @@
       }
     },
     {
-      "id": "5b4df6ac-daa2-4fcc-a598-610148c19d97",
+      "id": "d7e11f73a5a94f3d",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -11471,7 +11471,7 @@
       }
     },
     {
-      "id": "9857a5e1-c3a6-431c-a0b3-578ac6f35747",
+      "id": "702087605f86c142",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -11565,7 +11565,7 @@
       }
     },
     {
-      "id": "f89fff36-08d1-407d-a670-16005fa2445a",
+      "id": "5e604b9c9f9cdc57",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -11659,7 +11659,7 @@
       }
     },
     {
-      "id": "e94f0b5f-ee67-4184-bfb4-b6528ff8ba6d",
+      "id": "5d8771b7042a359c",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -11753,7 +11753,7 @@
       }
     },
     {
-      "id": "cbf2ad40-1fa5-4f8b-b948-bdd24f180d4e",
+      "id": "e5e1d840e0081dbf",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -11847,7 +11847,7 @@
       }
     },
     {
-      "id": "f35ab922-5fbd-4933-891d-0d185e919ab8",
+      "id": "f3dcb28e5e4e0fa0",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -11941,7 +11941,7 @@
       }
     },
     {
-      "id": "85252e73-7aa6-4629-ae18-5096a5d3ec30",
+      "id": "c09f16448d961d82",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -12035,7 +12035,7 @@
       }
     },
     {
-      "id": "805a8b9d-a3e0-41cb-a821-3dbda91cb76b",
+      "id": "87fc3a17a41d4507",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -12129,7 +12129,7 @@
       }
     },
     {
-      "id": "42cafbfa-ca9b-4777-8ad6-55ca171031e3",
+      "id": "f6ea8d8f2939bfd0",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -12223,7 +12223,7 @@
       }
     },
     {
-      "id": "5a20e6b5-1851-427b-ac28-61bdbacc3a82",
+      "id": "403fa11796d3c81a",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -12317,7 +12317,7 @@
       }
     },
     {
-      "id": "194b5ce8-d006-4ae9-97d5-58f755e738f9",
+      "id": "3e4524c42b2ae9f8",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -12411,7 +12411,7 @@
       }
     },
     {
-      "id": "b20c34b5-a448-4774-8ac0-41ada869deb7",
+      "id": "1fd7382c10f29c74",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -12505,7 +12505,7 @@
       }
     },
     {
-      "id": "2fb8bc7c-ad5d-4957-9fdb-ac6ef42338de",
+      "id": "b18c740625f30d3f",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -12599,7 +12599,7 @@
       }
     },
     {
-      "id": "08b98df8-6ec5-473c-af74-9711313b222f",
+      "id": "a99d54e2313c14f2",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -12693,7 +12693,7 @@
       }
     },
     {
-      "id": "e9be0059-799b-4fd6-a80d-dcaffa988cd7",
+      "id": "9bf655bdc5cddfb9",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -12787,7 +12787,7 @@
       }
     },
     {
-      "id": "a207c378-c25e-4d83-aa6d-ffb21f7f3ca5",
+      "id": "129c54cbef3c9f57",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -12881,7 +12881,7 @@
       }
     },
     {
-      "id": "2bcea7a0-127e-497e-938c-a303e953036b",
+      "id": "fa3c77cbbb7323bc",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -12975,7 +12975,7 @@
       }
     },
     {
-      "id": "df4ee5ba-0733-44d2-8178-170c0c0a4b19",
+      "id": "1528c7709a06f105",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -13069,7 +13069,7 @@
       }
     },
     {
-      "id": "85ba09de-de33-4173-aa3c-06e95563874e",
+      "id": "8a3aa469dbe22ce7",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -13163,7 +13163,7 @@
       }
     },
     {
-      "id": "6f681072-7761-49e1-8a7b-3d2d45e7b650",
+      "id": "e9793852abf59130",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -13257,7 +13257,7 @@
       }
     },
     {
-      "id": "dc9e015a-acea-4b8d-b826-35390a96e9c0",
+      "id": "71f2d4dca7c525b3",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -13351,7 +13351,7 @@
       }
     },
     {
-      "id": "75416b26-be55-4ada-8803-ff852e71c8fa",
+      "id": "ef90234828b68b54",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -13445,7 +13445,7 @@
       }
     },
     {
-      "id": "13f77aae-dd82-4ca3-862d-98dc5435a50a",
+      "id": "1c3c9b418c70baf4",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -13539,7 +13539,7 @@
       }
     },
     {
-      "id": "b1e84fb3-2ddd-49d9-a0fd-e066b595ac1c",
+      "id": "233a833aab920810",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -13633,7 +13633,7 @@
       }
     },
     {
-      "id": "750b0782-0534-4798-b0e4-5d5d6b127c18",
+      "id": "21de0d360d204ea0",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -13727,7 +13727,7 @@
       }
     },
     {
-      "id": "58b5d376-cdcd-4569-a643-c014afe1b693",
+      "id": "4e569caf48a40b2b",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -13821,7 +13821,7 @@
       }
     },
     {
-      "id": "ea95e6cf-b54c-4d78-8e06-ec40f85a64cc",
+      "id": "0c7785741854f7a9",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -13915,7 +13915,7 @@
       }
     },
     {
-      "id": "34503425-a070-4566-b54e-877308bca0a4",
+      "id": "9b088e77b00ba407",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -14009,7 +14009,7 @@
       }
     },
     {
-      "id": "a1d06903-be99-47f4-99bc-d1cb5a55c595",
+      "id": "bbf124d11eb9fff4",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -14103,7 +14103,7 @@
       }
     },
     {
-      "id": "37a7a994-c197-4d18-b17e-163806c7206f",
+      "id": "9301a91ade8a6224",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -14197,7 +14197,7 @@
       }
     },
     {
-      "id": "9754c6b6-51a7-4c6a-a671-4510e38700c5",
+      "id": "aac569be64d1d2ca",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -14291,7 +14291,7 @@
       }
     },
     {
-      "id": "cdaad507-d680-4c4c-995c-c50c723ee3aa",
+      "id": "3e685e763ecf9637",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -14385,7 +14385,7 @@
       }
     },
     {
-      "id": "2eb4d9ca-7047-46d6-b2e0-9d02112a3bc1",
+      "id": "396ee13258c39d55",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -14479,7 +14479,7 @@
       }
     },
     {
-      "id": "8c7a6f6b-964d-4cf3-a2ed-a012791d6aa2",
+      "id": "4e30a641d26acad9",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -14573,7 +14573,7 @@
       }
     },
     {
-      "id": "24618076-b91e-419f-b4a5-a24fec5f6a82",
+      "id": "8f2960f4f0c5fd06",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -14667,7 +14667,7 @@
       }
     },
     {
-      "id": "d6a237d4-0fb6-4b12-8496-6e0295215265",
+      "id": "5c51d1a93481c8e7",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -14761,7 +14761,7 @@
       }
     },
     {
-      "id": "4bcfcf35-bfad-42ca-86a8-90804f72629e",
+      "id": "5e80a520c13947db",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -14855,7 +14855,7 @@
       }
     },
     {
-      "id": "efb0acd6-4696-4db8-aa5c-151ff5ff3f65",
+      "id": "39c945510a1bbab4",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",

@@ -3,7 +3,7 @@
   "@context": "http://www.w3.org/ns/anno.jsonld",
   "items": [
     {
-      "id": "a8a2c2c9-3fe3-4cdf-ac6c-7f62159316af",
+      "id": "38b0d4b4df2a14a7",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -25,38 +25,72 @@
       },
       "body": {
         "type": "FeatureCollection",
-        "transformation": { "type": "thinPlateSpline" },
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
         "features": [
           {
             "type": "Feature",
-            "properties": { "resourceCoords": [334, 291] },
+            "properties": {
+              "resourceCoords": [
+                334,
+                291
+              ]
+            },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8796506, 51.8125252]
+              "coordinates": [
+                4.8796506,
+                51.8125252
+              ]
             }
           },
           {
             "type": "Feature",
-            "properties": { "resourceCoords": [5070, 299] },
+            "properties": {
+              "resourceCoords": [
+                5070,
+                299
+              ]
+            },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.1696766, 51.8134209]
+              "coordinates": [
+                5.1696766,
+                51.8134209
+              ]
             }
           },
           {
             "type": "Feature",
-            "properties": { "resourceCoords": [5079, 6218] },
+            "properties": {
+              "resourceCoords": [
+                5079,
+                6218
+              ]
+            },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.170754, 51.5887099]
+              "coordinates": [
+                5.170754,
+                51.5887099
+              ]
             }
           },
           {
             "type": "Feature",
-            "properties": { "resourceCoords": [347, 6224] },
+            "properties": {
+              "resourceCoords": [
+                347,
+                6224
+              ]
+            },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8821657, 51.5878202]
+              "coordinates": [
+                4.8821657,
+                51.5878202
+              ]
             }
           }
         ]

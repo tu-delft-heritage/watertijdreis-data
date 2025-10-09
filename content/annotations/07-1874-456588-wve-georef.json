@@ -1,9 +1,9 @@
 {
   "type": "AnnotationPage",
-  "@context": ["http://www.w3.org/ns/anno.jsonld"],
+  "@context": "http://www.w3.org/ns/anno.jsonld",
   "items": [
     {
-      "id": "433f0cd0-9d93-4895-9e0d-2c0b9feabba7",
+      "id": "132208c8b38b351c",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -32,48 +32,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [282, 6153]
+              "resourceCoords": [
+                282,
+                6153
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7571456, 52.7118176]
+              "coordinates": [
+                5.7571456,
+                52.7118176
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4996, 6146]
+              "resourceCoords": [
+                4996,
+                6146
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0530817, 52.7105299]
+              "coordinates": [
+                6.0530817,
+                52.7105299
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4984, 271]
+              "resourceCoords": [
+                4984,
+                271
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0565094, 52.9351826]
+              "coordinates": [
+                6.0565094,
+                52.9351826
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [268, 276]
+              "resourceCoords": [
+                268,
+                276
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7590505, 52.9364791]
+              "coordinates": [
+                5.7590505,
+                52.9364791
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "189fd782-a42d-40ad-a71f-34f0e9c901d0",
+      "id": "e34518498ca69faf",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -102,48 +126,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [256, 6149]
+              "resourceCoords": [
+                256,
+                6149
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0530817, 52.7105299]
+              "coordinates": [
+                6.0530817,
+                52.7105299
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4971, 6152]
+              "resourceCoords": [
+                4971,
+                6152
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.3489913, 52.7085059]
+              "coordinates": [
+                6.3489913,
+                52.7085059
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4967, 277]
+              "resourceCoords": [
+                4967,
+                277
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.353943, 52.9331452]
+              "coordinates": [
+                6.353943,
+                52.9331452
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [256, 270]
+              "resourceCoords": [
+                256,
+                270
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0565094, 52.9351826]
+              "coordinates": [
+                6.0565094,
+                52.9351826
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "2575d207-36b2-4de9-ab0a-5456cee6a937",
+      "id": "8d3d764250658ab2",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -172,48 +220,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [287, 6169]
+              "resourceCoords": [
+                287,
+                6169
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.3489913, 52.7085059]
+              "coordinates": [
+                6.3489913,
+                52.7085059
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4997, 6172]
+              "resourceCoords": [
+                4997,
+                6172
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.6448654, 52.705746]
+              "coordinates": [
+                6.6448654,
+                52.705746
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4994, 282]
+              "resourceCoords": [
+                4994,
+                282
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.6513385, 52.9303677]
+              "coordinates": [
+                6.6513385,
+                52.9303677
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [281, 277]
+              "resourceCoords": [
+                281,
+                277
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.353943, 52.9331452]
+              "coordinates": [
+                6.353943,
+                52.9331452
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "2255adac-c03d-4452-a8b7-9cfe1c0512d5",
+      "id": "edb6c57d4aaa9c08",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -242,48 +314,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [290, 6157]
+              "resourceCoords": [
+                290,
+                6157
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.6448654, 52.705746]
+              "coordinates": [
+                6.6448654,
+                52.705746
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5001, 6163]
+              "resourceCoords": [
+                5001,
+                6163
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.9406898, 52.7022514]
+              "coordinates": [
+                6.9406898,
+                52.7022514
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5002, 273]
+              "resourceCoords": [
+                5002,
+                273
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.9486854, 52.9268495]
+              "coordinates": [
+                6.9486854,
+                52.9268495
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [293, 266]
+              "resourceCoords": [
+                293,
+                266
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.6513385, 52.9303677]
+              "coordinates": [
+                6.6513385,
+                52.9303677
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "7a0a9449-50e8-457b-bf7d-3d6137a43258",
+      "id": "197e3de2ed7998f3",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -312,48 +408,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [276, 6164]
+              "resourceCoords": [
+                276,
+                6164
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.2887005, 52.2579215]
+              "coordinates": [
+                4.2887005,
+                52.2579215
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4978, 6163]
+              "resourceCoords": [
+                4978,
+                6163
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5816019, 52.2602815]
+              "coordinates": [
+                4.5816019,
+                52.2602815
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4970, 269]
+              "resourceCoords": [
+                4970,
+                269
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5775103, 52.484952]
+              "coordinates": [
+                4.5775103,
+                52.484952
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [269, 266]
+              "resourceCoords": [
+                269,
+                266
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.2831216, 52.4825767]
+              "coordinates": [
+                4.2831216,
+                52.4825767
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "9ed00ddb-c1b9-42a7-a429-6eb681275f42",
+      "id": "4fc3436c018ccdcd",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -382,48 +502,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [270, 6162]
+              "resourceCoords": [
+                270,
+                6162
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5816019, 52.2602815]
+              "coordinates": [
+                4.5816019,
+                52.2602815
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4974, 6175]
+              "resourceCoords": [
+                4974,
+                6175
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8745338, 52.2619153]
+              "coordinates": [
+                4.8745338,
+                52.2619153
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4983, 279]
+              "resourceCoords": [
+                4983,
+                279
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8719296, 52.486597]
+              "coordinates": [
+                4.8719296,
+                52.486597
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [281, 264]
+              "resourceCoords": [
+                281,
+                264
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5775103, 52.484952]
+              "coordinates": [
+                4.5775103,
+                52.484952
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "fe9445fc-7bb7-4d87-928d-f655c1993457",
+      "id": "6c589fb24c83a2c1",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -452,48 +596,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [287, 6173]
+              "resourceCoords": [
+                287,
+                6173
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8745338, 52.2619153]
+              "coordinates": [
+                4.8745338,
+                52.2619153
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4994, 6177]
+              "resourceCoords": [
+                4994,
+                6177
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.1674845, 52.2628228]
+              "coordinates": [
+                5.1674845,
+                52.2628228
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4991, 280]
+              "resourceCoords": [
+                4991,
+                280
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.166368, 52.48751]
+              "coordinates": [
+                5.166368,
+                52.48751
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [287, 272]
+              "resourceCoords": [
+                287,
+                272
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8719296, 52.486597]
+              "coordinates": [
+                4.8719296,
+                52.486597
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "c271c1cb-5294-4a10-b550-dcbc2c13ac1a",
+      "id": "e218c32a0fc7e6b8",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -522,48 +690,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [272, 6147]
+              "resourceCoords": [
+                272,
+                6147
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7534009, 52.2624587]
+              "coordinates": [
+                5.7534009,
+                52.2624587
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4992, 6152]
+              "resourceCoords": [
+                4992,
+                6152
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0463432, 52.2611873]
+              "coordinates": [
+                6.0463432,
+                52.2611873
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4985, 262]
+              "resourceCoords": [
+                4985,
+                262
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.049693, 52.4858642]
+              "coordinates": [
+                6.049693,
+                52.4858642
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [266, 261]
+              "resourceCoords": [
+                266,
+                261
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7552626, 52.487144]
+              "coordinates": [
+                5.7552626,
+                52.487144
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "dc0c00be-7c18-44e1-9b74-53f2a2263b6e",
+      "id": "3860892ca8ebeef6",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -592,48 +784,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [300, 6168]
+              "resourceCoords": [
+                300,
+                6168
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0463432, 52.2611873]
+              "coordinates": [
+                6.0463432,
+                52.2611873
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5010, 6164]
+              "resourceCoords": [
+                5010,
+                6164
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.3392605, 52.2591891]
+              "coordinates": [
+                6.3392605,
+                52.2591891
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4996, 281]
+              "resourceCoords": [
+                4996,
+                281
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.3440974, 52.4838533]
+              "coordinates": [
+                6.3440974,
+                52.4838533
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [284, 285]
+              "resourceCoords": [
+                284,
+                285
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.049693, 52.4858642]
+              "coordinates": [
+                6.049693,
+                52.4858642
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "a109ce4e-3e9d-4064-b97a-5f86e88b2621",
+      "id": "edc3a3af9909a874",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -662,48 +878,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [295, 6142]
+              "resourceCoords": [
+                295,
+                6142
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.3392605, 52.2591891]
+              "coordinates": [
+                6.3392605,
+                52.2591891
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5009, 6126]
+              "resourceCoords": [
+                5009,
+                6126
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.632143, 52.2564656]
+              "coordinates": [
+                6.632143,
+                52.2564656
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4982, 254]
+              "resourceCoords": [
+                4982,
+                254
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.6384675, 52.4811123]
+              "coordinates": [
+                6.6384675,
+                52.4811123
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [269, 269]
+              "resourceCoords": [
+                269,
+                269
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.3440974, 52.4838533]
+              "coordinates": [
+                6.3440974,
+                52.4838533
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "a8918ebc-21d2-4ce2-b026-fa6c6f27615d",
+      "id": "167d0abb47ed8650",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -732,48 +972,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [276, 6162]
+              "resourceCoords": [
+                276,
+                6162
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.0028235, 52.0301897]
+              "coordinates": [
+                4.0028235,
+                52.0301897
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4991, 6177]
+              "resourceCoords": [
+                4991,
+                6177
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.2942153, 52.0332564]
+              "coordinates": [
+                4.2942153,
+                52.0332564
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4999, 283]
+              "resourceCoords": [
+                4999,
+                283
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.2887005, 52.2579215]
+              "coordinates": [
+                4.2887005,
+                52.2579215
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [283, 272]
+              "resourceCoords": [
+                283,
+                272
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [3.9958403, 52.2548353]
+              "coordinates": [
+                3.9958403,
+                52.2548353
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "5fc80f90-e691-4b11-99ce-057115308bc1",
+      "id": "23c78c0b386c1880",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -802,48 +1066,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [299, 6161]
+              "resourceCoords": [
+                299,
+                6161
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.2942153, 52.0332564]
+              "coordinates": [
+                4.2942153,
+                52.0332564
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5013, 6166]
+              "resourceCoords": [
+                5013,
+                6166
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5856461, 52.035601]
+              "coordinates": [
+                4.5856461,
+                52.035601
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5013, 270]
+              "resourceCoords": [
+                5013,
+                270
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5816019, 52.2602815]
+              "coordinates": [
+                4.5816019,
+                52.2602815
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [298, 265]
+              "resourceCoords": [
+                298,
+                265
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.2887005, 52.2579215]
+              "coordinates": [
+                4.2887005,
+                52.2579215
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "a0cc6586-702a-425c-a2f1-8911891d0833",
+      "id": "9142200db4fe7584",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -872,48 +1160,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [282, 6171]
+              "resourceCoords": [
+                282,
+                6171
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5856461, 52.035601]
+              "coordinates": [
+                4.5856461,
+                52.035601
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4982, 6178]
+              "resourceCoords": [
+                4982,
+                6178
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8771077, 52.0372241]
+              "coordinates": [
+                4.8771077,
+                52.0372241
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4980, 277]
+              "resourceCoords": [
+                4980,
+                277
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8745338, 52.2619153]
+              "coordinates": [
+                4.8745338,
+                52.2619153
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [281, 272]
+              "resourceCoords": [
+                281,
+                272
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5816019, 52.2602815]
+              "coordinates": [
+                4.5816019,
+                52.2602815
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "cf4cc74d-3ba0-4707-b229-1c4270f793a6",
+      "id": "b2486496384f2758",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -942,48 +1254,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [253, 6137]
+              "resourceCoords": [
+                253,
+                6137
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8771077, 52.0372241]
+              "coordinates": [
+                4.8771077,
+                52.0372241
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4966, 6142]
+              "resourceCoords": [
+                4966,
+                6142
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.1685868, 52.0381255]
+              "coordinates": [
+                5.1685868,
+                52.0381255
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4960, 259]
+              "resourceCoords": [
+                4960,
+                259
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.1674845, 52.2628228]
+              "coordinates": [
+                5.1674845,
+                52.2628228
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [251, 256]
+              "resourceCoords": [
+                251,
+                256
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8745338, 52.2619153]
+              "coordinates": [
+                4.8745338,
+                52.2619153
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "452feb84-8513-4ed3-9fe9-0cd61cc67a62",
+      "id": "73e3037ca02c1db0",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1012,48 +1348,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [270, 6135]
+              "resourceCoords": [
+                270,
+                6135
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7515606, 52.0377638]
+              "coordinates": [
+                5.7515606,
+                52.0377638
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4982, 6155]
+              "resourceCoords": [
+                4982,
+                6155
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0430323, 52.0365006]
+              "coordinates": [
+                6.0430323,
+                52.0365006
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4998, 275]
+              "resourceCoords": [
+                4998,
+                275
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0463432, 52.2611873]
+              "coordinates": [
+                6.0463432,
+                52.2611873
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [283, 259]
+              "resourceCoords": [
+                283,
+                259
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7534009, 52.2624587]
+              "coordinates": [
+                5.7534009,
+                52.2624587
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "3ad9bb8a-87c4-4e71-9d1a-18e36568d42e",
+      "id": "1a46975e8d81b752",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1082,48 +1442,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [339, 6208]
+              "resourceCoords": [
+                339,
+                6208
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0430323, 52.0365006]
+              "coordinates": [
+                6.0430323,
+                52.0365006
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5047, 6218]
+              "resourceCoords": [
+                5047,
+                6218
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.33448, 52.0345161]
+              "coordinates": [
+                6.33448,
+                52.0345161
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5046, 342]
+              "resourceCoords": [
+                5046,
+                342
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.3392605, 52.2591891]
+              "coordinates": [
+                6.3392605,
+                52.2591891
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [337, 334]
+              "resourceCoords": [
+                337,
+                334
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0463432, 52.2611873]
+              "coordinates": [
+                6.0463432,
+                52.2611873
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "7d69f4ff-88a9-4d7b-862d-f86d07a4ab6d",
+      "id": "135661bf13c228b9",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1152,48 +1536,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [294, 6202]
+              "resourceCoords": [
+                294,
+                6202
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.33448, 52.0345161]
+              "coordinates": [
+                6.33448,
+                52.0345161
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5007, 6197]
+              "resourceCoords": [
+                5007,
+                6197
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.6258918, 52.03181]
+              "coordinates": [
+                6.6258918,
+                52.03181
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4988, 316]
+              "resourceCoords": [
+                4988,
+                316
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.632143, 52.2564656]
+              "coordinates": [
+                6.632143,
+                52.2564656
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [278, 322]
+              "resourceCoords": [
+                278,
+                322
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.3392605, 52.2591891]
+              "coordinates": [
+                6.3392605,
+                52.2591891
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "5678e5f9-aa2a-4ed6-ad92-f937158a3cfe",
+      "id": "62fae441046e0ee7",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1222,48 +1630,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [288, 6139]
+              "resourceCoords": [
+                288,
+                6139
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.6258918, 52.03181]
+              "coordinates": [
+                6.6258918,
+                52.03181
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4999, 6159]
+              "resourceCoords": [
+                4999,
+                6159
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.9172583, 52.028383]
+              "coordinates": [
+                6.9172583,
+                52.028383
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5015, 285]
+              "resourceCoords": [
+                5015,
+                285
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.9249792, 52.2530159]
+              "coordinates": [
+                6.9249792,
+                52.2530159
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [304, 265]
+              "resourceCoords": [
+                304,
+                265
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.632143, 52.2564656]
+              "coordinates": [
+                6.632143,
+                52.2564656
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "e4ae6fe1-d124-4faa-a5f1-9b32d25c22ca",
+      "id": "83fefbd45323913a",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1292,48 +1724,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [357, 6199]
+              "resourceCoords": [
+                357,
+                6199
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [3.7198414, 51.8017746]
+              "coordinates": [
+                3.7198414,
+                51.8017746
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5069, 6189]
+              "resourceCoords": [
+                5069,
+                6189
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.0097286, 51.8055372]
+              "coordinates": [
+                4.0097286,
+                51.8055372
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5052, 294]
+              "resourceCoords": [
+                5052,
+                294
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.0028235, 52.0301897]
+              "coordinates": [
+                4.0028235,
+                52.0301897
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [341, 300]
+              "resourceCoords": [
+                341,
+                300
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [3.7114847, 52.0264029]
+              "coordinates": [
+                3.7114847,
+                52.0264029
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "a7eaf4da-1ed8-4b9c-b611-301e7923c30c",
+      "id": "1ff797db0f6b5e20",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1362,48 +1818,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [345, 6202]
+              "resourceCoords": [
+                345,
+                6202
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.0097286, 51.8055372]
+              "coordinates": [
+                4.0097286,
+                51.8055372
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5057, 6213]
+              "resourceCoords": [
+                5057,
+                6213
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.2996668, 51.8085833]
+              "coordinates": [
+                4.2996668,
+                51.8085833
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5063, 326]
+              "resourceCoords": [
+                5063,
+                326
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.2942153, 52.0332564]
+              "coordinates": [
+                4.2942153,
+                52.0332564
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [350, 317]
+              "resourceCoords": [
+                350,
+                317
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.0028235, 52.0301897]
+              "coordinates": [
+                4.0028235,
+                52.0301897
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "1210d570-4404-48bb-9190-1e47d1ffb82c",
+      "id": "1d042a8d88401279",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1432,48 +1912,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [299, 6198]
+              "resourceCoords": [
+                299,
+                6198
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.2996668, 51.8085833]
+              "coordinates": [
+                4.2996668,
+                51.8085833
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5015, 6222]
+              "resourceCoords": [
+                5015,
+                6222
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5896444, 51.8109125]
+              "coordinates": [
+                4.5896444,
+                51.8109125
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5031, 333]
+              "resourceCoords": [
+                5031,
+                333
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5856461, 52.035601]
+              "coordinates": [
+                4.5856461,
+                52.035601
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [321, 307]
+              "resourceCoords": [
+                321,
+                307
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.2942153, 52.0332564]
+              "coordinates": [
+                4.2942153,
+                52.0332564
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "6eee490e-9984-4d9a-8ada-ac98775cb083",
+      "id": "01fa1869a049f81c",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1502,48 +2006,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [330, 6160]
+              "resourceCoords": [
+                330,
+                6160
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5896444, 51.8109125]
+              "coordinates": [
+                4.5896444,
+                51.8109125
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5032, 6148]
+              "resourceCoords": [
+                5032,
+                6148
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8796506, 51.8125252]
+              "coordinates": [
+                4.8796506,
+                51.8125252
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5013, 279]
+              "resourceCoords": [
+                5013,
+                279
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8771077, 52.0372241]
+              "coordinates": [
+                4.8771077,
+                52.0372241
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [302, 291]
+              "resourceCoords": [
+                302,
+                291
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5856461, 52.035601]
+              "coordinates": [
+                4.5856461,
+                52.035601
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "29482415-7d28-4865-a285-0b2e394ae5a7",
+      "id": "b565d272fa58ff9b",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1572,48 +2100,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [295, 6144]
+              "resourceCoords": [
+                295,
+                6144
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8796506, 51.8125252]
+              "coordinates": [
+                4.8796506,
+                51.8125252
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5003, 6155]
+              "resourceCoords": [
+                5003,
+                6155
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.1696766, 51.8134209]
+              "coordinates": [
+                5.1696766,
+                51.8134209
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5006, 281]
+              "resourceCoords": [
+                5006,
+                281
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.1685868, 52.0381255]
+              "coordinates": [
+                5.1685868,
+                52.0381255
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [302, 273]
+              "resourceCoords": [
+                302,
+                273
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8771077, 52.0372241]
+              "coordinates": [
+                4.8771077,
+                52.0372241
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "0a9c6bd0-1ea1-4827-b35e-42e97c23cff7",
+      "id": "b195bf4521139c6f",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1642,48 +2194,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [334, 6157]
+              "resourceCoords": [
+                334,
+                6157
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.1696766, 51.8134209]
+              "coordinates": [
+                5.1696766,
+                51.8134209
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5050, 6148]
+              "resourceCoords": [
+                5050,
+                6148
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.4597103, 51.8135995]
+              "coordinates": [
+                5.4597103,
+                51.8135995
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5025, 262]
+              "resourceCoords": [
+                5025,
+                262
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.460075, 52.0383056]
+              "coordinates": [
+                5.460075,
+                52.0383056
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [309, 272]
+              "resourceCoords": [
+                309,
+                272
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.1685868, 52.0381255]
+              "coordinates": [
+                5.1685868,
+                52.0381255
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "3642d141-3f4d-4d28-bdfa-04f41bab448f",
+      "id": "edf32f7d23cacc2d",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1712,48 +2288,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [281, 6215]
+              "resourceCoords": [
+                281,
+                6215
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.4597103, 51.8135995]
+              "coordinates": [
+                5.4597103,
+                51.8135995
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4998, 6222]
+              "resourceCoords": [
+                4998,
+                6222
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7497413, 51.8130613]
+              "coordinates": [
+                5.7497413,
+                51.8130613
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4995, 325]
+              "resourceCoords": [
+                4995,
+                325
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7515606, 52.0377638]
+              "coordinates": [
+                5.7515606,
+                52.0377638
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [284, 318]
+              "resourceCoords": [
+                284,
+                318
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.460075, 52.0383056]
+              "coordinates": [
+                5.460075,
+                52.0383056
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "42ca60e9-a189-487e-b510-7154cd2a4da5",
+      "id": "bf6405ae3dcd0c97",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1782,48 +2382,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [310, 6170]
+              "resourceCoords": [
+                310,
+                6170
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7497413, 51.8130613]
+              "coordinates": [
+                5.7497413,
+                51.8130613
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5021, 6193]
+              "resourceCoords": [
+                5021,
+                6193
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0397592, 51.8118059]
+              "coordinates": [
+                6.0397592,
+                51.8118059
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5043, 319]
+              "resourceCoords": [
+                5043,
+                319
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0430323, 52.0365006]
+              "coordinates": [
+                6.0430323,
+                52.0365006
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [334, 294]
+              "resourceCoords": [
+                334,
+                294
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7515606, 52.0377638]
+              "coordinates": [
+                5.7515606,
+                52.0377638
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "06e4f56b-2f8d-4bec-8893-639f17f621fe",
+      "id": "3783363b70eb976d",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1852,48 +2476,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [290, 6197]
+              "resourceCoords": [
+                290,
+                6197
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0397592, 51.8118059]
+              "coordinates": [
+                6.0397592,
+                51.8118059
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5002, 6210]
+              "resourceCoords": [
+                5002,
+                6210
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.3297536, 51.8098348]
+              "coordinates": [
+                6.3297536,
+                51.8098348
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5012, 314]
+              "resourceCoords": [
+                5012,
+                314
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.33448, 52.0345161]
+              "coordinates": [
+                6.33448,
+                52.0345161
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [297, 300]
+              "resourceCoords": [
+                297,
+                300
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0430323, 52.0365006]
+              "coordinates": [
+                6.0430323,
+                52.0365006
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "bccb4b1d-2433-4c70-b74b-341c0382504a",
+      "id": "109d241f5f015801",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1915,45 +2563,79 @@
       },
       "body": {
         "type": "FeatureCollection",
-        "transformation": { "type": "thinPlateSpline" },
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
         "features": [
           {
             "type": "Feature",
-            "properties": { "resourceCoords": [297, 292] },
+            "properties": {
+              "resourceCoords": [
+                297,
+                292
+              ]
+            },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.0097286, 51.8055372]
+              "coordinates": [
+                4.0097286,
+                51.8055372
+              ]
             }
           },
           {
             "type": "Feature",
-            "properties": { "resourceCoords": [5014, 285] },
+            "properties": {
+              "resourceCoords": [
+                5014,
+                285
+              ]
+            },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.2996668, 51.8085833]
+              "coordinates": [
+                4.2996668,
+                51.8085833
+              ]
             }
           },
           {
             "type": "Feature",
-            "properties": { "resourceCoords": [5025, 6190] },
+            "properties": {
+              "resourceCoords": [
+                5025,
+                6190
+              ]
+            },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.3050548, 51.5839037]
+              "coordinates": [
+                4.3050548,
+                51.5839037
+              ]
             }
           },
           {
             "type": "Feature",
-            "properties": { "resourceCoords": [307, 6191] },
+            "properties": {
+              "resourceCoords": [
+                307,
+                6191
+              ]
+            },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.016554, 51.5808774]
+              "coordinates": [
+                4.016554,
+                51.5808774
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "a8a0dcf6-f5f2-4aa5-9085-5117f7ac9338",
+      "id": "48b626d6be9550ce",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -1982,48 +2664,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [319, 6205]
+              "resourceCoords": [
+                319,
+                6205
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.3050548, 51.5839037]
+              "coordinates": [
+                4.3050548,
+                51.5839037
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5031, 6196]
+              "resourceCoords": [
+                5031,
+                6196
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5935962, 51.586218]
+              "coordinates": [
+                4.5935962,
+                51.586218
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5013, 306]
+              "resourceCoords": [
+                5013,
+                306
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5896444, 51.8109125]
+              "coordinates": [
+                4.5896444,
+                51.8109125
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [297, 317]
+              "resourceCoords": [
+                297,
+                317
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.2996668, 51.8085833]
+              "coordinates": [
+                4.2996668,
+                51.8085833
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "290cf289-f58f-42f6-8cf4-c0a303fb889b",
+      "id": "30e07c3aafd366f7",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2052,48 +2758,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [306, 6223]
+              "resourceCoords": [
+                306,
+                6223
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5935962, 51.586218]
+              "coordinates": [
+                4.5935962,
+                51.586218
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5023, 6206]
+              "resourceCoords": [
+                5023,
+                6206
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8821657, 51.5878202]
+              "coordinates": [
+                4.8821657,
+                51.5878202
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4993, 321]
+              "resourceCoords": [
+                4993,
+                321
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8796506, 51.8125252]
+              "coordinates": [
+                4.8796506,
+                51.8125252
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [274, 337]
+              "resourceCoords": [
+                274,
+                337
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5896444, 51.8109125]
+              "coordinates": [
+                4.5896444,
+                51.8109125
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "0dc20885-3f0c-475a-aa52-7b56ea4e0852",
+      "id": "d3e89b2f9f6f0426",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2122,48 +2852,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [319, 6228]
+              "resourceCoords": [
+                319,
+                6228
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.170754, 51.5887099]
+              "coordinates": [
+                5.170754,
+                51.5887099
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5034, 6205]
+              "resourceCoords": [
+                5034,
+                6205
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.4593495, 51.5888874]
+              "coordinates": [
+                5.4593495,
+                51.5888874
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4993, 326]
+              "resourceCoords": [
+                4993,
+                326
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.4597103, 51.8135995]
+              "coordinates": [
+                5.4597103,
+                51.8135995
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [267, 358]
+              "resourceCoords": [
+                267,
+                358
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.1696766, 51.8134209]
+              "coordinates": [
+                5.1696766,
+                51.8134209
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "b6895e96-0a74-4254-9e1f-fabe184508ff",
+      "id": "c02ca41d2eb4a547",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2192,48 +2946,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [334, 6205]
+              "resourceCoords": [
+                334,
+                6205
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.4593495, 51.5888874]
+              "coordinates": [
+                5.4593495,
+                51.5888874
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5051, 6197]
+              "resourceCoords": [
+                5051,
+                6197
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7479431, 51.5883527]
+              "coordinates": [
+                5.7479431,
+                51.5883527
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5027, 309]
+              "resourceCoords": [
+                5027,
+                309
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7497413, 51.8130613]
+              "coordinates": [
+                5.7497413,
+                51.8130613
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [308, 323]
+              "resourceCoords": [
+                308,
+                323
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.4597103, 51.8135995]
+              "coordinates": [
+                5.4597103,
+                51.8135995
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "e5cbfd92-0618-4c69-9bf9-c2711e4b8efc",
+      "id": "7cd023bf21472481",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2262,48 +3040,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [322, 6183]
+              "resourceCoords": [
+                322,
+                6183
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7479431, 51.5883527]
+              "coordinates": [
+                5.7479431,
+                51.5883527
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5036, 6178]
+              "resourceCoords": [
+                5036,
+                6178
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0365232, 51.5871055]
+              "coordinates": [
+                6.0365232,
+                51.5871055
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5014, 293]
+              "resourceCoords": [
+                5014,
+                293
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0397592, 51.8118059]
+              "coordinates": [
+                6.0397592,
+                51.8118059
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [299, 303]
+              "resourceCoords": [
+                299,
+                303
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7497413, 51.8130613]
+              "coordinates": [
+                5.7497413,
+                51.8130613
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "824089d0-e211-479a-98fb-1107ccd7b6f3",
+      "id": "2000faa9eaecbee4",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2332,48 +3134,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [333, 6212]
+              "resourceCoords": [
+                333,
+                6212
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0365232, 51.5871055]
+              "coordinates": [
+                6.0365232,
+                51.5871055
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5050, 6206]
+              "resourceCoords": [
+                5050,
+                6206
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.3250802, 51.5851465]
+              "coordinates": [
+                6.3250802,
+                51.5851465
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5028, 326]
+              "resourceCoords": [
+                5028,
+                326
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.3297536, 51.8098348]
+              "coordinates": [
+                6.3297536,
+                51.8098348
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [313, 335]
+              "resourceCoords": [
+                313,
+                335
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0397592, 51.8118059]
+              "coordinates": [
+                6.0397592,
+                51.8118059
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "96cc2b7c-1ddc-4095-b0ae-8365416f4ca2",
+      "id": "9f606e2b9a3a6110",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2402,48 +3228,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [322, 6172]
+              "resourceCoords": [
+                322,
+                6172
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.3103827, 51.3592195]
+              "coordinates": [
+                4.3103827,
+                51.3592195
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5025, 6192]
+              "resourceCoords": [
+                5025,
+                6192
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5975028, 51.361519]
+              "coordinates": [
+                4.5975028,
+                51.361519
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5038, 291]
+              "resourceCoords": [
+                5038,
+                291
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5935962, 51.586218]
+              "coordinates": [
+                4.5935962,
+                51.586218
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [339, 270]
+              "resourceCoords": [
+                339,
+                270
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.3050548, 51.5839037]
+              "coordinates": [
+                4.3050548,
+                51.5839037
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "2b4a9b72-7932-404e-83ab-e4a49e7101c0",
+      "id": "73e75cb9b4ee22bc",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2472,48 +3322,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [311, 6195]
+              "resourceCoords": [
+                311,
+                6195
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5975028, 51.361519]
+              "coordinates": [
+                4.5975028,
+                51.361519
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5020, 6192]
+              "resourceCoords": [
+                5020,
+                6192
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8846519, 51.3631109]
+              "coordinates": [
+                4.8846519,
+                51.3631109
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5008, 287]
+              "resourceCoords": [
+                5008,
+                287
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.8821657, 51.5878202]
+              "coordinates": [
+                4.8821657,
+                51.5878202
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [292, 294]
+              "resourceCoords": [
+                292,
+                294
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [4.5935962, 51.586218]
+              "coordinates": [
+                4.5935962,
+                51.586218
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "0ccd32fd-c28b-4fa7-a50a-f54eb83d91df",
+      "id": "ac9120fd81690c46",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2542,48 +3416,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [299, 6193]
+              "resourceCoords": [
+                299,
+                6193
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.4589933, 51.3641712]
+              "coordinates": [
+                5.4589933,
+                51.3641712
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5013, 6194]
+              "resourceCoords": [
+                5013,
+                6194
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7461657, 51.36364]
+              "coordinates": [
+                5.7461657,
+                51.36364
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5002, 312]
+              "resourceCoords": [
+                5002,
+                312
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7479431, 51.5883527]
+              "coordinates": [
+                5.7479431,
+                51.5883527
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [288, 313]
+              "resourceCoords": [
+                288,
+                313
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.4593495, 51.5888874]
+              "coordinates": [
+                5.4593495,
+                51.5888874
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "451c655b-7d23-4861-b1d9-729713ac62cc",
+      "id": "0b5459a8596bbb06",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2612,48 +3510,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [329, 6198]
+              "resourceCoords": [
+                329,
+                6198
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7461657, 51.36364]
+              "coordinates": [
+                5.7461657,
+                51.36364
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5047, 6188]
+              "resourceCoords": [
+                5047,
+                6188
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0333242, 51.362401]
+              "coordinates": [
+                6.0333242,
+                51.362401
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5025, 297]
+              "resourceCoords": [
+                5025,
+                297
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0365232, 51.5871055]
+              "coordinates": [
+                6.0365232,
+                51.5871055
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [308, 307]
+              "resourceCoords": [
+                308,
+                307
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7479431, 51.5883527]
+              "coordinates": [
+                5.7479431,
+                51.5883527
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "1ac22539-889d-4465-961b-b4a254349b78",
+      "id": "482a6c91fd20b431",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2682,48 +3604,72 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [301, 6171]
+              "resourceCoords": [
+                301,
+                6171
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0333242, 51.362401]
+              "coordinates": [
+                6.0333242,
+                51.362401
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5012, 6187]
+              "resourceCoords": [
+                5012,
+                6187
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.3204611, 51.3604543]
+              "coordinates": [
+                6.3204611,
+                51.3604543
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [5015, 299]
+              "resourceCoords": [
+                5015,
+                299
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.3250802, 51.5851465]
+              "coordinates": [
+                6.3250802,
+                51.5851465
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [299, 289]
+              "resourceCoords": [
+                299,
+                289
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0365232, 51.5871055]
+              "coordinates": [
+                6.0365232,
+                51.5871055
+              ]
             }
           }
         ]
       }
     },
     {
-      "id": "ea409d2d-b2b6-4b59-a5a7-02eef171fb1a",
+      "id": "024f03a4a46cd2ba",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
@@ -2752,41 +3698,65 @@
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [279, 6181]
+              "resourceCoords": [
+                279,
+                6181
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.744408, 51.1389246]
+              "coordinates": [
+                5.744408,
+                51.1389246
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4994, 6187]
+              "resourceCoords": [
+                4994,
+                6187
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.030162, 51.1376935]
+              "coordinates": [
+                6.030162,
+                51.1376935
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [4991, 293]
+              "resourceCoords": [
+                4991,
+                293
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [6.0333242, 51.362401]
+              "coordinates": [
+                6.0333242,
+                51.362401
+              ]
             }
           },
           {
             "type": "Feature",
             "properties": {
-              "resourceCoords": [279, 286]
+              "resourceCoords": [
+                279,
+                286
+              ]
             },
             "geometry": {
               "type": "Point",
-              "coordinates": [5.7461657, 51.36364]
+              "coordinates": [
+                5.7461657,
+                51.36364
+              ]
             }
           }
         ]

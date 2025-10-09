@@ -4,6 +4,8 @@
     "": {
       "name": "watertijdreis-data",
       "dependencies": {
+        "@allmaps/annotation": "^1.0.0-beta.35",
+        "@allmaps/id": "^1.0.0-beta.35",
         "iiif-hss": "^1.0.3",
         "yaml": "^2.7.0",
       },
@@ -16,6 +18,10 @@
     },
   },
   "packages": {
+    "@allmaps/annotation": ["@allmaps/annotation@1.0.0-beta.35", "", { "dependencies": { "zod": "^3.22.4" } }, "sha512-YmAn2cSJrULHl9xML/JeOobLr9zijfR4OTnPKGtlf/RkxTh8SNn0v6T3+x7YWvhT3fOt+oJJsJd6RF4L3oljYw=="],
+
+    "@allmaps/id": ["@allmaps/id@1.0.0-beta.35", "", {}, "sha512-W9FEN46XGkBnquAk0thMgAUj1KTKwLGxqXXlpekcZnE29rNmWZBHMd3SD0FIrJvfjKNpLikH3gnTb8rv20bOWg=="],
+
     "@atlas-viewer/iiif-image-api": ["@atlas-viewer/iiif-image-api@2.2.2", "", { "dependencies": { "@iiif/presentation-3": "*" } }, "sha512-MicA6fkWOJSWZ4fuOmh57ETVcCdnMaNhjzNtM29Xf6deGPtk8V4Vd46SWy3dM/cdo8gdHQdsvoJNkzzKo9CsXA=="],
 
     "@babel/runtime": ["@babel/runtime@7.27.0", "", { "dependencies": { "regenerator-runtime": "^0.14.0" } }, "sha512-VtPOkrdPHZsKc/clNqyi9WUA8TINkZ4cGk63UUE3u4pmB2k+ZMQRDuIOagv8UVd6j7k0T3+RRIb7beKTebNbcw=="],
