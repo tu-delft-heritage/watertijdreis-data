@@ -7088,6 +7088,32 @@
           "34.SE"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "vk"
+            ]
+          },
+          "value": {
+            "en": [
+              "[1882]"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "bw"
+            ]
+          },
+          "value": {
+            "en": [
+              "[1884]"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-389916/page/p120/1",
