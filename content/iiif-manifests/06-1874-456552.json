@@ -347,6 +347,32 @@
           "54.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "[1962]"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "[1965]"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456552/page/p5/1",
@@ -386,6 +412,32 @@
           "54.E"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "[1964]"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "[1966]"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456552/page/p6/1",
@@ -425,6 +477,32 @@
           "55.W"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "hz"
+            ]
+          },
+          "value": {
+            "en": [
+              "[1965]"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "ui"
+            ]
+          },
+          "value": {
+            "en": [
+              "[1966]"
+            ]
+          }
+        }
+      ],
       "items": [
         {
           "id": "https://objects.library.uu.nl/iiif_manifest/1874-456552/page/p7/1",
