@@ -28,6 +28,7 @@ Syntax for canvas label value:
   - `NE` Northeast
   - `SE` Southeast
   - `SW` Southwest
+  - `O` Omnidirectional
 - `type` type of sheet
   - `WVE` Watervoorzieningseenheden
   - `HWP` Hydrologische waarnemingspunten
@@ -39,8 +40,8 @@ Syntax for canvas label value:
 
 Example: `52.E.WVE` = Sheet number 52, East, Watervoorzieningseenheden
 
-* special case: In Edition 5, sheet 30 covers both the East and West side of the sheet, so it has been marked as EW
-* special case: In Edition 4, the annotations for sheet 29 and 35 are both masks of the same scan, so the scan in in the manifest twice
+- special case: In Edition 5, sheet 30 covers both the East and West side of the sheet, so it has been marked as EW
+- special case: In Edition 4, the annotations for sheet 29 and 35 are both masks of the same scan, so the scan in in the manifest twice
 
 ## Metadata
 
@@ -59,7 +60,6 @@ Sometimes, multiple years are listed. This is encoded as `[year1].[year2]`
 Example: \
 `bw = 1912` \
 `hz = 1910.1011`
-
 
 ---
 
