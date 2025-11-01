@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://tu-delft-heritage.github.io/watertijdreis-data/manifests/04-1874-456550/manifest.json",
+  "id": "https://tu-delft-heritage.github.io/watertijdreis-data/manifests/content/iiif-manifests/04-1874-456550/manifest.json",
   "type": "Manifest",
   "label": {
     "none": [
@@ -96,6 +96,10 @@
     {
       "id": "http://localhost:7111/manifests/content/iiif-manifests/1874-456550",
       "type": "ContentResource"
+    },
+    {
+      "id": "https://tu-delft-heritage.github.io/watertijdreis-data/manifests/content/iiif-manifests/04-1874-456550",
+      "type": "ContentResource"
     }
   ],
   "items": [
@@ -106,7 +110,7 @@
       "width": 8946,
       "label": {
         "none": [
-          "30.E"
+          "30.O"
         ]
       },
       "metadata": [
@@ -171,7 +175,7 @@
       "width": 8949,
       "label": {
         "none": [
-          "30.E.B"
+          "30.O.B"
         ]
       },
       "items": [
