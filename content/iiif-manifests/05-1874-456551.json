@@ -96,6 +96,10 @@
     {
       "id": "http://localhost:7111/manifests/content/iiif-manifests/1874-456551",
       "type": "ContentResource"
+    },
+    {
+      "id": "https://tu-delft-heritage.github.io/watertijdreis-data/manifests/content/iiif-manifests/05-1874-456551",
+      "type": "ContentResource"
     }
   ],
   "items": [
@@ -1648,45 +1652,6 @@
       ]
     },
     {
-      "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p31",
-      "type": "Canvas",
-      "height": 6626,
-      "width": 3629,
-      "label": {
-        "none": [
-          "13.W.B.dup"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p31/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-31-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p31",
-              "body": {
-                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/10/55/80/105580344533517995237490707860240795259.jp2/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 6626,
-                "width": 3629,
-                "service": [
-                  {
-                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/10/55/80/105580344533517995237490707860240795259.jp2",
-                    "type": "ImageService3",
-                    "profile": "level1"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p32",
       "type": "Canvas",
       "height": 6648,
@@ -1780,6 +1745,45 @@
                 "service": [
                   {
                     "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/68/71/64/68716462725822164309513061069919108050.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p31",
+      "type": "Canvas",
+      "height": 6626,
+      "width": 3629,
+      "label": {
+        "none": [
+          "13.W.B.dup"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p31/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-31-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p31",
+              "body": {
+                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/10/55/80/105580344533517995237490707860240795259.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6626,
+                "width": 3629,
+                "service": [
+                  {
+                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/10/55/80/105580344533517995237490707860240795259.jp2",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2066,45 +2070,6 @@
       ]
     },
     {
-      "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p39",
-      "type": "Canvas",
-      "height": 7064,
-      "width": 2580,
-      "label": {
-        "none": [
-          "16.E.B.dup"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p39/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-39-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p39",
-              "body": {
-                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/38/74/87/38748708668368371530694053335744357672.jp2/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 7064,
-                "width": 2580,
-                "service": [
-                  {
-                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/38/74/87/38748708668368371530694053335744357672.jp2",
-                    "type": "ImageService3",
-                    "profile": "level1"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p40",
       "type": "Canvas",
       "height": 6632,
@@ -2186,6 +2151,45 @@
                 "service": [
                   {
                     "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/16/80/25/168025230156768513114658652011662224392.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p39",
+      "type": "Canvas",
+      "height": 7064,
+      "width": 2580,
+      "label": {
+        "none": [
+          "16.E.B.dup"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p39/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-39-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p39",
+              "body": {
+                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/38/74/87/38748708668368371530694053335744357672.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7064,
+                "width": 2580,
+                "service": [
+                  {
+                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/38/74/87/38748708668368371530694053335744357672.jp2",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -2303,45 +2307,6 @@
       ]
     },
     {
-      "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p44",
-      "type": "Canvas",
-      "height": 6606,
-      "width": 1855,
-      "label": {
-        "none": [
-          "18.W.B.dup"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p44/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-44-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p44",
-              "body": {
-                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/22/81/37/22813734036462140966498426649140308505.jp2/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 6606,
-                "width": 1855,
-                "service": [
-                  {
-                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/22/81/37/22813734036462140966498426649140308505.jp2",
-                    "type": "ImageService3",
-                    "profile": "level1"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p45",
       "type": "Canvas",
       "height": 6643,
@@ -2423,6 +2388,45 @@
                 "service": [
                   {
                     "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/24/07/68/24076886588161405080197940654247548955.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p44",
+      "type": "Canvas",
+      "height": 6606,
+      "width": 1855,
+      "label": {
+        "none": [
+          "18.W.B.dup"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p44/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-44-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p44",
+              "body": {
+                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/22/81/37/22813734036462140966498426649140308505.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6606,
+                "width": 1855,
+                "service": [
+                  {
+                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/22/81/37/22813734036462140966498426649140308505.jp2",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4408,45 +4412,6 @@
       ]
     },
     {
-      "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p83",
-      "type": "Canvas",
-      "height": 6628,
-      "width": 3584,
-      "label": {
-        "none": [
-          "34.W.B.dup"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p83/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-83-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p83",
-              "body": {
-                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/14/98/17/149817883035410052740510926649109493614.jp2/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 6628,
-                "width": 3584,
-                "service": [
-                  {
-                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/14/98/17/149817883035410052740510926649109493614.jp2",
-                    "type": "ImageService3",
-                    "profile": "level1"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p84",
       "type": "Canvas",
       "height": 6659,
@@ -4539,34 +4504,34 @@
       ]
     },
     {
-      "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p86",
+      "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p83",
       "type": "Canvas",
-      "height": 7417,
-      "width": 2510,
+      "height": 6628,
+      "width": 3584,
       "label": {
         "none": [
-          "34.E.B.dup"
+          "34.W.B.dup"
         ]
       },
       "items": [
         {
-          "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p86/1",
+          "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p83/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-86-image",
+              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-83-image",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p86",
+              "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p83",
               "body": {
-                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/42/14/114214389327306915236620695853008750675.jp2/full/full/0/default.jpg",
+                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/14/98/17/149817883035410052740510926649109493614.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 7417,
-                "width": 2510,
+                "height": 6628,
+                "width": 3584,
                 "service": [
                   {
-                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/42/14/114214389327306915236620695853008750675.jp2",
+                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/14/98/17/149817883035410052740510926649109493614.jp2",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -4659,6 +4624,45 @@
                 "service": [
                   {
                     "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/24/90/88/24908816782187739513422410515817872373.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p86",
+      "type": "Canvas",
+      "height": 7417,
+      "width": 2510,
+      "label": {
+        "none": [
+          "34.E.B.dup"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p86/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-86-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p86",
+              "body": {
+                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/42/14/114214389327306915236620695853008750675.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7417,
+                "width": 2510,
+                "service": [
+                  {
+                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/42/14/114214389327306915236620695853008750675.jp2",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -6286,45 +6290,6 @@
       ]
     },
     {
-      "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p119",
-      "type": "Canvas",
-      "height": 6621,
-      "width": 3583,
-      "label": {
-        "none": [
-          "46.W.B.dup"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p119/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-119-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p119",
-              "body": {
-                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/86/00/03/86000300915089497512123578842058209754.jp2/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 6621,
-                "width": 3583,
-                "service": [
-                  {
-                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/86/00/03/86000300915089497512123578842058209754.jp2",
-                    "type": "ImageService3",
-                    "profile": "level1"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p120",
       "type": "Canvas",
       "height": 6618,
@@ -6406,6 +6371,45 @@
                 "service": [
                   {
                     "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/15/91/12/15911267270510173630217204652215719803.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p119",
+      "type": "Canvas",
+      "height": 6621,
+      "width": 3583,
+      "label": {
+        "none": [
+          "46.W.B.dup"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p119/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-119-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p119",
+              "body": {
+                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/86/00/03/86000300915089497512123578842058209754.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6621,
+                "width": 3583,
+                "service": [
+                  {
+                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/86/00/03/86000300915089497512123578842058209754.jp2",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
@@ -7834,45 +7838,6 @@
       ]
     },
     {
-      "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p149",
-      "type": "Canvas",
-      "height": 6632,
-      "width": 3475,
-      "label": {
-        "none": [
-          "61.E.B.dup"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p149/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-149-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p149",
-              "body": {
-                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/55/34/69/55346951916740482385741239966965327985.jp2/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 6632,
-                "width": 3475,
-                "service": [
-                  {
-                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/55/34/69/55346951916740482385741239966965327985.jp2",
-                    "type": "ImageService3",
-                    "profile": "level1"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p150",
       "type": "Canvas",
       "height": 6682,
@@ -7954,6 +7919,45 @@
                 "service": [
                   {
                     "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/54/81/78/54817863846539955040320495367998863841.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p149",
+      "type": "Canvas",
+      "height": 6632,
+      "width": 3475,
+      "label": {
+        "none": [
+          "61.E.B.dup"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://objects.library.uu.nl/iiif_manifest/1874-456551/page/p149/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-456551-149-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://objects.library.uu.nl/iiif_manifest/1874-456551/canvas/p149",
+              "body": {
+                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/55/34/69/55346951916740482385741239966965327985.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6632,
+                "width": 3475,
+                "service": [
+                  {
+                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/55/34/69/55346951916740482385741239966965327985.jp2",
                     "type": "ImageService3",
                     "profile": "level1"
                   }

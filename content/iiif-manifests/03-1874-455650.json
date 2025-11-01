@@ -96,6 +96,10 @@
     {
       "id": "http://localhost:7111/manifests/content/iiif-manifests/1874-455650",
       "type": "ContentResource"
+    },
+    {
+      "id": "https://tu-delft-heritage.github.io/watertijdreis-data/manifests/content/iiif-manifests/03-1874-455650",
+      "type": "ContentResource"
     }
   ],
   "items": [
@@ -6631,45 +6635,6 @@
       ]
     },
     {
-      "id": "https://objects.library.uu.nl/iiif_manifest/1874-455650/canvas/p116",
-      "type": "Canvas",
-      "height": 6603,
-      "width": 4194,
-      "label": {
-        "none": [
-          "44.NW.B"
-        ]
-      },
-      "items": [
-        {
-          "id": "https://objects.library.uu.nl/iiif_manifest/1874-455650/page/p116/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-455650-116-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://objects.library.uu.nl/iiif_manifest/1874-455650/canvas/p116",
-              "body": {
-                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/22/06/14/22061447239963300724087873929201633430.jp2/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 6603,
-                "width": 4194,
-                "service": [
-                  {
-                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/22/06/14/22061447239963300724087873929201633430.jp2",
-                    "type": "ImageService3",
-                    "profile": "level1"
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "https://objects.library.uu.nl/iiif_manifest/1874-455650/canvas/p117",
       "type": "Canvas",
       "height": 6601,
@@ -6724,6 +6689,45 @@
                 "service": [
                   {
                     "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/39/82/34/39823442889431705269013545981495114464.jp2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://objects.library.uu.nl/iiif_manifest/1874-455650/canvas/p116",
+      "type": "Canvas",
+      "height": 6603,
+      "width": 4194,
+      "label": {
+        "none": [
+          "44.NW.B"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://objects.library.uu.nl/iiif_manifest/1874-455650/page/p116/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://objects.library.uu.nl/iiif_manifest/annotation/1874-455650-116-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://objects.library.uu.nl/iiif_manifest/1874-455650/canvas/p116",
+              "body": {
+                "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/22/06/14/22061447239963300724087873929201633430.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6603,
+                "width": 4194,
+                "service": [
+                  {
+                    "id": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/22/06/14/22061447239963300724087873929201633430.jp2",
                     "type": "ImageService3",
                     "profile": "level1"
                   }
