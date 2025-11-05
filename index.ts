@@ -54,8 +54,8 @@ groupedMaps.forEach((maps, id) => {
 await writeAnnotations(groupedMaps);
 
 // Process manifests
-const manifestsWithStructures = new Map(
-  manifests.map((manifest) => {
+const manifestsWithStructures = await Promise.all(
+  manifests.map(async (manifest) => {
     const id = manifest.id.match(/1874-\d+/)?.[0];
     const baseUri = "https://objects.library.uu.nl/iiif_manifest/" + id;
     // Create structures
@@ -66,12 +66,14 @@ const manifestsWithStructures = new Map(
     manifest.id = baseUrl + "manifests/" + id + "/manifest.json";
     delete manifest.homepage;
     // Add metadata to canvases
-    manifest.items.map((canvas: Canvas) =>
-      addMetadataToCanvas(canvas, groupedMaps, versions)
+    await Promise.all(
+      manifest.items.map((canvas: Canvas) =>
+        addMetadataToCanvas(canvas, groupedMaps, versions)
+      )
     );
     return [id, manifest];
   })
 );
 
-await writeManifests(manifestsWithStructures);
+await writeManifests(new Map(manifestsWithStructures));
 await writeCollection();
