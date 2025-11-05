@@ -289,13 +289,13 @@ export const addMetadataToCanvas = async (
         type: "AnnotationPage",
       },
     ];
-    // const featureCollection = await maskToGeoJson(mapsFound);
-    // canvas.navPlace = featureCollection;
-    canvas.navPlace = {
-      // id: `${baseUrl}geojson/${id}.json`,
-      id: `https://annotations.allmaps.org/images/${id}@${version}.geojson`,
-      type: "FeatureCollection",
-    };
+    const featureCollection = await maskToGeoJson(mapsFound);
+    canvas.navPlace = featureCollection;
+    // canvas.navPlace = {
+    //   // id: `${baseUrl}geojson/${id}.json`,
+    //   id: `https://annotations.allmaps.org/images/${id}@${version}.geojson`,
+    //   type: "FeatureCollection",
+    // };
   }
 };
 
@@ -322,7 +322,7 @@ export const createRanges = (
   const ranges: Range[] = [];
   groupedCanvases.forEach((canvases, sheet) => {
     const label =
-      sheet === "0"
+      sheet === "index"
         ? "Bladwijzer"
         : sheet.includes(".O")
         ? `Blad ${sheet.split(".")[0]}`
