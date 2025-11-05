@@ -8,6 +8,7 @@ import {
   writeManifests,
   addMetadataToCanvas,
   groupCanvasesByImageId,
+  getVersions,
 } from "./src/functions";
 import { baseUrl, iiifBaseUrl } from "./src/config";
 
@@ -16,6 +17,7 @@ import type { Canvas } from "@iiif/presentation-3";
 // Get source data
 const manifests = await getManifests();
 const maps = await getMaps();
+const versions = await getVersions();
 
 // Sort both by Image ID
 const groupedMaps = await groupMapsByImageId(maps);
@@ -64,7 +66,7 @@ const manifestsWithStructures = new Map(
     delete manifest.homepage;
     // Add metadata to canvases
     manifest.items.map((canvas: Canvas) =>
-      addMetadataToCanvas(canvas, groupedMaps)
+      addMetadataToCanvas(canvas, groupedMaps, versions)
     );
     return [id, manifest];
   })

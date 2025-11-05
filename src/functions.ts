@@ -39,6 +39,12 @@ export const getMaps = async () => {
   return maps as GeoreferencedMap[];
 };
 
+export const getVersions = async () => {
+  const path = "./content/allmaps-versions.json";
+  const json = await Bun.file(path).json();
+  return new Map(json) as Map<string, string>;
+};
+
 export const groupMapsByImageId = async (maps: GeoreferencedMap[]) => {
   const imageIds: Map<string, GeoreferencedMap[]> = new Map();
   for (const map of maps) {
@@ -209,7 +215,8 @@ export const getMetadataFromCanvas = (canvas: Canvas) => {
 
 export const addMetadataToCanvas = async (
   canvas: Canvas,
-  maps: Map<string, GeoreferencedMap[]>
+  maps: Map<string, GeoreferencedMap[]>,
+  versions: Map<string, string>
 ) => {
   const metadata = getMetadataFromCanvas(canvas);
   if (metadata && metadata.sheet !== "index") {
@@ -272,18 +279,21 @@ export const addMetadataToCanvas = async (
   const imageId =
     canvas.items?.[0]?.items?.[0]?.body?.service?.[0]?.id || undefined;
   const id = await generateId(imageId);
+  const version = versions.get(id);
   const mapsFound = maps.get(id);
   if (mapsFound) {
     canvas.annotations = [
       {
-        id: `${baseUrl}annotations/${id}.json`,
+        // id: `${baseUrl}annotations/${id}.json`,
+        id: `https://annotations.allmaps.org/images/${id}@${version}`,
         type: "AnnotationPage",
       },
     ];
     // const featureCollection = await maskToGeoJson(mapsFound);
     // canvas.navPlace = featureCollection;
     canvas.navPlace = {
-      id: `${baseUrl}geojson/${id}.json`,
+      // id: `${baseUrl}geojson/${id}.json`,
+      id: `https://annotations.allmaps.org/images/${id}@${version}.geojson`,
       type: "FeatureCollection",
     };
   }
