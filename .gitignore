@@ -1,5 +1,6 @@
 .iiif/
 build/
+temp/
 
 # dependencies (bun install)
 node_modules
