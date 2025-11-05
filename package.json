@@ -1,5 +1,5 @@
 {
-  "name": "Brondata Watertijdreis",
+  "name": "watertijdreis-data",
   "module": "index.ts",
   "type": "module",
   "private": true,

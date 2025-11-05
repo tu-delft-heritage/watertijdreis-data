@@ -22,7 +22,7 @@ import {
   geojsonFeaturesToGeojsonFeatureCollection,
 } from "@allmaps/stdlib";
 import { Vault, type NormalizedEntity } from "@iiif/helpers";
-
+import { IIIFBuilder } from "@iiif/builder";
 import type { Feature } from "geojson";
 import type { Canvas, Manifest, Range } from "@iiif/presentation-3";
 
@@ -338,4 +338,24 @@ export const createRanges = (
     ranges.push(range as Range);
   });
   return ranges;
+};
+
+export const writeCollection = async () => {
+  const builder = new IIIFBuilder();
+  const id = baseUrl + "collection.json";
+  const label = "Waterstaatskaart";
+  // Collection
+  const normalizedCollection = builder.createCollection(id, (collection) => {
+    collection.addLabel(label, "nl");
+    for (const [id, { edition, bis }] of editionsById) {
+      const uri = `${baseUrl}manifests/${id}/manifest.json`;
+      collection.createManifest(uri, (manifest) => {
+        const label = `Editie ${edition}${bis ? " BIS" : ""}`;
+        manifest.addLabel(label, "nl");
+      });
+    }
+  });
+  const collection = builder.toPresentation3(normalizedCollection);
+  const file = Bun.file(outputFolder + "collection.json");
+  await Bun.write(file, JSON.stringify(collection, null, 2));
 };

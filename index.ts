@@ -9,6 +9,7 @@ import {
   addMetadataToCanvas,
   groupCanvasesByImageId,
   getVersions,
+  writeCollection,
 } from "./src/functions";
 import { baseUrl, iiifBaseUrl } from "./src/config";
 
@@ -50,12 +51,12 @@ groupedMaps.forEach((maps, id) => {
   }
 });
 
-writeAnnotations(groupedMaps);
+await writeAnnotations(groupedMaps);
 
 // Process manifests
 const manifestsWithStructures = new Map(
   manifests.map((manifest) => {
-    const id = manifest.id.match(/1874-\d+/)[0];
+    const id = manifest.id.match(/1874-\d+/)?.[0];
     const baseUri = "https://objects.library.uu.nl/iiif_manifest/" + id;
     // Create structures
     const groupedCanvases = groupCanvasesBySheet(manifest.items);
@@ -72,15 +73,5 @@ const manifestsWithStructures = new Map(
   })
 );
 
-writeManifests(manifestsWithStructures);
-
-// Collection
-// builder.createCollection(id, (collection) => {
-//   collection.addLabel(label, "en");
-//   for (const item of parsedUrls) {
-//     collection.createManifest(item, (manifest) => {
-//       // manifest.type = vault.get(item).type;
-//       manifest.setLabel(vault.get(item).label);
-//     });
-//   }
-// });
+await writeManifests(manifestsWithStructures);
+await writeCollection();
