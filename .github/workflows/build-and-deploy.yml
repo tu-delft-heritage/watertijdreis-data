@@ -27,11 +27,11 @@ jobs:
         with:
           bun-version: latest
       - name: Install dependencies
-        run: |
-          bun i
-          cp -r ./content/ ./build/raw
+        run: bun i
       - name: Generate Manifests
-        run: bun run build
+        run: |
+          bun run build
+          cp -r ./content/ ./build/raw
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
