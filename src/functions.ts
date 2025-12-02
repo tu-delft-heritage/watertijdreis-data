@@ -115,11 +115,37 @@ export const writeAnnotations = async (
   }
   // Single files with all maps and annotations
   const sortedMaps = maps.values().toArray().flat().sort(sortMaps);
-  const sortedAnnotations = generateAnnotation(sortedMaps);
-  const mapsFile = Bun.file(outputFolder + "maps.json");
-  const annotationsFile = Bun.file(outputFolder + "annotations.json");
-  await Bun.write(mapsFile, JSON.stringify(sortedMaps, null, 2));
-  await Bun.write(annotationsFile, JSON.stringify(sortedAnnotations, null, 2));
+  await Bun.write(
+    Bun.file(outputFolder + "maps.json"),
+    JSON.stringify(sortedMaps, null, 2)
+  );
+
+  await Bun.write(
+    Bun.file(outputFolder + "annotations.json"),
+    JSON.stringify(generateAnnotation(sortedMaps), null, 2)
+  );
+
+  await Bun.write(
+    Bun.file(outputFolder + "annotations-regular.json"),
+    JSON.stringify(
+      generateAnnotation(
+        sortedMaps.filter((i: EnrichedGeoreferencedMap) => !i._meta.type)
+      ),
+      null,
+      2
+    )
+  );
+
+  await Bun.write(
+    Bun.file(outputFolder + "annotations-special.json"),
+    JSON.stringify(
+      generateAnnotation(
+        sortedMaps.filter((i: EnrichedGeoreferencedMap) => i._meta.type)
+      ),
+      null,
+      2
+    )
+  );
 };
 
 export const maskToGeoJson = async (maps: GeoreferencedMap[]) => {
