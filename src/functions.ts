@@ -25,6 +25,7 @@ import { Vault, type NormalizedEntity } from "@iiif/helpers";
 import { IIIFBuilder } from "@iiif/builder";
 import type { Feature } from "geojson";
 import type { Canvas, Manifest, Range } from "@iiif/presentation-3";
+import type { EnrichedGeoreferencedMap } from "./types.ts";
 
 // Parse all annotation pages as single array of map objects
 export const getMaps = async () => {
@@ -72,8 +73,22 @@ export const groupCanvasesByImageId = async (canvases: Canvas[]) => {
   ).then((arr) => new Map(arr) as Map<string, Canvas>);
 };
 
+const sortMaps = (a: EnrichedGeoreferencedMap, b: EnrichedGeoreferencedMap) => {
+  const sameEdition = a._meta.edition === b._meta.edition;
+  const bothBis = a._meta.bis === b._meta.bis;
+  if (sameEdition && !bothBis) {
+    const aBis = a._meta.bis ? 1 : 0;
+    const bBis = b._meta.bis ? 1 : 0;
+    return aBis - bBis;
+  } else if (sameEdition) {
+    return a._meta.yearEnd - b._meta.yearEnd;
+  } else {
+    return a._meta.edition - b._meta.edition;
+  }
+};
+
 export const writeAnnotations = async (
-  maps: Map<string, GeoreferencedMap[]>,
+  maps: Map<string, EnrichedGeoreferencedMap[]>,
   writeMask: boolean = true
 ) => {
   let count = 0;
@@ -98,6 +113,13 @@ export const writeAnnotations = async (
   if (writeMask) {
     console.log("GeoJSONs written:", count);
   }
+  // Single files with all maps and annotations
+  const sortedMaps = maps.values().toArray().flat().sort(sortMaps);
+  const sortedAnnotations = generateAnnotation(sortedMaps);
+  const mapsFile = Bun.file(outputFolder + "maps.json");
+  const annotationsFile = Bun.file(outputFolder + "annotations.json");
+  await Bun.write(mapsFile, JSON.stringify(sortedMaps, null, 2));
+  await Bun.write(annotationsFile, JSON.stringify(sortedAnnotations, null, 2));
 };
 
 export const maskToGeoJson = async (maps: GeoreferencedMap[]) => {
@@ -194,7 +216,7 @@ export const getMetadataFromCanvas = (canvas: Canvas) => {
 
     return {
       // manifest: id,
-      fullLabel,
+      // fullLabel,
       sheet,
       edition,
       bis,
@@ -281,12 +303,16 @@ export const addMetadataToCanvas = async (
   const id = await generateId(imageId);
   const version = versions.get(id);
   const mapsFound = maps.get(id);
-  if (mapsFound) {
+  if (mapsFound && version) {
     canvas.annotations = [
       {
         // id: `${baseUrl}annotations/${id}.json`,
         id: `https://annotations.allmaps.org/images/${id}@${version}`,
         type: "AnnotationPage",
+        purpose: "georeferencing",
+        label: {
+          en: ["Georeference Annotation"],
+        },
       },
     ];
     const featureCollection = await maskToGeoJson(mapsFound);
@@ -296,6 +322,8 @@ export const addMetadataToCanvas = async (
     //   id: `https://annotations.allmaps.org/images/${id}@${version}.geojson`,
     //   type: "FeatureCollection",
     // };
+  } else if (metadata.sheet !== "index" && metadata.type !== "B") {
+    console.log("No map found for", imageId);
   }
 };
 
