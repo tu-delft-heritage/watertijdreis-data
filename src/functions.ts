@@ -140,7 +140,10 @@ export const writeAnnotations = async (
     Bun.file(outputFolder + "annotations-special.json"),
     JSON.stringify(
       generateAnnotation(
-        sortedMaps.filter((i: EnrichedGeoreferencedMap) => i._meta.type)
+        sortedMaps.filter(
+          (i: EnrichedGeoreferencedMap) =>
+            i._meta.type && i._meta.type !== "dup"
+        )
       ),
       null,
       2
