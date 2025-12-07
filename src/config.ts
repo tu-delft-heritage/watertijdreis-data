@@ -1,3 +1,5 @@
+import type { Metadata } from "./types";
+
 interface Vocabulary {
   [key: string]: string;
 }
@@ -186,3 +188,26 @@ export const baseMapping = [
   },
   { number: 62, name: "Heerlen" },
 ];
+
+interface Corrections {
+  [key: string]: Metadata;
+}
+
+export const manualCorrections: Corrections = {
+  // 35. Ahaus West
+  "f33303da7e3baae9-b": {
+    sheet: "35.W",
+    number: 35,
+    position: "W",
+    x: 0,
+    y: 0,
+  },
+  // 4. Vlieland West
+  "826ce93dc498e974-b": {
+    sheet: "4.W",
+    number: 4,
+    position: "W",
+    x: 0,
+    y: 0,
+  },
+};
