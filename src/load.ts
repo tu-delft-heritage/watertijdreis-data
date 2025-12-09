@@ -57,7 +57,7 @@ export async function initialiseData() {
   // Add canvases
   for (const canvas of manifests.map((i) => i.items).flat()) {
     const imageId = canvas.items?.[0]?.items?.[0]?.body?.service?.[0]?.id;
-    const manifestId = iiifBaseUrl + canvas.id.match(/1874-\d+/)?.[0];
+    const manifestId = canvas.id.match(/1874-\d+/)?.[0];
     const metadata = getMetadataFromCanvas(canvas);
     if (imageId) {
       const allmapsId = await generateId(imageId);
@@ -96,6 +96,10 @@ export async function initialiseData() {
   for (const sprite of sprites.flat()) {
     const allmapsId = sprite.allmapsId;
     const existingData = mapsById.get(allmapsId);
-    mapsById.set(allmapsId, { ...existingData, sprite });
+    if (!existingData?.sprite) {
+      mapsById.set(allmapsId, { ...existingData, sprite });
+    } else {
+      console.log("Duplicate image in sprite", allmapsId);
+    }
   }
 }

@@ -20,6 +20,7 @@ export type Metadata = {
 export type EnrichedGeoreferencedMap = GeoreferencedMap & {
   id: string;
   tiles?: ImageTile[];
+  sprite: Sprite;
   _meta?: Metadata;
 };
 

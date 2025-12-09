@@ -5,6 +5,7 @@ import {
   labels,
   sheetTypes,
   baseUrl,
+  iiifBaseUrl,
 } from "./config";
 
 import type { EnrichedGeoreferencedMap, MapsWithMeta } from "./types";
@@ -33,6 +34,12 @@ export function enrichMaps(item: MapsWithMeta, id: string) {
       } else {
         console.log("Could not find image information for", id);
       }
+      // Add sprite
+      if (sprite) {
+        annotation.sprite = sprite;
+      } else {
+        console.log("No sprite for", id);
+      }
       // Add partOf
       if (canvas) {
         annotation.resource.partOf = [
@@ -41,7 +48,7 @@ export function enrichMaps(item: MapsWithMeta, id: string) {
             type: "Canvas",
             partOf: [
               {
-                id: manifestId,
+                id: iiifBaseUrl + manifestId,
                 type: "Manifest",
               },
             ],
