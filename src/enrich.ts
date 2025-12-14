@@ -9,7 +9,7 @@ import {
 } from "./config";
 
 import type { EnrichedGeoreferencedMap, MapsWithMeta } from "./types";
-import type { Manifest, Range } from "@iiif/presentation-3";
+import type { Manifest, Canvas, Range } from "@iiif/presentation-3";
 
 export function enrichMaps(item: MapsWithMeta, id: string) {
   const {
@@ -36,7 +36,7 @@ export function enrichMaps(item: MapsWithMeta, id: string) {
       }
       // Add sprite
       if (sprite) {
-        annotation.sprite = sprite;
+        // annotation.sprite = sprite;
       } else {
         console.log("No sprite for", id);
       }
@@ -166,7 +166,15 @@ export function createRanges(mapsById: MapsWithMeta[]) {
   const rangesByManifest: Map<string, Range[]> = new Map();
   for (const [id, mapsWithMeta] of groupedByManifests) {
     const ranges = new Map();
-    for (const item of mapsWithMeta) {
+    const getCanvasIndex = (canvas: Canvas) => {
+      const index = canvas.id.match(/\/p(\d*)$/)?.[1];
+      return parseInt(index);
+    };
+    // Sort canvases based on their index (derived from ID)
+    const sortedMaps = mapsWithMeta.sort(
+      (a, b) => getCanvasIndex(a.canvas) - getCanvasIndex(b.canvas)
+    );
+    for (const item of sortedMaps) {
       const sheet = item.metadata?.sheet;
       const rangeExists = ranges.get(sheet);
       if (rangeExists) {
